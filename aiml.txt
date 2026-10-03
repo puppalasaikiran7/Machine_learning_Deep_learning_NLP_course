@@ -1,0 +1,17 @@
+creating the envi using anaconda in vscode 
+conda create -p environmentname python==3.14 ( for installing the environment so that we can stay updated with the library version ) 
+conda activate environmentname/
+
+creating the envi using python 
+python -m environmentname foldername ( creating the environment using python )
+environment\scripts\activate ( this is used to activate the python environment )
+
+
+pip install ipykernal ( this is used to run the ipynb( jupyter notebook )  file in the vscode ) 
+pip install -r requirement.txt ( write the library name in the .txt file and then execute this code it is efficient )
+pip install library ( this is not recomended but it is also one way of install library ) 
+
+
+
+
+jsonplaceholder.typicode.com  ( fake restapi used for testing ) 
