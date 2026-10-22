@@ -1,6 +1,7 @@
 creating the envi using anaconda in vscode 
 conda create -p environmentname python==3.14 ( for installing the environment so that we can stay updated with the library version ) 
 conda activate environmentname/
+Remove-Item -Recurse -Force .\environment_name ( delete the virtual environment ) 
 
 creating the envi using python 
 python -m environmentname foldername ( creating the environment using python )
