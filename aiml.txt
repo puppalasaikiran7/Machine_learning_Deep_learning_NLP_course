@@ -9,6 +9,7 @@ environment\scripts\activate ( this is used to activate the python environment )
 
 
 pip install ipykernal ( this is used to run the ipynb( jupyter notebook )  file in the vscode ) 
+pip show library_name ( works on almost all python library ) 
 pip install -r requirement.txt ( write the library name in the .txt file and then execute this code it is efficient )
 pip install library ( this is not recomended but it is also one way of install library ) 
 
