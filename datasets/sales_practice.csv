@@ -1,0 +1,2226 @@
+date,category,value,product,sales,region
+2023-03-29,Books,338.0,Biography,2.0,South
+2023-06-22,Grocery,552.0,Toor Dal,1.0, South 
+2025-04-16,Electronics,60988.0,Bluetooth Speaker,3.0,West
+2025-08-14,Home & Kitchen,9475.0,Mixer Grinder,1.0,East
+2024-10-31,Toys,3664.0,Doll,,North
+2023-05-08,Grocery,709.0,Basmati Rice,2.0,Central
+30/05/2023,Books,462.0,Textbook,,South
+2025-09-26,Sports,2120.0,Yoga Mat,2.0,Central
+2024-01-27,Toys,2363.0,Building Blocks,2.0,East
+2023-09-30,Books,1041.0,Comic,4.0,North
+2024-12-20,Books,541.0,Textbook,4.0,West
+2023-11-09,Sports,949.0,Badminton Racket,1.0,West
+2024-11-18,Grocery,159.0,Biscuits,6.0,South
+2023-03-03,Sports,1987.0,,3.0,North-East
+2025-08-16,Sports,4423.0,Football,,North
+2024-11-14,Home & Kitchen,9918.0,Mixer Grinder,5.0,North
+2024-03-05,Books,479.0,Textbook,3.0,North
+2024-05-25,Sports,816.0,Cycling Helmet,5.0,Central
+2024-12-31,Electronics,66500.0,Bluetooth Speaker,5.0,East
+2024-11-18,Grocery,694.0,Tea Powder,6.0,South
+2025-07-11,Apparel,2087.0,Sneakers,4.0,North
+2025-07-19,Toys,3244.0,Doll,1.0,North
+2024-12-27,Books,1337.0,Novel,2.0,West
+2025-04-24,Toys,399.0,RC Car,4.0,East
+2024-08-03,APPAREL,2571.0,Sneakers,5.0,West
+2023-06-01,Apparel,655.0,Jacket,4.0,South
+2025-04-08,Apparel,1011.0,Saree,5.0,East
+2023-11-25,Books,493.0,Textbook,1.0,East
+2023-10-24,Apparel,675.0,T-Shirt,3.0,North
+2023-06-17,Electronics,8459.0,Smartphone,2.0,East
+2024-12-11,Books,319.0,Biography,3.0,West
+2023-07-07,Sports,2263.0,Yoga Mat,1.0,West
+2023-08-10,Toys,1808.0,Board Game,2.0,West
+2024-03-08,Apparel,675.0,Jacket,5.0,North
+2023-06-29,Home & Kitchen,6288.0,Bedsheet,1.0,
+2023-04-30,Books,1172.0,Cookbook,5.0,North-East
+2024-01-13,Sports,,Badminton Racket,4.0,South
+2023-05-17,Grocery,684.0,Atta,2.0,North
+2025-08-28,Apparel,723.0,Jacket,4.0,North
+2023-09-04,Beauty,982.0,Perfume,3.0,West
+2025-06-13,Books,1144.0,Cookbook,3.0,West
+2025-04-10,Beauty,1629.0,Face Wash,4.0,North
+2025-08-22,Sports,4106.0,Cricket Bat,1.0,West
+2024-06-16,Apparel,3698.0,Kurta,3.0,North-East
+2024-09-01,Sports,791.0,Cycling Helmet,2.0,South
+2025-02-17,SPORTS,3654.0,Cricket Bat,3.0,Central
+2024-02-10,Sports,7243.0,Dumbbell Set,2.0,North
+2024-01-24,Sports,4469.0,Football,2.0,North
+2023-02-10,Sports,4286.0,Football,5.0,West
+2024-08-12,Sports,2186.0,Yoga Mat,4.0,West
+2023-11-28,Toys,1559.0,Puzzle,,South
+2023-01-11,Home & Kitchen,2708.0,Table Fan,,South
+2023-06-04,Beauty,1421.0,Sunscreen,3.0,North
+2024-01-01,Toys,2621.0,Building Blocks,2.0,South
+2023-02-06,Apparel,4297.0,Kurta,2.0,North
+2024-05-23,Sports,804.0,Cycling Helmet,3.0,North-East
+2025-08-10,Toys,2871.0,Action Figure,2.0,South
+2023-09-21,Toys,2554.0,Building Blocks,1.0,East
+2025-05-01,Beauty,990.0,Perfume,3.0,West
+2024-10-11,Sports,879.0,Badminton Racket,4.0,East
+2023-11-07,Toys,1770.0,Board Game,5.0,East
+2024-07-12,Beauty,1397.0,Sunscreen,7.0,North
+2025-05-21,Books,1340.0,Novel,3.0,West
+2023-05-10,HOME & KITCHEN,2695.0,Table Fan,1.0,East
+2023-02-24,Home & Kitchen,6164.0,Pressure Cooker,4.0,East
+2024-07-14,Grocery,607.0,Tea Powder,2.0,North-East
+2025-05-09,Electronics,68631.0,Laptop,7.0,East
+2025-05-22,Beauty,841.0,Lip Balm,4.0,North
+2024-01-03,Home & Kitchen,4233.0,Cookware Set,4.0,West
+2025-01-31,Sports,1095.0,Badminton Racket,2.0,South
+2024-12-15,Books,449.0,Textbook,2.0,Central
+2023-01-11,Electronics,70262.0,Laptop,3.0,South
+2024-06-11,Electronics,37595.0,Earbuds,3.0,South
+2023-12-31,Home & Kitchen,,Table Fan,3.0,South
+2024-07-06,Apparel,1043.0,Saree,7.0,West
+2024-10-17,Toys,2912.0,Action Figure,5.0,South
+2025-11-29,Toys,1506.0,Puzzle,1.0,West
+2025-10-23,Sports,4579.0,Football,3.0,North-East
+2025-09-05,Grocery,772.0,Atta,2.0,West
+2023-03-24,Beauty,1532.0,Face Wash,4.0,South
+2025-05-21,Books,511.0,Textbook,4.0,East
+2025-05-19,Electronics,40786.0,Smartwatch,3.0,North
+2025-10-31,Sports,5107.0,,4.0,North
+2025-08-23,Toys,1626.0,Board Game,3.0,West
+2025-01-08,Grocery,737.0,Atta,5.0,South
+2025-03-02,Toys,3874.0,Doll,2.0,Central
+2023-09-03,Grocery,756.0,Sunflower Oil,3.0,South
+2023-02-02,Toys,3416.0,Action Figure,,East
+2024-06-30,Sports,2164.0,Yoga Mat,4.0,East
+2025-10-24,Books,318.0,Biography,6.0,North
+2024-01-29,Books,1428.0,Self-Help,3.0,South
+2024-08-18,Home & Kitchen,6808.0,Bedsheet,2.0,South
+2024-10-28,Electronics,70951.0,Laptop,-2.0,East
+2023-04-19,Home & Kitchen,5677.0,Pressure Cooker,2.0,North
+2023-10-08,Grocery,510.0,Toor Dal,1.0,East
+2024-12-15,Apparel,3142.0,Jeans,1.0,South
+2025-03-19,Electronics,44745.0,Earbuds,1.0,West
+2024-03-08,Home & Kitchen,11168.0,Water Bottle,3.0,South
+2024-10-07,Apparel,2423.0,Sneakers,4.0,West
+2024-01-06,Electronics,65669.0,Laptop,3.0,West
+2024-02-24,Grocery,169.0,Biscuits,4.0,West
+2023-07-25,Home & Kitchen,4731.0,Cookware Set,3.0,South
+2024-10-04,Toys,1568.0,Board Game,1.0,North-East
+2023-08-01,Toys,1682.0,Board Game,1.0,North-East
+2023-01-27,Toys,483.0,RC Car,3.0,East
+2023-05-31,Books,1263.0,Cookbook,5.0,South
+2025-11-09,Books,,Biography,3.0,East
+2023-04-25,Sports,1009.0,Badminton Racket,5.0,West
+2024-09-23,Apparel,2159.0,Sneakers,2.0,South
+2024-09-28,Home & Kitchen,4248.0,Cookware Set,-2.0,
+2025-07-28,Sports,2260.0,Yoga Mat,,North
+2025-07-08,Toys,431.0,RC Car,2.0,South
+2025-02-28,Toys,1285.0,Puzzle,1.0,North
+2025-04-06,Grocery,679.0,Basmati Rice,3.0,South
+2024-09-10,Electronics,37403.0,,1.0,West
+2023-03-31,Books,1182.0,Cookbook,3.0,North
+2024-12-26,Electronics,39947.0,Smartwatch,3.0,West
+2025-06-13,Toys,1617.0,Board Game,7.0,East
+2023-01-18,Electronics,67359.0,Bluetooth Speaker,2.0,West
+2025-12-11,Electronics,10605.0,Smartphone,4.0,Central
+2025-07-06,Toys,3208.0,Doll,4.0, North 
+2023-05-16,Beauty,1167.0,Body Lotion,2.0,North
+2024-01-04,Grocery,801.0,Atta,8.0,North
+2024-01-15,Books,342.0,Biography,1.0,West
+2023-10-10,Apparel,711.0,,3.0,South
+2023-04-02,Beauty,1113.0,Body Lotion,1.0,West
+2024-10-16,Apparel,2959.0,Jeans,2.0,West
+2023-04-04,Sports,4886.0,Football,5.0,West
+2023-07-20,Beauty,746.0,Lip Balm,6.0,North-East
+2023-06-09,Grocery,709.0,Basmati Rice,2.0,North
+2023-05-16,Electronics,70287.0,Laptop,5.0,South
+2024-05-21,Home & Kitchen,4525.0,Cookware Set,1.0,North
+2025-03-23,BEAUTY,1080.0,Body Lotion,7.0,North
+2023-11-21,Grocery,592.0,Tea Powder,1.0,North
+2025-10-17,Sports,2061.0,Yoga Mat,2.0,West
+2023-10-20,Toys,1648.0,Board Game,-3.0,Central
+2024-08-09,Grocery,137.0,Biscuits,1.0,East
+2024-08-24,Sports,694.0,Cycling Helmet,2.0,West
+2023-05-07,Sports,1935.0,Yoga Mat,1.0,East
+2024-08-02,Grocery,650.0,Sunflower Oil,3.0,Central
+2024-11-21,Books,530.0,Textbook,2.0,West
+2024-12-15,Electronics,84532.0,Power Bank,4.0,North
+2024-08-30,Electronics,76153.0,Laptop,3.0,South
+2024-01-11,Apparel,4115.0,Kurta,3.0,South
+2025-02-22,Apparel,666.0,Jacket,5.0,North
+2025-08-20,Books,884.0,Comic,2.0,North
+2024-03-10,Electronics,64567.0,Laptop,3.0,West
+2024-04-04,Electronics,9982.0,Smartphone,5.0,North
+2023-08-07,Toys,1812.0,Board Game,5.0,West
+2024-11-01,Books,1384.0,Novel,5.0,South
+2025-10-17,Electronics,10201.0,Smartphone,6.0,North
+2025-10-28,Electronics,71185.0,Power Bank,2.0,South
+2023-11-10,Electronics,80329.0,Power Bank,4.0,South
+2023-01-11,Sports,3946.0,Cricket Bat,1.0,North
+2023-02-21,Toys,445.0,RC Car,3.0,East
+2025-02-25,Apparel,2612.0,Jeans,6.0,North
+2024-04-04,Beauty,756.0,Lip Balm,2.0,North
+2025-03-09,Toys,1450.0,Puzzle,1.0,East
+2023-11-20,Apparel,705.0,T-Shirt,3.0,North
+2024-08-07,Grocery,142.0,Biscuits,3.0,Central
+2025-04-07,Sports,3911.0,Cricket Bat,3.0,West
+2023-11-28,Toys,1421.0,Puzzle,2.0,North-East
+2025-07-14,Apparel,1007.0,Saree,7.0,North
+2024-12-31,Books,1450.0,Novel,6.0, North 
+2023-08-28,Toys,447.0,RC Car,1.0,South
+2024-03-18,Apparel,4108.0,Kurta,2.0,East
+2024-08-30,Electronics,68317.0,Laptop,3.0,Central
+2023-04-15,Sports,735.0,Cycling Helmet,3.0,South
+2024-12-15,Electronics,87782.0,Power Bank,4.0,North
+2024-01-17,Apparel,3779.0,Kurta,2.0,Central
+2024-02-17,Home & Kitchen,6405.0,Bedsheet,5.0,West
+2025-12-18,Sports,7497.0,Dumbbell Set,1.0,South
+2025-10-11,Sports,7222.0,Dumbbell Set,1.0,South
+2023-06-02,Toys,1371.0,Puzzle,2.0,South
+2025-03-03,Toys,1269.0,Puzzle,2.0,East
+2025-04-16,Apparel,978.0,Saree,1.0,North-East
+2023-09-17,Home & Kitchen,10119.0,Water Bottle,3.0,Central
+2023-06-12,Books,534.0,Textbook,3.0,North
+2024-07-16,Grocery,775.0,Atta,2.0,East
+2025-03-15,Beauty,783.0,Perfume,3.0,West
+2024-08-29,Beauty,,Body Lotion,1.0,North
+2023-02-27,Sports,769.0,Cycling Helmet,2.0,North
+2023-03-24,Apparel,701.0,Jacket,9.0,West
+2024-07-19,Apparel,2052.0,,1.0,West
+2025-01-24,Home & Kitchen,5866.0,Bedsheet,2.0,East
+2025-04-23,Toys,1787.0,Board Game,3.0,Central
+2023-03-30,Home & Kitchen,5307.0,Pressure Cooker,4.0,West
+2023-04-09,Grocery,758.0,Sunflower Oil,5.0,North
+2023-04-22,Sports,4818.0,Football,1.0,East
+2023-03-06,Electronics,37348.0,Earbuds,7.0,North
+2023-12-05,Beauty,1112.0,Body Lotion,1.0,East
+2024-05-06,Sports,8040.0,Dumbbell Set,2.0,North
+2023-10-13,Electronics,45688.0,Smartwatch,3.0,South
+2025-04-13,Electronics,39288.0,Smartwatch,5.0,North-East
+2024-02-12,Sports,1107.0,Badminton Racket,2.0,North
+2025-09-27,Home & Kitchen,10990.0,Water Bottle,5.0,West
+2024-01-06,Sports,768.0,Cycling Helmet,7.0,West
+2024-05-18,Toys,3541.0,Doll,4.0,North
+2025-08-07,BEAUTY,800.0,Perfume,2.0,South
+2023-06-11,Sports,4666.0,Football,5.0,South
+2023-03-08,Books,1178.0,Novel,4.0,North-East
+2024-09-25,Beauty,1540.0,Sunscreen,5.0,South
+2024-12-31,Sports,671.0,Cycling Helmet,, South 
+2024-01-06,Apparel,1018.0,Saree,2.0,North
+2024-04-09,Apparel,945.0,Saree,5.0,Central
+2024-08-28,Beauty,1643.0,Sunscreen,6.0,East
+2023-04-30,Sports,4471.0,Football,2.0,West
+2025-01-12,Books,1061.0,Comic,2.0,North
+2023-07-11,Apparel,649.0,Jacket,1.0,West
+2025-12-25,Grocery,654.0,Sunflower Oil,1.0,North-East
+2024-04-19,Sports,1842.0,Yoga Mat,2.0,North-East
+2025-08-20,Sports,811.0,Cycling Helmet,2.0,West
+2023-08-28,Home & Kitchen,,Mixer Grinder,3.0,West
+2023-02-01,Beauty,1043.0,Body Lotion,6.0,West
+2025-11-05,Electronics,39095.0,Earbuds,1.0,East
+2023-09-17,Sports,767.0,Cycling Helmet,2.0,South
+2024-10-13,Toys,3298.0,Doll,6.0,North
+2025-11-04,Grocery,677.0,Atta,1.0,North-East
+2025-11-16,Electronics,36572.0,Earbuds,2.0,North
+2025-06-26,Grocery,,Atta,2.0,East
+2023-06-18,Beauty,1499.0,Sunscreen,3.0,East
+2025-03-31,Electronics,63216.0,Laptop,4.0,Central
+2023-07-24,Toys,3884.0,Doll,5.0,East
+2024-08-29,Beauty,781.0,Lip Balm,3.0,West
+2023-08-20,Electronics,61842.0,Bluetooth Speaker,1.0,North
+2024-12-15,Sports,840.0,Cycling Helmet,2.0,West
+2024-09-07,Apparel,649.0,Jacket,1.0,East
+2023-06-29,Sports,886.0,Badminton Racket,6.0,North
+2023-08-09,Apparel,584.0,Jacket,4.0,North-East
+2024-03-23,Books,1270.0,Novel,2.0,North
+2023-03-07,Beauty,1146.0,Body Lotion,1.0,South
+2025-05-25,Toys,1336.0,Puzzle,4.0,West
+2024-01-07,Toys,1617.0,Board Game,4.0,East
+2023-06-03,Home & Kitchen,5012.0,Cookware Set,1.0,North
+2023-04-11,Books,900.0,Comic,4.0,West
+2023-12-24,Apparel,730.0,Jacket,2.0,South
+2024-08-07,Toys,2571.0,Building Blocks,,West
+2024-10-18,Books,356.0,Biography,4.0,South
+2024-08-08,Sports,895.0,Badminton Racket,7.0,North
+2025-01-28,Books,1372.0,Novel,4.0,South
+2023-12-27,Toys,3158.0,Doll,3.0,North
+2024-12-09,Apparel,4024.0,Kurta,1.0,South
+2024-04-27,Beauty,748.0,Lip Balm,1.0,Central
+2025-03-24,Grocery,140.0,Biscuits,-6.0,West
+2024-08-17,Grocery,512.0,Toor Dal,2.0,Central
+15/03/2024,Electronics,79426.0,Power Bank,4.0,North
+2025-03-04,Sports,3559.0,Cricket Bat,2.0,West
+2025-11-12,Toys,2320.0,Building Blocks,4.0,Central
+2024-06-27,Books,310.0,Biography,2.0,West
+2023-04-03,Toys,1383.0,Puzzle,5.0,North
+2024-07-30,Home & Kitchen,11352.0,Mixer Grinder,3.0,West
+2023-10-13,Sports,4214.0,Cricket Bat,1.0,Central
+2023-10-30,Toys,1437.0,Puzzle,3.0,North
+2024-03-04,Grocery,614.0,Tea Powder,3.0,North
+2025-06-19,Apparel,1185.0,Saree,3.0,North
+2023-01-03,Beauty,1365.0,Face Wash,3.0,East
+2023-12-03,Grocery,,Sunflower Oil,1.0,North
+2023-03-09,Apparel,945.0,Saree,2.0,West
+2025-05-03,Apparel,600.0,T-Shirt,7.0,North
+2024-07-13,Toys,1553.0,Puzzle,2.0,North-East
+2024-06-09,Books,300.0,Biography,1.0,South
+2024-11-29,Beauty,874.0,Lip Balm,3.0,East
+2023-02-08,Home & Kitchen,2478.0,Table Fan,-2.0,West
+2025-09-30,Beauty,1324.0,Shampoo,3.0,East
+2025-08-03,Books,1421.0,Self-Help,1.0,South
+2023-06-19,Books,543.0,Textbook,1.0,Central
+2025-10-06,GROCERY,,Toor Dal,2.0,West
+2025-08-19,Apparel,2125.0,Sneakers,4.0,South
+2024-06-08,Electronics,43505.0,Earbuds,5.0,West
+2025-04-24,Sports,1030.0,Badminton Racket,3.0,East
+2025-04-23,Books,1241.0,Self-Help,2.0,West
+2023-06-03,Beauty,812.0,Lip Balm,2.0,South
+2023-11-21,Beauty,1297.0,Face Wash,2.0,South
+2025-02-12,Books,946.0,Comic,1.0,North-East
+2023-07-12,Beauty,1488.0,Sunscreen,4.0,West
+2023-05-12,Sports,4339.0,Football,6.0,West
+2023-03-11,Electronics,84696.0,Power Bank,4.0,West
+2023-02-27,Electronics,37657.0,Earbuds,3.0,West
+2024-08-16,Home & Kitchen,6033.0,Bedsheet,1.0,South
+2023-09-06,Electronics,9323.0,Smartphone,1.0,East
+2023-08-23,Sports,744.0,Cycling Helmet,2.0,North
+2023-06-15,Beauty,1160.0,Shampoo,2.0,South
+2024-05-29,Home & Kitchen,5360.0,,4.0,West
+2024-03-11,Sports,7047.0,Dumbbell Set,3.0,North
+2025-03-20,Sports,3537.0,Cricket Bat,2.0,North
+2023-04-12,Electronics,88411.0,Power Bank,3.0,North
+2023-08-17,Sports,4678.0,Football,6.0,North
+2024-02-03,Apparel,3275.0,Jeans,4.0,East
+2024-07-19,Beauty,,Lip Balm,5.0,North
+2025-03-13,Toys,3084.0,Doll,3.0,East
+2025-05-05,Toys,2415.0,Building Blocks,3.0,South
+2025-08-25,Toys,2839.0,Action Figure,5.0,North
+2025-11-15,Toys,475.0,RC Car,5.0,West
+2025-04-10,Beauty,873.0,Lip Balm,3.0,West
+2025-12-10,Books,1072.0,Comic,7.0,West
+2023-07-29,Toys,3112.0,Doll,1.0,East
+2025-07-08,Books,1028.0,Comic,3.0,North
+2024-12-06,Beauty,814.0,Lip Balm,5.0,East
+2023-04-15,Electronics,8820.0,Smartphone,3.0,North
+2024-11-13,Electronics,40397.0,Earbuds,,South
+2025-03-10,Apparel,3936.0,Kurta,5.0,South
+07/11/2024,Grocery,705.0,Tea Powder,3.0,South
+2024-10-14,Beauty,958.0,Perfume,2.0,North
+2024-11-29,Apparel,2480.0,Sneakers,1.0,South
+2024-03-16,Beauty,1180.0,Shampoo,5.0,North
+2025-11-01,Electronics,80215.0,Power Bank,2.0,East
+2024-12-07,Electronics,72757.0,Power Bank,3.0,West
+2024-11-24,Toys,3726.0,Doll,4.0,West
+2023-01-16,Books,301.0,Biography,-1.0,North
+2024-05-15,Electronics,42741.0,Earbuds,1.0,East
+2023-07-17,Home & Kitchen,10784.0,Water Bottle,1.0,East
+2025-12-08,Electronics,86332.0,Power Bank,,North
+2023-11-19,Home & Kitchen,,Pressure Cooker,4.0,East
+2025-12-30,Home & Kitchen,12691.0,Water Bottle,1.0,East
+2023-09-08,Books,931.0,Comic,3.0,North-East
+2023-03-08,Electronics,35855.0,Earbuds,2.0,West
+2025-06-12,Sports,779.0,Cycling Helmet,3.0,West
+2023-01-08,Electronics,37306.0,Earbuds,2.0,Central
+2023-06-16,Home & Kitchen,2393.0,Table Fan,6.0,West
+2025-03-16,Home & Kitchen,5085.0,Cookware Set,-2.0,South
+2025-07-17,Home & Kitchen,5280.0,Cookware Set,5.0,East
+29/04/2023,Sports,4804.0,Football,4.0,North-East
+2025-10-25,Sports,7615.0,Dumbbell Set,3.0,Central
+2025-04-17,Grocery,172.0,Biscuits,4.0,West
+28/08/2025,Electronics,43983.0,Earbuds,2.0,East
+2023-12-01,Apparel,2854.0,,-2.0,Central
+2025-06-30,Apparel,1017.0,Saree,4.0,Central
+2024-12-18,Toys,2334.0,Building Blocks,3.0,North
+2025-07-15,Toys,1414.0,Puzzle,1.0,West
+2025-06-11,Electronics,,Smartwatch,3.0,North
+2024-08-28,Sports,1037.0,Badminton Racket,1.0,West
+2024-08-26,Grocery,743.0,Basmati Rice,4.0,South
+2023-05-31,Apparel,2578.0,Sneakers,5.0,West
+2023-03-07,Sports,8038.0,Dumbbell Set,3.0,South
+2024-11-15,Grocery,784.0,Sunflower Oil,2.0,North
+2025-02-08,Home & Kitchen,11063.0,Mixer Grinder,7.0,East
+2023-07-16,Sports,3992.0,Cricket Bat,5.0,West
+2023-02-24,Books,1264.0,,1.0,North
+2023-12-08,Electronics,65905.0,Bluetooth Speaker,1.0,Central
+2024-03-31,Books,1319.0,Cookbook,6.0,Central
+2023-07-23,Home & Kitchen,,Pressure Cooker,3.0,South
+2024-01-28,Apparel,675.0,Jacket,,South
+2024-02-14,Home & Kitchen,12554.0,Water Bottle,4.0,South
+2024-03-23,Toys,3440.0,Action Figure,2.0,North
+2023-07-31,Beauty,1191.0,Body Lotion,9.0,West
+2025-07-12,Books,,Comic,1.0,
+2025-12-25,Apparel,1071.0,Saree,3.0,North-East
+2023-04-26,Sports,823.0,Cycling Helmet,7.0,North
+2025-03-01,Grocery,147.0,Biscuits,1.0,North
+2024-10-28,Beauty,983.0,Perfume,1.0,North
+2023-01-06,Toys,2539.0,Building Blocks,3.0,North
+2025-02-11,Apparel,2409.0,Sneakers,1.0,North
+2024-05-29,Apparel,703.0,T-Shirt,3.0,East
+2024-08-08,Books,445.0,Textbook,3.0,North
+2024-05-08,Sports,,Cycling Helmet,3.0,South
+2023-05-17,Beauty,960.0,,3.0, East 
+2024-10-06,Toys,2763.0,Building Blocks,2.0,Central
+2023-12-18,Books,1451.0,Novel,2.0,Central
+2023-12-03,Electronics,75273.0,Power Bank,1.0, East 
+2025-03-16,Toys,1530.0,Puzzle,2.0,North
+2025-12-13,Electronics,66668.0,Laptop,1.0,East
+2025-10-06,Home & Kitchen,4600.0,Cookware Set,4.0,
+2024-07-15,Grocery,138.0,Biscuits,5.0,East
+2023-12-09,Beauty,903.0,Lip Balm,3.0,South
+2023-06-25,Books,1436.0,Novel,3.0,North
+2024-04-16,Apparel,1023.0,Saree,2.0,South
+2025-06-18,Home & Kitchen,12086.0,Water Bottle,3.0,East
+2023-03-14,Home & Kitchen,6265.0,Pressure Cooker,1.0,South
+2023-03-24,Home & Kitchen,2459.0,Table Fan,1.0,South
+2024-11-22,Apparel,3945.0,Kurta,6.0,West
+2024-10-22,Electronics,42186.0,Smartwatch,1.0,Central
+2024-03-04,GROCERY,697.0,Atta,3.0,North
+2023-08-12,Apparel,2313.0,Sneakers,2.0,Central
+2023-05-30,Electronics,60607.0,Bluetooth Speaker,4.0,West
+2025-04-09,Books,1203.0,Self-Help,1.0,West
+2023-12-11,Beauty,846.0,Perfume,5.0,East
+2024-06-22,Beauty,874.0,Lip Balm,3.0,South
+2024-05-29,Books,509.0,Textbook,2.0,East
+27/04/2024,Books,1142.0,Cookbook,2.0,Central
+2024-04-08,Toys,404.0,RC Car,5.0, South 
+2025-05-07,Beauty,834.0,Lip Balm,3.0,North
+2023-07-14,Apparel,605.0,T-Shirt,1.0,North
+2024-07-17,Electronics,71739.0,Power Bank,3.0,East
+2025-08-26,Toys,1334.0,Puzzle,2.0,West
+02/01/2025,Grocery,792.0,Sunflower Oil,5.0,East
+2023-01-01,Apparel,2388.0,Sneakers,2.0,Central
+2025-06-03,Sports,3953.0,Cricket Bat,4.0,North
+2025-06-30,Sports,686.0,Cycling Helmet,2.0,East
+2023-01-03,Grocery,702.0,Atta,3.0,South
+2025-02-11,Toys,3609.0,Doll,5.0,East
+2023-03-06,HOME & KITCHEN,4594.0,Cookware Set,,East
+2025-06-19,ELECTRONICS,8641.0,Smartphone,2.0,West
+2025-02-09,Books,1007.0,Comic,2.0,East
+2025-08-06,Apparel,2075.0,Sneakers,4.0,South
+2023-02-08,Grocery,735.0,Basmati Rice,3.0,West
+2023-02-04,Sports,3767.0,Cricket Bat,2.0,South
+2025-07-31,Sports,3558.0,Cricket Bat,2.0,East
+2024-08-16,Apparel,621.0,T-Shirt,3.0,West
+2025-10-11,Sports,2086.0,Yoga Mat,2.0,South
+2025-10-27,Sports,984.0,Badminton Racket,4.0,South
+2025-05-22,Sports,947.0,Badminton Racket,1.0,South
+2024-06-25,Sports,691.0,Cycling Helmet,7.0,
+2024-10-13,Toys,2774.0,Building Blocks,6.0,Central
+2023-07-13,Books,908.0,Comic,3.0,South
+2024-08-29,Electronics,8944.0,Smartphone,5.0,East
+2025-07-30,Toys,466.0,RC Car,3.0,North-East
+2024-04-25,Apparel,,Jacket,5.0,North
+2025-05-22,Apparel,741.0,Jacket,3.0,West
+2025-01-08,Home & Kitchen,2461.0,Table Fan,3.0,
+2024-08-10,Books,320.0,Biography,7.0,North
+2024-06-18,Books,320.0,Biography,4.0,North
+2024-01-29,Apparel,1197.0,Saree,6.0,East
+2025-04-26,Sports,3936.0,Cricket Bat,3.0,West
+2023-05-13,Books,1111.0,Cookbook,3.0,North
+2023-04-20,Toys,3169.0,Action Figure,2.0,East
+2023-05-07,Beauty,1698.0,Sunscreen,2.0,North-East
+2024-09-20,Grocery,479.0,Toor Dal,4.0,Central
+2023-04-18,Sports,4198.0,Cricket Bat,1.0,North
+2024-12-10,Apparel,3140.0,Jeans,2.0,South
+2023-12-16,Electronics,65842.0,Laptop,4.0,West
+2025-12-17,Sports,3854.0,Cricket Bat,4.0,North-East
+2023-07-11,Grocery,160.0,Biscuits,3.0,Central
+2024-10-03,Apparel,594.0,Jacket,1.0,East
+2023-02-24,Electronics,72140.0,Laptop,3.0,East
+2025-09-08,Home & Kitchen,10763.0,Water Bottle,1.0,North-East
+2024-03-18,Books,1270.0,Cookbook,3.0,North
+2024-04-19,Apparel,1050.0,Saree,3.0,Central
+2024-10-22,Books,1311.0,Novel,2.0,South
+2023-12-13,Home & Kitchen,10371.0,Mixer Grinder,3.0,North
+2023-10-10,Beauty,1169.0,Shampoo,2.0,West
+2025-06-25,Electronics,40532.0,Smartwatch,8.0,West
+2024-03-08,Toys,1529.0,Puzzle,3.0,South
+2025-02-05,BOOKS,1207.0,Cookbook,5.0,West
+2024-01-19,Electronics,59540.0,Bluetooth Speaker,4.0,East
+2025-07-24,Toys,1320.0,Puzzle,1.0,West
+2023-03-19,Toys,2379.0,Building Blocks,2.0,North
+2025-03-20,Beauty,1658.0,Sunscreen,4.0,North
+2025-09-08,Books,451.0,Textbook,-1.0,South
+2023-12-16,Home & Kitchen,10993.0,Mixer Grinder,3.0,North
+2025-08-18,Electronics,9231.0,Smartphone,4.0,Central
+2025-03-05,Home & Kitchen,5925.0,Pressure Cooker,3.0,West
+2024-03-16,Toys,1755.0,Board Game,3.0,North
+2025-09-27,Toys,483.0,RC Car,5.0,Central
+2024-09-08,Toys,2862.0,Building Blocks,5.0,East
+2025-11-02,Toys,448.0,RC Car,4.0,South
+2024-07-23,Beauty,1642.0,Sunscreen,2.0,North
+2025-06-13,Home & Kitchen,2436.0,Table Fan,5.0,North
+2023-12-04,Electronics,67450.0,Bluetooth Speaker,2.0,South
+2024-04-18,Sports,1948.0,Yoga Mat,2.0,West
+2025-02-28,Electronics,9424.0,Smartphone,4.0,North
+2024-01-15,Beauty,1150.0,Shampoo,3.0,Central
+2024-12-26,BOOKS,1395.0,Novel,4.0,Central
+2024-06-27,Books,1070.0,Comic,2.0,West
+2025-10-17,Books,1200.0,Self-Help,1.0,East
+2025-06-25,Electronics,85237.0,Power Bank,4.0,South
+2025-10-24,Books,349.0,Biography,4.0,West
+2024-03-15,Grocery,473.0,Toor Dal,1.0,South
+2024-06-14,Home & Kitchen,10493.0,Water Bottle,1.0,
+2024-09-22,Apparel,,Sneakers,2.0,South
+2024-05-10,Electronics,84156.0,Power Bank,3.0,East
+2025-03-18,Toys,1540.0,Board Game,5.0,West
+2025-02-13,HOME & KITCHEN,2758.0,Table Fan,3.0,West
+2024-10-22,Apparel,1187.0,Saree,2.0,Central
+2024-03-13,Home & Kitchen,5146.0,Pressure Cooker,3.0,North
+2024-10-14,Toys,424.0,RC Car,1.0,North
+2023-07-26,Home & Kitchen,2342.0,Table Fan,1.0,North
+2025-10-27,Sports,1951.0,Yoga Mat,2.0,Central
+09/03/2025,Electronics,86790.0,Power Bank,4.0,North
+2025-10-07,Apparel,697.0,Jacket,5.0,South
+2024-01-11,Toys,2692.0,Building Blocks,7.0,North
+2025-12-21,Toys,3580.0,Action Figure,3.0,East
+2025-03-05,Sports,5168.0,Football,5.0,North
+2025-05-06,Sports,3561.0,Cricket Bat,2.0,South
+2023-02-02,Beauty,1171.0,Shampoo,6.0,
+2023-02-08,Books,1399.0,Self-Help,4.0,West
+2023-04-04,Toys,2704.0,Building Blocks,1.0,South
+2025-05-26,Books,940.0,Comic,5.0,East
+2024-02-12,Apparel,2159.0,Sneakers,1.0,West
+2023-02-24,Books,1264.0,,1.0,North
+2023-12-17,Toys,2809.0,Building Blocks,2.0,North-East
+2024-04-04,Books,1393.0,Novel,3.0,West
+2025-11-20,Home & Kitchen,,Mixer Grinder,3.0,West
+2024-05-03,Sports,702.0,Cycling Helmet,2.0,North
+2024-03-12,Toys,2626.0,Building Blocks,3.0,South
+2025-09-05,Sports,,Cycling Helmet,4.0,North
+2023-02-07,Sports,4807.0,Football,1.0,North
+2024-06-07,Toys,437.0,RC Car,4.0,North
+2024-08-31,Apparel,3691.0,Kurta,4.0,South
+2023-07-21,Electronics,74798.0,Power Bank,,East
+2024-10-31,Books,1250.0,Novel,2.0,West
+2025-07-17,Apparel,691.0,T-Shirt,4.0,North
+2024-12-13,Books,1302.0,Self-Help,3.0,South
+2023-07-17,Sports,838.0,Cycling Helmet,2.0,
+2023-05-28,Apparel,592.0,Jacket,5.0,East
+2023-06-07,Toys,1795.0,Board Game,2.0,West
+2025-05-05,Electronics,10283.0,Smartphone,1.0,South
+2024-04-16,Grocery,647.0,Atta,2.0,North
+2023-10-29,Beauty,877.0,Perfume,3.0,West
+2025-04-17,Grocery,166.0,Biscuits,5.0,North
+2023-01-29,Grocery,761.0,Sunflower Oil,3.0,North
+2023-05-07,Home & Kitchen,5788.0,Pressure Cooker,5.0,West
+2024-03-01,Home & Kitchen,5254.0,Cookware Set,5.0,Central
+2024-01-18,Grocery,663.0,Basmati Rice,2.0,North-East
+2024-04-13,Books,1140.0,Cookbook,4.0,Central
+2023-04-28,Electronics,55404.0,Bluetooth Speaker,5.0,Central
+2024-08-14,Apparel,966.0,Saree,2.0,Central
+2023-07-14,Grocery,648.0,Tea Powder,4.0,South
+2024-08-17,Apparel,658.0,,4.0,South
+2023-06-11,Beauty,1683.0,Sunscreen,,North-East
+2024-05-10,Grocery,142.0,Biscuits,3.0,North
+2025-04-03,Electronics,40573.0,Smartwatch,4.0,Central
+2024-07-23,Toys,3374.0,Action Figure,7.0,South
+2025-12-17,Grocery,148.0,Biscuits,5.0,East
+2024-08-31,Home & Kitchen,2561.0,Table Fan,2.0,West
+2025-04-02,Beauty,1723.0,Sunscreen,1.0,West
+2024-10-11,Apparel,2562.0,Sneakers,2.0,South
+2023-02-13,Toys,485.0,RC Car,1.0,West
+2023-05-13,Grocery,481.0,Toor Dal,5.0,South
+2024-03-03,Toys,1479.0,Puzzle,5.0,South
+2023-06-28,Toys,1533.0,Puzzle,3.0,West
+2023-08-12,Grocery,655.0,Sunflower Oil,4.0,South
+2024-07-15,Beauty,1023.0,Body Lotion,2.0,West
+2024-09-05,Toys,2701.0,Building Blocks,1.0,South
+2024-09-30,Apparel,3785.0,Kurta,6.0,East
+2023-05-19,Sports,3960.0,Cricket Bat,4.0,North
+2025-07-16,Apparel,686.0,T-Shirt,2.0,North
+2024-11-13,Apparel,665.0,Jacket,3.0,South
+2024-03-27,Sports,906.0,Badminton Racket,4.0,South
+2023-11-24,Toys,1848.0,Board Game,5.0,North
+2024-02-17,Grocery,149.0,Biscuits,8.0,Central
+2023-11-26,Toys,425.0,RC Car,3.0,South
+2023-08-26,Home & Kitchen,7019.0,Bedsheet,3.0,North
+2024-03-07,Grocery,591.0,Tea Powder,4.0,
+2025-11-11,Sports,3586.0,Cricket Bat,3.0,North
+2025-08-04,Home & Kitchen,11456.0,Mixer Grinder,1.0,South
+2023-08-02,Beauty,791.0,,1.0,North
+2023-09-26,Electronics,44046.0,Earbuds,2.0,North
+2023-02-03,Apparel,,,1.0,South
+2023-03-07,Electronics,9716.0,Smartphone,2.0,South
+2024-04-06,Apparel,2566.0,Sneakers,2.0,West
+2023-10-29,Electronics,37683.0,Smartwatch,2.0,South
+2024-11-24,Books,1402.0,Novel,2.0,South
+2024-06-29,Sports,7138.0,Dumbbell Set,3.0,North-East
+2025-10-06,Home & Kitchen,10846.0,Mixer Grinder,6.0,South
+2025-10-07,Beauty,814.0,Perfume,2.0,South
+2024-12-13,Grocery,706.0,Sunflower Oil,3.0,North-East
+2025-05-10,Toys,1525.0,Board Game,5.0,West
+2023-05-09,Sports,,Football,-4.0,South
+2023-11-24,Books,1063.0,Comic,-1.0,North
+2025-08-13,Apparel,663.0,T-Shirt,2.0,Central
+2024-07-04,Apparel,3080.0,Jeans,4.0,East
+2024-07-09,Toys,1652.0,Board Game,3.0,South
+2024-05-05,Beauty,759.0,Lip Balm,4.0,North
+2025-11-30,Sports,1880.0,Yoga Mat,1.0,South
+2025-06-06,Toys,3773.0,Doll,2.0,North
+2025-02-13,Books,1237.0,Cookbook,2.0,West
+2024-08-02,Home & Kitchen,5774.0,Pressure Cooker,2.0,North
+2023-04-18,Beauty,833.0,Perfume,4.0,West
+2023-06-26,Electronics,38588.0,Earbuds,3.0,South
+2023-07-13,Toys,3270.0,Doll,4.0,South
+2023-05-17,Beauty,911.0,Perfume,3.0,West
+2023-06-03,Grocery,642.0,Sunflower Oil,6.0,Central
+2024-11-21,Books,1117.0,Cookbook,4.0,South
+2023-02-16,Sports,4620.0,Football,, East 
+2023-11-11,Apparel,680.0,Jacket,3.0,North
+2024-08-30,Grocery,759.0,Sunflower Oil,2.0,South
+2023-04-17,Toys,471.0,RC Car,3.0,West
+2023-11-15,Books,,Novel,1.0,West
+2025-07-17,Home & Kitchen,11507.0,Mixer Grinder,4.0,North-East
+2025-07-13,Sports,679.0,Cycling Helmet,2.0,South
+2023-07-07,Books,1278.0,Self-Help,5.0,North
+2025-05-25,Beauty,1553.0,Sunscreen,3.0,North
+2023-07-14,Electronics,36076.0,Earbuds,3.0,East
+2025-03-10,Sports,699.0,Cycling Helmet,4.0,Central
+2023-07-01,HOME & KITCHEN,4257.0,Cookware Set,1.0,East
+2023-10-28,Grocery,654.0,Sunflower Oil,1.0,North-East
+2023-03-23,Beauty,1038.0,Body Lotion,4.0,West
+2024-01-19,Electronics,42065.0,Earbuds,3.0,East
+2025-06-10,Home & Kitchen,11169.0,Water Bottle,,North
+2025-05-29,Home & Kitchen,11664.0,Water Bottle,1.0,North
+2024-06-03,Apparel,3948.0,Kurta,1.0,West
+2023-09-15,Beauty,1577.0,Sunscreen,4.0,North
+2024-08-25,Grocery,457.0,Toor Dal,3.0,West
+2023-02-06,Sports,4915.0,Football,2.0,North
+2024-09-13,Books,,Comic,1.0,North
+2023-01-26,Beauty,832.0,Lip Balm,4.0,North-East
+2023-06-12,Apparel,692.0,,4.0,South
+2025-07-06,Grocery,657.0,Sunflower Oil,2.0,South
+2025-01-12,Books,1407.0,Self-Help,1.0,
+2025-11-24,Toys,2340.0,Building Blocks,2.0,East
+2023-09-12,Toys,1585.0,Board Game,5.0, West 
+2023-06-16,Books,1234.0,Novel,1.0,South
+2023-11-15,Apparel,663.0,T-Shirt,3.0,South
+2025-04-19,Books,1381.0,Self-Help,2.0,West
+2023-04-13,Toys,2761.0,Building Blocks,1.0,East
+2025-09-03,Toys,1521.0,Puzzle,1.0,South
+2024-01-09,Beauty,883.0,Perfume,3.0,West
+2024-08-10,Beauty,1324.0,Shampoo,5.0,North-East
+2024-02-14,Sports,1833.0,Yoga Mat,5.0,East
+2025-11-20,Apparel,593.0,T-Shirt,3.0,North
+2025-06-26,Beauty,800.0,Perfume,2.0,South
+2025-09-16,Home & Kitchen,2306.0,Table Fan,3.0,North
+2023-06-21,Apparel,2212.0,Sneakers,3.0,South
+2025-07-24,Sports,2148.0,Yoga Mat,2.0,North
+2025-01-07,Toys,424.0,RC Car,1.0,South
+2023-11-28,Toys,3425.0,Doll,3.0,West
+2023-08-26,Electronics,87337.0,Power Bank,5.0,South
+2025-05-23,Sports,7278.0,Dumbbell Set,1.0,East
+2025-12-03,Books,1423.0,Self-Help,2.0,West
+2025-03-27,Apparel,,Sneakers,3.0,East
+2025-09-03,Toys,449.0,RC Car,3.0,North
+2025-04-14,Electronics,87088.0,,5.0,North
+2024-07-20,Grocery,817.0,Atta,4.0,South
+2025-10-19,Books,1195.0,Novel,4.0,Central
+2023-06-03,Grocery,762.0,Sunflower Oil,2.0,South
+2025-07-23,Home & Kitchen,4530.0,Cookware Set,3.0,North
+2024-07-05,Beauty,1322.0,Shampoo,5.0,North
+2025-10-24,Beauty,1136.0,Shampoo,5.0,North
+2025-12-07,Toys,3172.0,Action Figure,2.0,West
+2024-09-09,Grocery,630.0,Tea Powder,1.0,South
+2023-10-01,Toys,1313.0,Puzzle,3.0,North
+2023-11-28,Grocery,462.0,Toor Dal,4.0,East
+2024-12-29,Toys,3488.0,Doll,4.0,North
+2023-11-13,Sports,781.0,Cycling Helmet,4.0,West
+2024-11-11,Beauty,1714.0,Sunscreen,7.0,South
+2023-10-27,Electronics,8828.0,Smartphone,-2.0,North
+2024-09-10,Home & Kitchen,10633.0,Water Bottle,4.0,West
+2024-02-03,Books,1209.0,Self-Help,3.0,West
+2025-01-07,Electronics,8543.0,Smartphone,1.0, East 
+2023-01-16,Beauty,1597.0,Face Wash,2.0,West
+2024-06-20,Beauty,1383.0,Sunscreen,1.0,North
+2024-07-11,Beauty,930.0,Perfume,1.0,East
+2024-02-10,Toys,1623.0,Board Game,2.0,South
+2024-01-13,Sports,4629.0,Football,2.0,South
+2025-10-12,Apparel,1097.0,Saree,2.0,South
+2023-08-19,Toys,,Action Figure,3.0,West
+2024-11-29,Toys,3784.0,Doll,2.0,South
+2024-03-28,APPAREL,639.0,Jacket,4.0,South
+2024-07-24,Toys,1398.0,Puzzle,2.0,West
+2024-12-19,Apparel,1097.0,Saree,3.0,South
+2025-11-29,Apparel,647.0,T-Shirt,1.0,South
+2023-03-19,Grocery,,Toor Dal,5.0,
+2024-04-07,Home & Kitchen,6579.0,Bedsheet,4.0,North
+2024-07-08,Grocery,,Basmati Rice,3.0,North
+2025-01-06,Toys,3499.0,Action Figure,3.0,South
+2024-04-09,Home & Kitchen,5497.0,Pressure Cooker,3.0,North-East
+2023-02-03,Home & Kitchen,,Bedsheet,4.0,South
+2024-10-02,Electronics,37333.0,Smartwatch,7.0,West
+2023-02-03,Sports,1040.0,Badminton Racket,,West
+2025-08-03,Beauty,844.0,Lip Balm,2.0,Central
+2024-05-20,Home & Kitchen,5765.0,Pressure Cooker,1.0,South
+2024-04-30,Sports,1039.0,Badminton Racket,3.0,North
+2025-01-22,Grocery,796.0,Atta,-1.0,South
+2023-11-24,Beauty,1125.0,Shampoo,1.0,West
+2023-06-21,Apparel,2427.0,Sneakers,6.0,North
+2024-12-07,Grocery,641.0,Tea Powder,4.0,West
+2024-07-24,Toys,1264.0,Puzzle,3.0,West
+2023-09-07,Books,1354.0,Self-Help,1.0,East
+2024-07-31,Books,1079.0,Cookbook,5.0,East
+2025-04-13,Grocery,620.0,Tea Powder,4.0,North
+2025-05-18,Apparel,2398.0,Sneakers,1.0,North
+2023-06-30,Home & Kitchen,5272.0,Cookware Set,5.0, South 
+04/11/2024,Home & Kitchen,4483.0,Cookware Set,3.0,South
+2025-03-14,Grocery,733.0,Sunflower Oil,2.0,South
+2023-08-15,Toys,2521.0,Building Blocks,1.0, East 
+12/02/2023,Toys,3128.0,Action Figure,1.0, East 
+2025-08-22,Apparel,636.0,T-Shirt,3.0,South
+2023-05-29,Home & Kitchen,4352.0,Cookware Set,2.0,South
+2025-03-06,Grocery,693.0,Tea Powder,2.0,South
+2023-03-31,Beauty,973.0,Body Lotion,4.0,West
+2024-02-05,Sports,927.0,Badminton Racket,3.0,North
+2024-01-19,Home & Kitchen,5841.0,Bedsheet,2.0,East
+2025-07-05,Beauty,1033.0,Body Lotion,5.0,West
+2023-08-12,Home & Kitchen,10975.0,Mixer Grinder,4.0,South
+2023-07-25,Toys,3122.0,,4.0,North
+2024-12-24,Home & Kitchen,2369.0,Table Fan,2.0,East
+2024-05-30,Toys,1398.0,Puzzle,7.0,South
+2025-05-21,GROCERY,157.0,Biscuits,2.0,Central
+2025-10-24,Grocery,155.0,Biscuits,4.0,East
+2025-11-23,Toys,1710.0,Board Game,3.0,North
+08/12/2023,Grocery,601.0,Tea Powder,4.0,North-East
+2025-03-15,Apparel,,Kurta,3.0,West
+2025-11-20,Beauty,791.0,Lip Balm,5.0,East
+2024-04-16,Sports,3904.0,Cricket Bat,4.0,East
+2024-04-22,Apparel,649.0,T-Shirt,1.0,Central
+2025-10-23,Toys,2682.0,Building Blocks,4.0,South
+2024-10-09,Sports,1107.0,Badminton Racket,2.0,
+2025-08-31,Electronics,75443.0,Laptop,2.0,South
+2023-04-19,Home & Kitchen,2722.0,Table Fan,3.0,West
+2024-04-17,Books,993.0,Comic,2.0,South
+2025-03-06,Apparel,4131.0,Kurta,2.0,South
+2024-12-14,Books,885.0,Comic,4.0,South
+2023-09-21,Toys,,Doll,1.0,East
+2025-03-10,Electronics,36829.0,,5.0,Central
+2024-11-05,Books,1312.0,Cookbook,5.0,South
+2024-02-01,Grocery,682.0,Sunflower Oil,-3.0,East
+2024-06-22,Sports,3821.0,Cricket Bat,4.0,West
+2023-11-08,HOME & KITCHEN,5902.0,Bedsheet,-4.0,East
+2025-07-03,Books,1243.0,Cookbook,1.0, West 
+2023-04-01,Books,1308.0,Cookbook,2.0,North
+2023-04-09,Beauty,1586.0,Face Wash,2.0,
+2024-10-12,Books,1469.0,Novel,5.0,South
+2024-03-28,Apparel,948.0,Saree,3.0,South
+2023-04-10,Grocery,511.0,Toor Dal,1.0,North
+2024-05-13,Beauty,1213.0,Shampoo,1.0,North
+2025-10-15,Apparel,690.0,Jacket,5.0,Central
+2024-01-12,Electronics,73784.0,Laptop,3.0,West
+2025-05-31,Grocery,493.0,Toor Dal,2.0,North
+2025-03-23,Toys,3893.0,Doll,6.0,West
+2025-11-14,Beauty,1184.0,Shampoo,2.0,North
+2024-12-15,Toys,2862.0,Action Figure,6.0,South
+2023-06-03,Grocery,158.0,Biscuits,4.0,South
+2023-01-16,Sports,5078.0,Football,3.0,West
+2024-09-27,Grocery,665.0,Tea Powder,1.0,South
+2025-06-16,ELECTRONICS,37082.0,Earbuds,1.0,West
+22/10/2025,Toys,457.0,RC Car,3.0,West
+2024-04-08,Beauty,1075.0,Body Lotion,5.0,West
+2024-10-13,Apparel,4483.0,Kurta,1.0,West
+2025-10-30,Apparel,2371.0,Sneakers,3.0,West
+2023-01-27,Toys,1834.0,Board Game,3.0,East
+2024-03-11,Grocery,692.0,Sunflower Oil,1.0,North
+2025-11-12,Apparel,4003.0,Kurta,-5.0,Central
+2024-06-15,Toys,417.0,RC Car,3.0,West
+2025-04-15,Grocery,709.0,Basmati Rice,4.0,West
+2023-05-11,Toys,401.0,RC Car,3.0,Central
+2023-07-25,Sports,7169.0,Dumbbell Set,5.0,North
+2024-01-29,Electronics,62451.0,Bluetooth Speaker,6.0,West
+2024-07-17,Grocery,665.0,Sunflower Oil,3.0,North
+2025-12-22,Apparel,693.0,Jacket,4.0,West
+2024-12-12,Electronics,,Smartwatch,3.0,South
+2025-07-26,Sports,746.0,Cycling Helmet,4.0,East
+2023-04-03,Books,1096.0,Comic,4.0,South
+2025-05-27,Sports,7679.0,Dumbbell Set,2.0,West
+2025-08-14,Sports,3636.0,Cricket Bat,3.0,West
+2025-11-26,Toys,450.0,RC Car,1.0,North
+2024-10-31,Electronics,36997.0,Earbuds,1.0,
+2023-07-05,Beauty,872.0,Perfume,3.0,West
+2025-06-28,Books,1401.0,Self-Help,3.0,West
+2025-09-08,Apparel,3076.0,Jeans,2.0,West
+2023-01-05,Electronics,9931.0,Smartphone,4.0,North
+2023-01-10,Electronics,68299.0,Laptop,4.0,West
+2023-08-14,Grocery,710.0,Sunflower Oil,5.0,North-East
+2024-06-01,Beauty,1552.0,Sunscreen,2.0,South
+2025-09-07,Sports,,Dumbbell Set,7.0,North
+2023-04-06,Electronics,66239.0,Laptop,1.0,West
+2023-06-14,Sports,2262.0,Yoga Mat,1.0,East
+2024-11-28,Books,921.0,Comic,5.0,South
+2024-02-15,Books,1061.0,Comic,3.0,South
+2024-07-19,Books,,Novel,4.0,East
+2024-01-17,Beauty,1000.0,Body Lotion,5.0,West
+2023-02-18,Beauty,1410.0,Face Wash,2.0,West
+2024-01-22,Home & Kitchen,10764.0,Mixer Grinder,2.0,South
+2023-01-04,Toys,1561.0,Puzzle,5.0,South
+2023-11-18,Books,1249.0,Cookbook,-5.0,West
+2023-04-21,Apparel,2882.0,Jeans,2.0,North
+2024-01-27,Electronics,44276.0,Smartwatch,7.0,West
+2023-08-17,Electronics,59377.0,Bluetooth Speaker,2.0,Central
+2023-10-21,Books,1189.0,Novel,5.0,Central
+2023-02-12,Electronics,38483.0,Earbuds,1.0,East
+2023-07-16,Books,1433.0,Self-Help,4.0,North
+2024-01-27,Apparel,1167.0,Saree,4.0,West
+2025-11-15,Sports,,Football,4.0,South
+2025-02-04,Beauty,1123.0,Body Lotion,3.0,North
+2025-10-06,Sports,4461.0,Football,5.0,North
+2023-04-13,Beauty,1375.0,Sunscreen,2.0,Central
+2024-08-12,Grocery,523.0,Toor Dal,2.0,East
+2023-01-15,Electronics,78902.0,Laptop,4.0,West
+2023-01-29,Books,325.0,Biography,4.0,South
+2023-01-07,Grocery,647.0,Tea Powder,2.0,West
+2023-03-07,Apparel,611.0,Jacket,4.0,South
+2025-01-26,Home & Kitchen,4365.0,Cookware Set,-3.0,South
+2025-03-10,Sports,778.0,Cycling Helmet,3.0,West
+2023-02-11,Grocery,653.0,Atta,,North
+2023-04-13,Electronics,37609.0,Earbuds,1.0,North
+2024-05-04,Beauty,1094.0,Body Lotion,1.0,South
+2024-04-08,Home & Kitchen,4653.0,Cookware Set,3.0,West
+2025-05-06,Books,338.0,Biography,2.0,North-East
+2023-04-25,Apparel,2233.0,Sneakers,3.0,South
+2025-04-18,Sports,3882.0,Cricket Bat,5.0,West
+2024-05-05,Sports,971.0,Badminton Racket,2.0,Central
+2023-11-24,Apparel,744.0,Jacket,4.0,Central
+2024-06-24,Apparel,644.0,T-Shirt,3.0,South
+2025-04-11,Home & Kitchen,7028.0,Bedsheet,2.0,Central
+2023-07-24,Home & Kitchen,10804.0,Mixer Grinder,5.0,North
+2024-12-14,Beauty,1160.0,Shampoo,2.0,North
+2025-03-25,Apparel,4484.0,Kurta,,North
+2024-09-23,Sports,1072.0,Badminton Racket,4.0,North
+2024-08-15,SPORTS,836.0,Cycling Helmet,5.0,West
+2024-12-29,Toys,3477.0,Doll,2.0,North
+2024-01-14,Toys,1653.0,Board Game,1.0,North
+2024-10-27,Sports,715.0,Cycling Helmet,2.0,Central
+2025-10-23,Electronics,39042.0,Earbuds,3.0,Central
+2025-04-12,Sports,4263.0,Football,1.0,East
+2024-03-22,Electronics,9434.0,Smartphone,6.0,West
+2025-08-05,Books,1391.0,Self-Help,2.0,South
+2023-10-28,Home & Kitchen,11651.0,Water Bottle,4.0,East
+2025-04-17,Toys,1658.0,Board Game,4.0,North
+2023-08-28,Grocery,655.0,Atta,2.0,North
+2025-05-18,Books,324.0,Biography,3.0,Central
+2025-02-19,Books,1196.0,Cookbook,4.0,East
+2023-02-07,Home & Kitchen,9216.0,Mixer Grinder,5.0,East
+2025-01-13,Electronics,40330.0,Earbuds,6.0,North
+2025-11-16,Grocery,748.0,Atta,5.0,Central
+2023-12-07,Beauty,977.0,Body Lotion,1.0,South
+2023-09-24,Apparel,,Jacket,1.0,North
+2025-10-03,Toys,1870.0,Board Game,2.0,South
+2023-08-21,Apparel,1071.0,Saree,2.0,Central
+2025-09-08,Beauty,,Body Lotion,2.0,North
+2025-01-11,Home & Kitchen,5976.0,Pressure Cooker,2.0,North
+2025-06-04,ELECTRONICS,86813.0,Power Bank,1.0,Central
+2023-04-22,Home & Kitchen,9613.0,Mixer Grinder,3.0,North
+2024-12-07,Sports,777.0,Cycling Helmet,3.0,North
+2024-01-21,Grocery,681.0,Sunflower Oil,2.0,North
+2025-10-31,Sports,4496.0,Football,6.0,South
+2025-12-16,Sports,7506.0,Dumbbell Set,4.0,West
+2024-01-08,Grocery,642.0,Sunflower Oil,5.0,North
+2023-10-09,Home & Kitchen,5527.0,Pressure Cooker,1.0,South
+2025-03-16,Beauty,1374.0,Shampoo,-1.0,West
+2025-09-08,Grocery,702.0,Sunflower Oil,2.0,North
+2024-01-30,Apparel,3789.0,Kurta,4.0,East
+2024-08-26,Sports,,Cycling Helmet,, Central 
+2024-10-11,Apparel,2145.0,Sneakers,4.0,West
+2025-10-07,Grocery,144.0,Biscuits,10.0,North
+28/08/2024,Beauty,1613.0,Sunscreen,2.0,West
+2024-05-12,Apparel,2665.0,Jeans,2.0,
+2024-11-13,Grocery,755.0,Tea Powder,6.0,South
+2024-08-23,Electronics,63675.0,Bluetooth Speaker,3.0,Central
+2024-02-04,Apparel,4141.0,Kurta,5.0,North-East
+2023-02-07,Grocery,700.0,Tea Powder,1.0,West
+2023-03-24,Electronics,38554.0,Earbuds,3.0,West
+2025-06-28,Grocery,150.0,Biscuits,4.0,West
+2024-01-18,Electronics,58401.0,Bluetooth Speaker,2.0,North
+2024-11-18,Apparel,725.0,Jacket,1.0, North 
+2025-12-15,Beauty,1292.0,Shampoo,1.0,West
+2025-07-30,Apparel,4161.0,Kurta,1.0,North
+2025-07-06,Grocery,669.0,Atta,2.0,West
+2024-03-21,Grocery,743.0,Atta,5.0,North
+2025-08-20,Sports,1985.0,Yoga Mat,3.0,East
+2024-05-13,Beauty,1173.0,Body Lotion,2.0,West
+2025-09-12,Books,324.0,Biography,3.0,South
+2023-06-10,Sports,5051.0,Football,1.0, South 
+2023-04-19,Electronics,38028.0,Smartwatch,6.0,South
+2023-06-06,Books,303.0,Biography,2.0,Central
+2023-11-22,Home & Kitchen,5233.0,Cookware Set,3.0,North
+2025-05-24,Books,1011.0,Comic,3.0,Central
+2025-09-23,Books,555.0,Textbook,3.0,Central
+2024-11-01,Home & Kitchen,10715.0,Water Bottle,3.0,East
+2024-04-16,Grocery,478.0,Toor Dal,5.0,North
+2025-02-03,Sports,1082.0,Badminton Racket,4.0,
+2025-09-02,Home & Kitchen,6284.0,Pressure Cooker,6.0,North
+2024-05-23,Grocery,820.0,Atta,8.0,South
+2024-06-26,Grocery,648.0,Atta,1.0,North
+2024-07-04,Electronics,36810.0,Earbuds,3.0,South
+2025-11-16,GROCERY,519.0,Toor Dal,3.0,West
+2023-07-01,Apparel,3249.0,Jeans,4.0,South
+2025-03-24,Home & Kitchen,2597.0,Table Fan,6.0,North
+2025-04-13,Grocery,740.0,Tea Powder,3.0,South
+2025-11-25,Apparel,2350.0,Sneakers,4.0,West
+2023-09-10,Sports,3728.0,Cricket Bat,3.0,South
+2025-02-24,Grocery,150.0,Biscuits,2.0,North
+09/07/2024,Electronics,44362.0,Smartwatch,5.0,West
+2025-05-08,Beauty,1506.0,Face Wash,3.0,West
+2023-01-18,Apparel,2674.0,Jeans,7.0,North-East
+2023-04-10,Apparel,727.0,Jacket,2.0,West
+2023-03-19,Home & Kitchen,5413.0,Pressure Cooker,1.0,West
+2024-05-09,Electronics,72112.0,Power Bank,5.0,South
+2023-03-22,Apparel,4054.0,Kurta,2.0,South
+2025-02-21,Sports,2124.0,Yoga Mat,4.0,North
+2023-01-27,Sports,2262.0,Yoga Mat,4.0,North
+2024-03-11,ELECTRONICS,10004.0,Smartphone,2.0, East 
+2024-04-25,Toys,1701.0,Board Game,2.0,South
+2025-09-23,Grocery,641.0,Tea Powder,2.0,South
+2025-05-31,Sports,8114.0,Dumbbell Set,1.0,West
+2023-01-17,SPORTS,8013.0,Dumbbell Set,3.0,East
+2024-09-01,Apparel,677.0,Jacket,3.0,East
+2025-11-30,Sports,944.0,Badminton Racket,3.0,Central
+2025-03-26,Home & Kitchen,11361.0,Water Bottle,3.0,North-East
+2023-01-27,Apparel,1196.0,Saree,1.0,Central
+2025-11-27,Grocery,685.0,Sunflower Oil,2.0,East
+2023-12-31,Apparel,556.0,T-Shirt,1.0,East
+2024-06-02,Apparel,4453.0,Kurta,7.0,South
+06/07/2023,Apparel,2455.0,Sneakers,5.0,West
+2025-01-18,Electronics,36741.0,Smartwatch,6.0,North
+2023-07-31,Toys,467.0,RC Car,5.0,East
+2023-02-14,Electronics,39838.0,Smartwatch,5.0,East
+2024-10-08,Home & Kitchen,4650.0,Cookware Set,3.0,South
+2024-07-29,Sports,743.0,Cycling Helmet,2.0,West
+2024-03-22,Grocery,530.0,Toor Dal,1.0,Central
+2023-07-26,Beauty,1358.0,Shampoo,6.0,North
+2025-10-15,Grocery,142.0,Biscuits,3.0,West
+2025-02-15,Beauty,1356.0,Sunscreen,1.0,West
+2024-02-14,Apparel,2920.0,Jeans,1.0,East
+2024-01-01,Grocery,475.0,Toor Dal,4.0,South
+2023-04-03,Home & Kitchen,5231.0,Pressure Cooker,3.0,North
+2023-09-16,Books,962.0,Comic,4.0,East
+2024-07-25,Apparel,4084.0,Kurta,3.0,East
+2024-01-17,Books,949.0,Comic,2.0,West
+2024-11-27,Beauty,,Shampoo,6.0,North-East
+2025-08-15,Sports,1068.0,Badminton Racket,1.0,North
+2024-07-10,Toys,3462.0,Action Figure,2.0,South
+2023-09-14,Toys,3344.0,Doll,4.0,North
+2025-03-28,Sports,719.0,Cycling Helmet,4.0,South
+2024-11-16,Beauty,1632.0,Sunscreen,-5.0,South
+2023-02-17,Beauty,1591.0,Face Wash,2.0, Central 
+2023-02-21,Apparel,2843.0,,2.0,South
+2023-02-12,Sports,3914.0,Cricket Bat,5.0,South
+2023-02-05,Home & Kitchen,6723.0,Bedsheet,3.0,South
+2024-11-21,Grocery,611.0,Basmati Rice,1.0,East
+2024-06-08,Books,1492.0,Novel,2.0,South
+2023-10-28,Grocery,143.0,Biscuits,3.0,South
+2023-05-08,Home & Kitchen,4350.0,Cookware Set,4.0,North
+2025-09-09,Toys,2493.0,Building Blocks,2.0,North
+2023-01-10,Books,1444.0,Novel,1.0,North
+2023-05-23,Electronics,78511.0,Laptop,4.0,South
+2023-11-05,Home & Kitchen,2271.0,Table Fan,4.0,West
+2023-04-24,Apparel,629.0,Jacket,,South
+2023-04-18,Toys,1675.0,Board Game,4.0,Central
+2025-07-08,SPORTS,788.0,Cycling Helmet,2.0,North
+2024-02-13,TOYS,407.0,RC Car,3.0,North
+2024-09-08,Beauty,1312.0,Shampoo,3.0,North
+2025-10-26,Grocery,766.0,Sunflower Oil,2.0,Central
+2024-09-25,Beauty,,Sunscreen,3.0,West
+2025-05-25,Beauty,818.0,Lip Balm,6.0,South
+2025-02-16,Books,975.0,Comic,,South
+2023-10-12,BEAUTY,1145.0,Shampoo,1.0,South
+2023-05-07,Beauty,840.0,Perfume,2.0,North-East
+2024-07-20,Grocery,698.0,Basmati Rice,1.0,
+2023-07-19,Electronics,81686.0,Power Bank,2.0,Central
+2023-07-18,Toys,1547.0,Board Game,6.0,North
+2025-09-26,Toys,412.0,RC Car,7.0,Central
+2024-03-24,Beauty,750.0,Lip Balm,,South
+2025-07-30,Toys,1624.0,Board Game,2.0,East
+2024-11-15,Grocery,673.0,Tea Powder,-1.0,North-East
+2023-01-17,Toys,1689.0,Board Game,5.0,West
+2024-02-01,Electronics,39040.0,Earbuds,1.0,North
+2025-06-14,Apparel,1161.0,Saree,1.0,North
+2024-08-30,Toys,1247.0,Puzzle,6.0,North
+2025-02-03,Apparel,4487.0,Kurta,2.0,West
+2025-06-27,Toys,3759.0,Doll,2.0,North
+2023-05-13,Electronics,80373.0,Laptop,-1.0,East
+2023-05-16,Toys,479.0,RC Car,2.0,North
+2025-10-12,Apparel,,T-Shirt,,South
+2024-02-07,Apparel,602.0,Jacket,2.0,South
+2023-08-30,Toys,1697.0,Board Game,2.0,South
+2025-02-27,Home & Kitchen,9427.0,Mixer Grinder,1.0,Central
+2024-10-10,Beauty,1329.0,Shampoo,4.0,North
+2025-09-25,Books,1252.0,Self-Help,4.0,North
+2025-10-03,Toys,3494.0,Doll,3.0,West
+2024-12-02,Grocery,603.0,Tea Powder,1.0,North
+2024-07-27,Beauty,941.0,Perfume,7.0,West
+2025-12-24,Beauty,1419.0,Face Wash,7.0,East
+2024-08-23,Grocery,714.0,Basmati Rice,4.0,West
+2024-05-29,Books,,Novel,2.0,West
+2025-09-18,Apparel,701.0,Jacket,4.0,South
+2024-12-30,Beauty,1514.0,Face Wash,4.0,South
+2024-10-15,Books,1072.0,Cookbook,-3.0,West
+2023-03-30,Sports,6803.0,Dumbbell Set,6.0,East
+2023-05-07,Beauty,1409.0,Face Wash,1.0,North
+2025-11-08,Apparel,964.0,Saree,1.0,East
+2024-03-06,Electronics,77828.0,Power Bank,4.0,South
+2023-11-05,Apparel,2630.0,Jeans,6.0,North
+2025-10-25,Apparel,583.0,Jacket,,South
+2023-06-30,Books,1340.0,Self-Help,7.0,North
+2025-06-23,Grocery,663.0,Basmati Rice,5.0,South
+2024-07-26,Toys,1599.0,Board Game,3.0,South
+2023-06-12,Grocery,508.0,Toor Dal,1.0,
+2023-07-22,Toys,1535.0,Board Game,3.0,West
+2023-10-29,Beauty,1281.0,Shampoo,2.0,East
+2024-07-16,Grocery,138.0,Biscuits,2.0,South
+2024-08-10,Beauty,860.0,Lip Balm,,South
+2023-03-21,Apparel,631.0,T-Shirt,2.0,East
+2023-07-21,Electronics,74798.0,Power Bank,,East
+2024-10-08,Beauty,1487.0,Face Wash,-4.0,North-East
+2023-01-23,Electronics,88930.0,Power Bank,5.0,South
+2024-05-16,Sports,7197.0,Dumbbell Set,5.0,South
+2025-12-14,Books,1377.0,Novel,1.0,West
+2024-02-10,Grocery,741.0,Atta,2.0,South
+2024-12-08,Grocery,783.0,Atta,5.0,North
+2024-10-03,Grocery,761.0,Sunflower Oil,-1.0,South
+2025-11-25,Books,1404.0,Self-Help,6.0,East
+2023-06-03,Books,345.0,Biography,5.0,North
+2024-08-24,Grocery,634.0,Tea Powder,1.0,North
+2024-07-13,Apparel,614.0,Jacket,1.0,North
+2024-03-16,Sports,7175.0,Dumbbell Set,1.0,North
+2024-07-09,Beauty,1351.0,Face Wash,1.0,West
+2024-06-30,Beauty,1358.0,Shampoo,5.0,South
+2023-07-09,Electronics,55642.0,Bluetooth Speaker,4.0,North
+2023-03-14,Beauty,1264.0,Shampoo,1.0,South
+2023-03-11,Electronics,64701.0,Laptop,6.0,North
+2025-10-19,Books,1306.0,Cookbook,3.0,East
+2025-06-16,Grocery,524.0,Toor Dal,1.0,North
+2023-12-26,Sports,7728.0,Dumbbell Set,2.0,North
+2025-02-06,Books,,Comic,3.0,South
+2025-03-09,Grocery,728.0,Basmati Rice,1.0,North
+2024-10-31,Grocery,742.0,Atta,7.0,South
+2025-01-10,Beauty,725.0,Lip Balm,1.0,North
+2025-11-23,Apparel,605.0,T-Shirt,3.0,North
+2024-10-23,Apparel,947.0,Saree,3.0,North
+2025-06-20,Toys,3259.0,Doll,2.0,North
+2023-05-11,Electronics,37876.0,Earbuds,5.0,West
+2023-08-27,Sports,4116.0,Football,5.0,South
+2023-04-23,Sports,2274.0,Yoga Mat,5.0,Central
+2024-03-13,Apparel,2193.0,Sneakers,5.0,North
+2025-07-15,Sports,797.0,Cycling Helmet,3.0,West
+2024-06-01,Apparel,666.0,Jacket,6.0,North
+2024-03-04,Apparel,3273.0,Jeans,4.0,North
+2024-04-23,Grocery,461.0,Toor Dal,3.0,North
+2023-03-16,Apparel,,T-Shirt,1.0,South
+2024-06-28,Sports,4181.0,Cricket Bat,3.0,West
+2024-06-17,Apparel,641.0,T-Shirt,4.0,South
+2025-07-25,Sports,4651.0,Football,2.0,North
+2023-02-14,Books,1466.0,Novel,5.0,West
+2024-08-12,Apparel,597.0,T-Shirt,2.0,South
+2023-07-25,Books,1211.0,Cookbook,5.0,North
+2025-01-28,Apparel,607.0,T-Shirt,1.0,North-East
+2025-04-02,SPORTS,3499.0,Cricket Bat,1.0,North
+2023-02-19,Toys,2910.0,Action Figure,1.0,South
+2023-11-30,Books,349.0,Biography,3.0,West
+2024-10-23,Home & Kitchen,4691.0,Cookware Set,4.0,Central
+2025-04-04,Grocery,491.0,Toor Dal,2.0,West
+2025-07-20,Toys,,Action Figure,1.0,South
+2024-11-01,Apparel,737.0,Jacket,,West
+2025-07-19,Home & Kitchen,9710.0,Mixer Grinder,3.0,South
+2023-12-02,Toys,2298.0,Building Blocks,1.0,East
+2024-04-07,HOME & KITCHEN,2714.0,Table Fan,4.0,North
+2024-06-26,Books,1325.0,Cookbook,-8.0,South
+2024-05-04,Apparel,699.0,Jacket,3.0,North
+2024-09-30,Apparel,663.0,T-Shirt,3.0,North
+2025-05-02,SPORTS,3496.0,Cricket Bat,2.0,West
+2024-09-29,Electronics,82216.0,Power Bank,3.0,North
+2025-08-22,BEAUTY,1357.0,Sunscreen,5.0,West
+2024-02-01,Books,1186.0,Self-Help,5.0,North
+2024-03-09,APPAREL,951.0,Saree,2.0,North-East
+2025-11-27,Toys,1242.0,Puzzle,1.0,South
+2023-11-05,Apparel,733.0,Jacket,3.0,East
+2025-06-26,Books,1380.0,Novel,,North
+2024-01-16,Electronics,36685.0,Earbuds,5.0,South
+2024-10-29,Sports,1854.0,Yoga Mat,1.0,North
+2024-03-21,Books,1017.0,Comic,1.0,East
+2025-04-08,BOOKS,1173.0,Self-Help,4.0,South
+2024-10-03,Grocery,144.0,Biscuits,5.0,North
+2023-02-26,Beauty,1264.0,Shampoo,3.0,West
+2024-02-15,Grocery,765.0,,3.0,East
+2024-02-16,Books,1200.0,Self-Help,5.0,South
+2025-12-20,Grocery,752.0,Tea Powder,5.0,South
+2025-07-27,Apparel,2836.0,Jeans,2.0,East
+2025-06-29,Apparel,1173.0,Saree,4.0,North
+2024-12-18,Toys,3035.0,Action Figure,1.0,Central
+2023-05-24,Apparel,681.0,Jacket,4.0,Central
+2023-07-30,Apparel,611.0,T-Shirt,2.0,North
+2024-10-10,Home & Kitchen,2294.0,Table Fan,1.0,North
+12/09/2023,Home & Kitchen,5222.0,Cookware Set,3.0,South
+2024-05-24,Electronics,,Power Bank,1.0,North-East
+2025-02-08,Apparel,2115.0,Sneakers,6.0,South
+2025-09-03,Home & Kitchen,7039.0,Bedsheet,1.0,East
+2023-11-26,Home & Kitchen,10479.0,Mixer Grinder,2.0,East
+2025-01-26,Electronics,10007.0,Smartphone,3.0,North
+2023-09-02,Electronics,9245.0,Smartphone,3.0,East
+2024-12-13,Books,315.0,Biography,4.0,Central
+2023-12-14,Electronics,79558.0,Power Bank,4.0,Central
+2023-06-07,APPAREL,686.0,T-Shirt,6.0,Central
+2023-06-08,Beauty,1277.0,Shampoo,6.0,East
+2025-10-03,Home & Kitchen,11047.0,Water Bottle,-2.0,North
+2024-11-06,Home & Kitchen,4737.0,Cookware Set,3.0,East
+2025-11-30,Books,1160.0,Self-Help,3.0,West
+2023-04-03,Sports,2202.0,Yoga Mat,2.0,West
+2024-04-21,Toys,1576.0,Board Game,7.0,North
+2025-02-09,Apparel,1021.0,Saree,5.0, West 
+2024-06-07,Home & Kitchen,6542.0,Bedsheet,3.0,North
+2023-04-19,Electronics,65715.0,Bluetooth Speaker,3.0,West
+2023-08-30,Books,344.0,Biography,1.0,East
+2024-10-30,Books,1224.0,Cookbook,3.0,North
+2024-08-27,Grocery,671.0,Basmati Rice,2.0,South
+2023-08-14,Sports,7365.0,Dumbbell Set,-5.0,North
+2025-12-24,Electronics,41262.0,Earbuds,1.0,West
+2025-11-15,Books,1256.0,Novel,2.0,East
+2025-07-08,Grocery,764.0,Basmati Rice,1.0,South
+2023-12-26,Toys,1261.0,Puzzle,1.0,North
+2023-11-26,Books,1332.0,Cookbook,2.0,South
+2024-11-12,Sports,3869.0,Cricket Bat,2.0,North
+2025-08-15,Books,484.0,Textbook,3.0,Central
+2025-04-26,Sports,3936.0,Cricket Bat,3.0,West
+2023-12-12,Sports,5033.0,Football,2.0,North
+2024-08-01,Electronics,57266.0,Bluetooth Speaker,4.0,North
+2024-09-28,Beauty,1333.0,Shampoo,2.0,South
+2025-02-10,Sports,1941.0,Yoga Mat,2.0,North
+2023-06-13,Electronics,72611.0,Laptop,1.0,South
+2025-05-12,Sports,4869.0,Football,3.0,North
+2023-05-11,Books,1059.0,Comic,2.0,North
+2024-09-01,Apparel,569.0,T-Shirt,-3.0,West
+2025-07-05,Electronics,,Power Bank,1.0,Central
+2025-12-17,Toys,,Action Figure,7.0,North
+2024-03-31,Grocery,745.0,Basmati Rice,3.0,South
+2023-12-31,Beauty,814.0,Lip Balm,1.0,North
+2024-02-09,Toys,445.0,RC Car,,South
+2024-01-15,Beauty,1573.0,Sunscreen,3.0,South
+2024-12-26,Toys,461.0,RC Car,4.0,East
+2024-01-20,Grocery,796.0,Sunflower Oil,6.0,North
+2023-03-22,Beauty,833.0,Lip Balm,5.0,North
+2025-02-02,Home & Kitchen,10885.0,Water Bottle,3.0,North
+2024-07-07,Books,513.0,Textbook,3.0,West
+2023-01-13,Beauty,1144.0,Shampoo,2.0,South
+2025-01-02,Toys,,Action Figure,2.0,South
+2023-12-27,Grocery,665.0,Tea Powder,2.0,South
+2024-11-22,Books,457.0,Textbook,2.0,West
+2023-04-27,Toys,2434.0,Building Blocks,1.0,West
+2023-09-01,Toys,2854.0,Building Blocks,2.0,North
+2023-06-07,Apparel,2607.0,Jeans,1.0,East
+2023-06-28,Home & Kitchen,5618.0,Pressure Cooker,3.0,West
+2025-03-15,Sports,3368.0,Cricket Bat,-3.0,North
+2024-04-06,Grocery,601.0,Tea Powder,6.0,East
+2024-07-05,Toys,1861.0,Board Game,4.0,North
+2024-09-26,Electronics,78737.0,Power Bank,2.0,South
+2023-05-01,Grocery,620.0,Basmati Rice,3.0,East
+2025-08-18,Grocery,733.0,Sunflower Oil,2.0,South
+2024-03-09,Electronics,41552.0,Smartwatch,6.0,West
+31/05/2023,Grocery,158.0,Biscuits,,North-East
+2024-12-12,Toys,2349.0,Building Blocks,1.0,North
+2023-08-31,Beauty,956.0,Perfume,6.0,North
+2024-10-17,Electronics,40790.0,Smartwatch,3.0,South
+2025-10-24,Home & Kitchen,5317.0,Pressure Cooker,1.0,South
+2023-07-09,Home & Kitchen,5944.0,Pressure Cooker,4.0,West
+2024-02-07,Apparel,1078.0,Saree,4.0,East
+2025-10-07,Books,1012.0,Comic,2.0,East
+2025-03-24,Apparel,1078.0,Saree,-5.0,Central
+2025-10-15,Electronics,82119.0,Power Bank,2.0,South
+2024-05-13,Toys,1864.0,Board Game,3.0,North
+2024-01-09,Home & Kitchen,5553.0,Pressure Cooker,2.0,South
+2023-06-14,Books,1176.0,Self-Help,2.0,East
+2025-01-15,Grocery,659.0,Basmati Rice,7.0,North
+2025-04-02,Beauty,1046.0,Body Lotion,1.0, North 
+2023-01-21,Apparel,1121.0,Saree,6.0,North
+2024-08-20,Sports,7304.0,Dumbbell Set,2.0,North
+2025-02-09,Sports,670.0,Cycling Helmet,1.0,North
+2024-05-15,Home & Kitchen,4485.0,Cookware Set,6.0,East
+2024-12-03,Apparel,3799.0,Kurta,1.0,West
+2025-04-06,Books,342.0,Biography,3.0,West
+2023-11-08,Sports,895.0,Badminton Racket,4.0,West
+2024-11-14,Electronics,9694.0,Smartphone,6.0,South
+2024-12-13,Sports,6769.0,Dumbbell Set,3.0,West
+2024-04-05,Toys,1659.0,Board Game,-3.0,North
+2025-06-20,Grocery,690.0,Basmati Rice,2.0,South
+2025-12-21,Books,1384.0,Self-Help,1.0,West
+2023-10-30,Beauty,1483.0,Sunscreen,2.0,North
+2023-12-17,Grocery,508.0,Toor Dal,3.0,West
+2023-05-03,Books,1244.0,Self-Help,4.0,South
+2024-11-27,Beauty,1468.0,Face Wash,8.0,North
+2025-05-21,Apparel,683.0,T-Shirt,1.0,West
+2025-09-18,Toys,398.0,RC Car,3.0,South
+2025-03-17,Grocery,748.0,Sunflower Oil,4.0,South
+2025-06-28,Electronics,57853.0,Bluetooth Speaker,3.0,South
+2024-09-22,Home & Kitchen,5786.0,Bedsheet,2.0,East
+06/07/2025,Sports,973.0,Badminton Racket,3.0,North
+2023-11-24,Toys,3172.0,Action Figure,4.0,North
+01/01/2024,Grocery,511.0,Toor Dal,4.0,North
+2023-10-06,Home & Kitchen,,Water Bottle,5.0,West
+2023-08-23,TOYS,1286.0,Puzzle,3.0,South
+2023-10-10,Grocery,163.0,Biscuits,2.0,North
+2023-02-28,Grocery,135.0,Biscuits,2.0,South
+2023-09-05,Electronics,39295.0,Smartwatch,,East
+2023-04-23,Books,,Biography,6.0,South
+2025-06-15,Toys,3118.0,Doll,2.0,Central
+2025-03-08,Toys,457.0,RC Car,3.0,North
+2023-11-28,Beauty,1721.0,Sunscreen,6.0,East
+2024-06-13,Apparel,2247.0,Sneakers,2.0,East
+2025-04-12,Grocery,458.0,Toor Dal,3.0,West
+2025-01-18,Apparel,599.0,T-Shirt,3.0,North-East
+2025-06-14,Books,1404.0,Novel,3.0,Central
+2025-10-26,Books,1211.0,Novel,5.0,Central
+2025-05-09,Beauty,1175.0,Body Lotion,7.0,Central
+2025-12-08,Grocery,690.0,Tea Powder,2.0,North
+2023-08-03,Beauty,1043.0,Body Lotion,5.0,
+09/09/2023,Grocery,758.0,Basmati Rice,7.0,West
+2023-12-19,Books,481.0,Textbook,2.0,North
+2023-09-26,Apparel,2580.0,Sneakers,5.0,North-East
+2025-01-20,Grocery,494.0,Toor Dal,5.0,North
+2025-08-23,Electronics,87876.0,Power Bank,7.0,North
+2023-11-04,Books,1302.0,Cookbook,3.0,South
+2025-12-10,Toys,1823.0,Board Game,2.0,West
+2025-03-26,Home & Kitchen,6689.0,Bedsheet,3.0,West
+2025-04-30,Home & Kitchen,6210.0,Bedsheet,3.0,North
+2025-01-13,Beauty,1671.0,Sunscreen,2.0,South
+2025-02-23,Grocery,723.0,Tea Powder,2.0, South 
+2024-07-09,Apparel,2413.0,Sneakers,4.0,South
+2024-03-07,Home & Kitchen,11337.0,Water Bottle,3.0,South
+2025-02-25,Sports,4671.0,Football,3.0,East
+2023-08-26,Electronics,43181.0,Smartwatch,1.0, South 
+2025-04-15,Beauty,1463.0,Face Wash,2.0,South
+2023-01-02,Toys,2478.0,Building Blocks,2.0,West
+2023-02-07,Electronics,73616.0,Laptop,1.0,South
+2024-04-15,Books,511.0,Textbook,4.0,North
+2025-12-10,Electronics,,Smartphone,6.0, West 
+2023-09-28,Books,531.0,Textbook,6.0,West
+2025-02-28,Books,969.0,Comic,5.0,West
+2025-08-30,Home & Kitchen,6445.0,Pressure Cooker,7.0,North
+2024-08-31,Toys,2778.0,Building Blocks,5.0,West
+2023-06-18,Beauty,1620.0,Face Wash,5.0,South
+2024-04-14,Apparel,611.0,Jacket,3.0,Central
+2023-06-17,Home & Kitchen,10367.0,Mixer Grinder,2.0,South
+2025-03-06,Grocery,529.0,Toor Dal,2.0,East
+2024-12-17,Grocery,152.0,Biscuits,3.0,South
+2025-12-20,Electronics,44337.0,Earbuds,2.0,North
+2024-09-09,Home & Kitchen,6970.0,Bedsheet,1.0,West
+2023-11-04,Electronics,40726.0,Smartwatch,3.0,Central
+2024-01-26,Sports,1106.0,Badminton Racket,4.0,Central
+2024-03-28,Books,1214.0,Novel,2.0,East
+2024-01-12,Sports,4064.0,Cricket Bat,4.0,Central
+2025-12-16,Electronics,42353.0,Smartwatch,2.0,North-East
+2025-08-25,Home & Kitchen,2473.0,Table Fan,2.0,South
+2024-08-07,ELECTRONICS,86891.0,Power Bank,4.0,West
+2023-02-22,Apparel,2674.0,Jeans,2.0,South
+2024-08-19,Sports,1983.0,Yoga Mat,3.0,West
+2025-07-31,Apparel,2122.0,Sneakers,2.0,East
+2025-12-04,Books,994.0,Comic,1.0,South
+2023-05-17,Toys,397.0,RC Car,5.0,South
+2023-11-12,Apparel,1042.0,Saree,4.0,West
+2024-12-13,Home & Kitchen,12027.0,Water Bottle,4.0,Central
+2024-01-04,Sports,808.0,Cycling Helmet,5.0,West
+2023-12-06,Toys,3760.0,Doll,2.0,North
+2025-04-23,Home & Kitchen,2595.0,Table Fan,3.0,South
+2025-07-08,Beauty,934.0,Perfume,4.0,West
+2025-08-26,Toys,3278.0,Action Figure,2.0,East
+2023-03-01,Sports,4135.0,Football,2.0,West
+2023-03-04,Home & Kitchen,2675.0,Table Fan,3.0,East
+2024-01-10,Books,556.0,Textbook,1.0,South
+2024-05-28,Books,1096.0,Cookbook,3.0,South
+2025-07-12,Apparel,941.0,Saree,1.0,South
+2024-06-01,Beauty,815.0,Lip Balm,2.0,North
+2025-12-14,Toys,2822.0,Building Blocks,4.0,East
+2023-11-25,Beauty,927.0,Perfume,2.0,North
+2025-02-24,Books,321.0,Biography,3.0,South
+2024-07-28,Grocery,808.0,Atta,3.0,West
+2025-05-20,Toys,3614.0,Action Figure,1.0,North
+2025-12-30,Beauty,,Body Lotion,1.0,East
+22/06/2025,Electronics,10656.0,Smartphone,1.0,West
+2023-02-03,Toys,3346.0,Action Figure,4.0,West
+2023-07-08,Books,324.0,Biography,4.0,Central
+2025-07-29,Home & Kitchen,,Water Bottle,3.0,West
+2023-10-29,Electronics,37799.0,Earbuds,1.0,West
+2024-08-01,Beauty,1423.0,Face Wash,3.0,East
+2025-10-26,Grocery,743.0,Sunflower Oil,5.0,West
+2024-01-16,Home & Kitchen,6357.0,Pressure Cooker,1.0,North
+2024-07-01,Home & Kitchen,9747.0,Mixer Grinder,2.0,North
+2023-12-09,Books,975.0,Comic,2.0,South
+2023-07-30,BOOKS,1005.0,Comic,1.0,
+2023-10-01,Sports,4441.0,Football,1.0,North-East
+2023-07-25,Home & Kitchen,6351.0,Bedsheet,3.0,West
+2025-07-08,Toys,431.0,RC Car,2.0,South
+2024-01-18,Electronics,65411.0,Bluetooth Speaker,4.0,North
+2023-02-06,Apparel,564.0,T-Shirt,3.0,South
+2025-02-05,Apparel,1187.0,Saree,3.0,West
+2025-04-20,Home & Kitchen,6392.0,Bedsheet,3.0,West
+2023-10-16,Electronics,38415.0,Smartwatch,6.0,East
+2024-05-22,Books,453.0,Textbook,4.0,South
+2023-05-27,Apparel,2708.0,Jeans,,West
+2024-05-04,Sports,5059.0,Football,4.0,East
+2024-12-31,Electronics,77347.0,Power Bank,1.0,South
+2023-12-18,Sports,711.0,Cycling Helmet,2.0,East
+2023-05-06,Toys,,Board Game,4.0,East
+2023-07-10,Home & Kitchen,10887.0,Mixer Grinder,2.0,North
+2024-05-06,Beauty,1491.0,Face Wash,2.0,North
+2025-12-27,Books,453.0,Textbook,7.0,North
+2025-12-22,Grocery,786.0,Atta,1.0,Central
+2025-03-31,Beauty,1190.0,Body Lotion,3.0,South
+2023-06-03,Beauty,957.0,,4.0,West
+2024-09-14,Electronics,82807.0,Power Bank,4.0,
+2024-10-02,Toys,3313.0,Doll,5.0,North
+2024-01-30,Apparel,1097.0,Saree,7.0,East
+2024-11-07,Sports,3960.0,Cricket Bat,1.0,West
+2024-02-01,Apparel,3814.0,Kurta,1.0,West
+2025-05-05,Grocery,165.0,Biscuits,3.0,South
+2025-06-25,Toys,3243.0,Doll,3.0,South
+2025-01-15,Home & Kitchen,5239.0,Pressure Cooker,4.0,South
+2023-02-08,Books,1082.0,Comic,2.0,North
+2024-07-18,Grocery,479.0,Toor Dal,2.0,West
+2024-04-25,Sports,2180.0,Yoga Mat,4.0,Central
+2024-06-13,Grocery,761.0,Atta,,
+2024-11-21,Sports,7598.0,Dumbbell Set,3.0, North 
+2025-12-27,Toys,392.0,RC Car,2.0,South
+2024-12-30,Toys,2875.0,Action Figure,2.0,West
+2025-08-04,Toys,3494.0,Doll,3.0,Central
+2023-06-19,Sports,,Dumbbell Set,1.0,East
+2025-06-12,Electronics,40570.0,Earbuds,2.0,West
+2023-12-07,Sports,2206.0,Yoga Mat,5.0,West
+2024-03-17,Beauty,792.0,Perfume,5.0,West
+2025-12-12,Apparel,707.0,T-Shirt,4.0,West
+2024-08-14,Books,1037.0,Comic,1.0,North
+2024-04-17,Beauty,967.0,Body Lotion,2.0,East
+2023-06-22,Beauty,1143.0,Body Lotion,1.0,South
+2025-02-28,Electronics,,Smartphone,6.0,Central
+2024-09-24,Grocery,664.0,Sunflower Oil,2.0,South
+2023-08-26,Books,1203.0,Self-Help,1.0,North
+2025-01-25,Apparel,2373.0,Sneakers,1.0,East
+2025-11-01,Beauty,1154.0,Shampoo,3.0,North
+2023-06-18,Grocery,736.0,Atta,1.0,West
+2024-08-14,Home & Kitchen,10106.0,Mixer Grinder,3.0,South
+2023-05-16,Toys,1559.0,Board Game,4.0,South
+2025-10-06,Electronics,74895.0,Laptop,1.0,South
+2023-07-25,Toys,3122.0,,4.0,North
+2024-05-03,Electronics,61972.0,Bluetooth Speaker,-4.0,Central
+2024-04-05,Sports,4444.0,Football,2.0,East
+2024-05-03,Sports,4410.0,Football,2.0,West
+2025-09-19,Grocery,450.0,Toor Dal,4.0,West
+2024-08-14,Beauty,1623.0,Face Wash,5.0,East
+2024-08-21,Home & Kitchen,11788.0,Water Bottle,1.0,North
+2023-07-27,Toys,2299.0,Building Blocks,2.0,East
+2024-07-21,Books,1211.0,Novel,3.0,South
+2024-07-10,Toys,1449.0,Puzzle,3.0,South
+2025-02-09,Sports,1987.0,Yoga Mat,2.0,South
+2023-02-12,Electronics,82656.0,Power Bank,3.0,South
+2023-05-24,Apparel,3835.0,Kurta,,North
+2024-08-22,Electronics,69784.0,Power Bank,4.0,East
+2024-09-11,Books,373.0,Biography,1.0,Central
+2025-07-06,Toys,1390.0,Puzzle,2.0,South
+2024-07-05,Toys,1861.0,Board Game,4.0,North
+2025-02-06,Sports,3794.0,Cricket Bat,2.0,South
+2025-06-16,Toys,2712.0,Building Blocks,5.0,North
+2024-03-18,Electronics,42748.0,Earbuds,3.0,East
+2024-07-05,Sports,676.0,Cycling Helmet,3.0,East
+2023-07-27,Grocery,,Biscuits,-6.0,East
+2025-10-15,Apparel,2826.0,Jeans,4.0,East
+2025-03-27,Beauty,843.0,Lip Balm,1.0,West
+2024-07-24,Apparel,1041.0,Saree,7.0,North
+2025-06-16,Home & Kitchen,,Mixer Grinder,7.0,East
+2023-04-12,BEAUTY,801.0,Perfume,,South
+2023-11-17,Electronics,54780.0,Bluetooth Speaker,4.0,North
+2024-09-18,Beauty,1348.0,Face Wash,4.0,South
+2024-02-09,Books,1049.0,Cookbook,10.0,North
+2023-08-06,Electronics,44200.0,Earbuds,3.0,North
+2023-09-26,Home & Kitchen,11266.0,Mixer Grinder,1.0,East
+2025-04-16,Home & Kitchen,2552.0,Table Fan,4.0,South
+2025-01-06,Toys,391.0,RC Car,6.0,Central
+2025-10-12,TOYS,3660.0,Doll,2.0,South
+2025-11-18,Sports,1067.0,Badminton Racket,3.0,West
+2025-11-04,Books,483.0,Textbook,4.0,East
+2025-10-27,Sports,8082.0,Dumbbell Set,1.0,Central
+2025-09-17,Beauty,1449.0,Face Wash,7.0,North
+29/10/2023,Books,1174.0,Self-Help,3.0,South
+2023-03-17,Sports,3637.0,Cricket Bat,5.0,North
+2024-05-19,Books,323.0,Biography,2.0,North
+2025-12-04,Home & Kitchen,5150.0,Pressure Cooker,4.0,North
+2025-12-16,Apparel,2875.0,Jeans,2.0,North
+2025-12-18,Home & Kitchen,11129.0,Mixer Grinder,1.0,South
+2025-05-18,Electronics,37949.0,Smartwatch,5.0,North
+16/12/2024,Apparel,1093.0,Saree,4.0,East
+2023-09-05,Apparel,621.0,T-Shirt,5.0,East
+2023-11-12,Grocery,642.0,Tea Powder,4.0,South
+2023-09-24,Apparel,,Jacket,1.0,North
+2023-11-08,Books,1385.0,Novel,5.0,West
+2024-02-11,Sports,803.0,Cycling Helmet,4.0,North
+2025-09-30,Electronics,43119.0,Smartwatch,3.0,South
+2024-02-10,Toys,2518.0,Building Blocks,1.0,North
+2024-04-10,Electronics,65011.0,Bluetooth Speaker,4.0,South
+2023-04-26,Electronics,,Smartphone,4.0,South
+2023-11-23,Beauty,1469.0,Face Wash,7.0,Central
+2025-05-21,Home & Kitchen,11660.0,Water Bottle,3.0,Central
+2025-09-28,Beauty,798.0,Lip Balm,4.0,South
+2023-12-29,Home & Kitchen,9825.0,Mixer Grinder,7.0,North
+2025-05-04,Toys,2617.0,Building Blocks,3.0,South
+2025-03-13,Electronics,38739.0,Earbuds,2.0,Central
+2024-07-08,Sports,7076.0,Dumbbell Set,5.0,West
+2023-05-13,Grocery,798.0,Sunflower Oil,2.0, South 
+2024-07-05,Grocery,518.0,Toor Dal,,North
+2023-10-08,Home & Kitchen,5623.0,Bedsheet,1.0,North-East
+2023-05-22,Grocery,723.0,Atta,5.0,South
+2023-08-11,Beauty,882.0,Lip Balm,2.0,East
+2024-04-25,Grocery,,Atta,3.0,West
+2023-02-06,Books,1286.0,Self-Help,1.0,East
+2025-10-06,Sports,744.0,Cycling Helmet,3.0,South
+2024-08-09,Beauty,1499.0,Face Wash,-7.0,West
+2024-02-19,Home & Kitchen,2477.0,Table Fan,2.0,
+2025-07-24,Grocery,478.0,Toor Dal,3.0,East
+2023-06-28,Beauty,779.0,Lip Balm,6.0,West
+2023-09-19,Books,1132.0,Self-Help,3.0,East
+2024-04-02,Toys,1573.0,Board Game,3.0,South
+2023-07-22,Apparel,717.0,Jacket,2.0,South
+2024-11-27,Grocery,741.0,Sunflower Oil,1.0, North-East 
+2024-02-03,Sports,7635.0,,1.0,North
+2023-05-24,GROCERY,596.0,Tea Powder,3.0,North
+2024-03-19,Electronics,39247.0,Smartwatch,4.0,North
+2024-05-19,Home & Kitchen,11371.0,Water Bottle,2.0,East
+2023-11-03,Sports,838.0,,3.0,North
+2025-09-22,Beauty,800.0,Lip Balm,3.0,South
+2023-04-28,Apparel,2377.0,Sneakers,5.0,West
+2025-06-04,Sports,6597.0,Dumbbell Set,2.0,East
+2024-08-08,Books,1421.0,Novel,4.0,East
+2025-04-16,Electronics,36712.0,Earbuds,3.0,West
+2023-08-29,Electronics,38430.0,Earbuds,,North-East
+2025-07-11,Sports,977.0,Badminton Racket,4.0,East
+2023-05-18,Sports,760.0,Cycling Helmet,3.0,
+2023-01-17,Beauty,1154.0,Body Lotion,4.0,North
+11/02/2023,Toys,3752.0,Doll,1.0,South
+2024-12-11,Grocery,746.0,Tea Powder,5.0,Central
+2024-10-14,Apparel,631.0,T-Shirt,6.0,North
+2025-03-30,APPAREL,658.0,Jacket,3.0,West
+2025-12-17,Sports,791.0,Cycling Helmet,5.0,North
+2024-08-18,Beauty,1509.0,Sunscreen,2.0,East
+2023-12-22,Grocery,638.0,Basmati Rice,,North
+2025-07-06,Grocery,657.0,Sunflower Oil,2.0,South
+2024-05-14,Home & Kitchen,2647.0,Table Fan,2.0,Central
+2024-02-11,Toys,3118.0,Doll,3.0,Central
+2023-04-11,Books,1231.0,Self-Help,,South
+2024-02-17,Sports,5121.0,Football,6.0,South
+2024-10-21,Electronics,38709.0,Smartwatch,9.0,West
+2023-11-28,Apparel,3614.0,,3.0,East
+2024-02-26,Apparel,703.0,T-Shirt,3.0,North
+2025-09-15,Apparel,,Jeans,4.0,South
+2023-05-11,Books,1160.0,Cookbook,1.0,North
+2023-12-23,Beauty,817.0,Perfume,2.0,West
+2024-04-08,Toys,396.0,RC Car,2.0,North
+2023-06-22,Books,1250.0,,6.0,North
+2023-02-10,Home & Kitchen,10675.0,Mixer Grinder,5.0,East
+2023-09-02,Apparel,2977.0,Jeans,4.0,West
+2024-06-05,Electronics,43280.0,Earbuds,4.0,North-East
+2025-06-16,Apparel,732.0,Jacket,2.0,West
+2024-06-19,Grocery,135.0,Biscuits,10.0,West
+2024-10-03,Beauty,1159.0,Shampoo,5.0,East
+2023-08-29,Sports,760.0,Cycling Helmet,4.0,Central
+2024-03-09,Home & Kitchen,6783.0,Bedsheet,3.0,North
+2025-03-21,Books,1161.0,Self-Help,6.0,East
+2023-09-21,Home & Kitchen,6533.0,Bedsheet,2.0,East
+2024-10-12,Grocery,654.0,,1.0,North
+2024-07-17,Beauty,1251.0,Shampoo,1.0,South
+2023-05-12,Toys,3208.0,Doll,1.0,North-East
+2023-09-15,Grocery,,Basmati Rice,1.0,West
+2024-12-16,Toys,3303.0,Doll,2.0,South
+2023-06-16,Toys,1699.0,Board Game,1.0,South
+2023-08-28,Electronics,36165.0,Earbuds,3.0,West
+2023-11-11,Home & Kitchen,9898.0,Mixer Grinder,2.0,South
+2024-06-11,Beauty,788.0,Perfume,3.0,East
+2025-02-28,Electronics,,Smartphone,6.0,Central
+2024-04-09,Apparel,686.0,T-Shirt,4.0,West
+2024-10-26,Toys,453.0,RC Car,3.0,South
+2025-02-04,Home & Kitchen,9953.0,Mixer Grinder,1.0,West
+2024-05-08,Home & Kitchen,2500.0,Table Fan,-1.0,North
+2024-08-15,Toys,467.0,RC Car,2.0,North
+2024-11-20,Books,1315.0,Self-Help,2.0,East
+2023-04-05,Books,1127.0,Comic,1.0,West
+2025-03-04,Electronics,9650.0,Smartphone,-5.0,West
+2024-06-13,Grocery,730.0,Atta,4.0,Central
+2023-02-06,Apparel,600.0,T-Shirt,6.0,Central
+2024-02-19,Sports,721.0,Cycling Helmet,3.0,North
+2025-12-04,Grocery,791.0,Sunflower Oil,3.0,North
+2025-12-24,Beauty,855.0,Lip Balm,,East
+2023-08-18,Home & Kitchen,10434.0,Mixer Grinder,6.0,West
+2023-04-30,Apparel,3772.0,Kurta,2.0,Central
+2023-04-12,Beauty,944.0,Perfume,5.0,Central
+2023-01-30,Electronics,72622.0,Power Bank,3.0,East
+2025-02-07,Electronics,38295.0,Earbuds,1.0,North
+2023-05-11,Beauty,1517.0,Face Wash,2.0,North
+2023-05-01,Books,1194.0,Self-Help,2.0,West
+2025-04-03,Beauty,1352.0,Face Wash,1.0,South
+2023-01-13,Home & Kitchen,5671.0,Pressure Cooker,,West
+2025-05-29,Beauty,1517.0,Sunscreen,7.0,North-East
+2025-05-06,Sports,4606.0,Football,1.0,Central
+2023-01-06,Grocery,162.0,Biscuits,1.0,East
+2025-05-01,Beauty,900.0,Perfume,4.0,West
+2025-10-09,Home & Kitchen,6176.0,Bedsheet,1.0,South
+2023-01-23,Toys,2511.0,Building Blocks,1.0,South
+2023-01-02,Toys,2725.0,Building Blocks,2.0,North
+2023-11-24,Apparel,686.0,T-Shirt,1.0,North
+2024-12-03,Apparel,3158.0,Jeans,3.0,North
+2024-12-29,Apparel,2030.0,Sneakers,3.0,East
+2023-08-14,Grocery,672.0,Sunflower Oil,4.0,East
+2024-08-05,Beauty,889.0,Perfume,4.0,North
+08/11/2024,Home & Kitchen,10124.0,Mixer Grinder,6.0,North
+2023-12-11,Sports,708.0,Cycling Helmet,6.0,South
+2023-01-04,Toys,3819.0,Doll,4.0,East
+2024-07-02,Beauty,1550.0,Sunscreen,3.0,East
+2023-12-02,BEAUTY,1714.0,Sunscreen,4.0,North
+2023-11-23,Beauty,938.0,Body Lotion,2.0,South
+2023-05-04,Grocery,679.0,Sunflower Oil,1.0,West
+2024-12-04,Beauty,961.0,Body Lotion,2.0,North
+2023-10-24,Home & Kitchen,5837.0,Pressure Cooker,3.0,Central
+2024-04-04,Apparel,3010.0,Jeans,1.0,North
+2025-07-03,Books,326.0,Biography,4.0,West
+2024-03-25,Toys,444.0,RC Car,5.0,East
+2025-01-15,Books,1107.0,Cookbook,6.0,North
+2023-07-13,Toys,1511.0,Board Game,3.0,East
+2025-11-02,Electronics,9101.0,Smartphone,2.0,North
+2025-12-25,Home & Kitchen,10264.0,Water Bottle,-4.0,North
+2023-08-22,Home & Kitchen,6442.0,Bedsheet,5.0,West
+2025-09-22,TOYS,1515.0,Board Game,5.0,North
+2025-11-24,Books,,Novel,3.0,West
+2024-03-30,Beauty,1162.0,Body Lotion,4.0,North
+2025-10-08,Grocery,706.0,Tea Powder,5.0,West
+2024-02-01,Electronics,39040.0,Earbuds,1.0,North
+2025-05-19,Toys,1317.0,Puzzle,3.0,East
+2024-07-25,Home & Kitchen,10423.0,Water Bottle,1.0,North
+2023-08-09,Apparel,616.0,T-Shirt,2.0,South
+2024-07-21,Sports,708.0,Cycling Helmet,1.0,North
+2025-06-30,Grocery,715.0,Sunflower Oil,3.0,North
+2024-01-05,Books,510.0,,4.0,South
+2025-04-19,Grocery,732.0,Sunflower Oil,1.0,South
+2024-12-16,Sports,7591.0,Dumbbell Set,3.0,South
+2023-04-25,Home & Kitchen,2540.0,Table Fan,3.0,East
+2023-05-11,Home & Kitchen,5110.0,Pressure Cooker,3.0,Central
+2023-08-24,Beauty,1536.0,Face Wash,2.0,North
+2024-05-12,Apparel,650.0,T-Shirt,3.0,South
+2024-10-27,Sports,7387.0,Dumbbell Set,2.0,West
+2023-05-28,Apparel,2304.0,Sneakers,2.0,North
+2024-07-05,Beauty,823.0,Perfume,3.0,Central
+2024-01-08,Home & Kitchen,10132.0,Water Bottle,1.0,West
+2024-06-16,Apparel,574.0,T-Shirt,4.0,
+2023-01-17,Electronics,81892.0,Power Bank,3.0,North
+2024-12-10,Beauty,1134.0,Body Lotion,3.0,West
+2024-03-14,Books,349.0,Biography,-2.0,North
+2024-04-02,Toys,2739.0,Building Blocks,1.0,
+2023-01-10,Beauty,1001.0,Body Lotion,,South
+2024-12-30,Apparel,611.0,Jacket,2.0,North
+2025-08-27,Toys,382.0,RC Car,1.0,South
+2024-08-31,Toys,393.0,RC Car,2.0, East 
+2025-04-30,Apparel,625.0,Jacket,2.0,East
+2025-12-15,Grocery,706.0,Sunflower Oil,4.0,South
+2025-12-17,Beauty,868.0,Perfume,4.0,North
+2025-06-30,Home & Kitchen,,Water Bottle,8.0,West
+2025-04-23,Grocery,653.0,,4.0,South
+2023-10-25,Grocery,135.0,Biscuits,3.0,North
+2023-10-18,Books,1209.0,Novel,1.0,West
+2025-08-27,Grocery,602.0,Tea Powder,,North
+2024-06-28,Electronics,71721.0,Laptop,3.0,North
+2023-03-06,Grocery,612.0,Tea Powder,3.0,South
+2024-04-20,Books,1028.0,Comic,7.0,Central
+2025-10-16,Home & Kitchen,5547.0,Pressure Cooker,5.0,West
+2024-02-26,Sports,4716.0,Football,2.0,West
+2024-02-21,Home & Kitchen,5662.0,Bedsheet,5.0,South
+2024-01-17,Electronics,78985.0,Laptop,4.0,West
+2023-03-31,Beauty,899.0,Perfume,1.0,North
+2025-03-16,Apparel,667.0,T-Shirt,4.0,East
+2025-11-15,Electronics,65928.0,Bluetooth Speaker,3.0,North
+2025-07-21,Sports,2199.0,Yoga Mat,,Central
+2025-10-09,Sports,4189.0,Cricket Bat,2.0,North
+2024-11-19,Books,1061.0,Comic,8.0,South
+2024-03-06,Apparel,635.0,T-Shirt,1.0,North
+2023-04-14,Books,1350.0,Self-Help,3.0,South
+2024-02-18,Toys,2315.0,Building Blocks,1.0,North-East
+2023-01-29,Toys,2693.0,Building Blocks,2.0,North
+2025-08-18,Electronics,9231.0,Smartphone,4.0,Central
+2023-06-18,Apparel,3260.0,Jeans,2.0,South
+2024-07-29,Toys,,Action Figure,3.0,West
+2024-05-26,Apparel,4434.0,Kurta,1.0,
+2024-09-12,Apparel,2628.0,,-4.0,West
+2025-11-20,Electronics,,Bluetooth Speaker,7.0,North
+2023-04-04,Electronics,77998.0,Laptop,6.0,South
+2023-03-09,Grocery,503.0,Toor Dal,4.0,South
+2023-01-15,Home & Kitchen,7006.0,Bedsheet,4.0,East
+2024-02-12,Sports,920.0,Badminton Racket,3.0,East
+2025-02-06,Apparel,3274.0,Jeans,1.0,North
+2023-07-16,Sports,3992.0,Cricket Bat,5.0,West
+2024-08-29,Grocery,552.0,Toor Dal,2.0, East 
+2023-08-17,Books,1440.0,Self-Help,5.0,South
+2024-12-14,Beauty,1712.0,Sunscreen,2.0,Central
+2025-07-14,Beauty,1384.0,Face Wash,4.0,West
+2025-09-19,Sports,4298.0,Football,1.0,Central
+2023-07-27,Grocery,,Sunflower Oil,1.0,North
+2024-03-01,Apparel,608.0,Jacket,6.0,East
+2024-05-15,Toys,2346.0,Building Blocks,3.0,North
+2023-08-18,Electronics,38871.0,Earbuds,8.0,West
+2023-10-05,Sports,869.0,Badminton Racket,3.0,East
+2025-06-26,Beauty,844.0,Lip Balm,2.0,South
+2024-04-06,Home & Kitchen,12164.0,Water Bottle,2.0, North 
+2024-07-11,Apparel,3105.0,Jeans,3.0,South
+2025-05-21,Electronics,63573.0,Laptop,2.0,North
+2024-05-02,Books,553.0,Textbook,3.0,Central
+2024-03-19,Electronics,42448.0,Smartwatch,1.0,East
+2024-01-11,Sports,4186.0,Cricket Bat,2.0,North
+2023-11-03,Electronics,36119.0,Earbuds,-4.0,East
+2023-09-15,Home & Kitchen,12146.0,Water Bottle,5.0,East
+2025-12-25,Beauty,1505.0,Sunscreen,1.0,South
+2025-07-16,Home & Kitchen,6449.0,Bedsheet,6.0, East 
+2024-07-06,Books,355.0,Biography,4.0,West
+2024-02-20,Books,1260.0,Novel,2.0,South
+2023-03-12,Books,1146.0,Self-Help,3.0, West 
+2023-06-23,Sports,4123.0,Cricket Bat,2.0,North
+2023-05-08,Home & Kitchen,12763.0,Water Bottle,2.0,West
+2023-06-16,Apparel,,Jacket,3.0,South
+2025-06-05,Home & Kitchen,5518.0,Pressure Cooker,2.0,North
+2023-05-26,Electronics,73898.0,Laptop,2.0,North
+2025-11-09,Books,334.0,Biography,2.0,West
+2023-03-22,Apparel,2194.0,Sneakers,1.0,South
+2025-06-23,Beauty,967.0,Perfume,4.0,South
+2023-11-23,Toys,3440.0,Action Figure,1.0,West
+2023-11-03,Grocery,766.0,Sunflower Oil,8.0,
+2023-12-30,Grocery,733.0,Tea Powder,1.0,North
+2023-07-26,Books,1353.0,Self-Help,4.0,South
+2024-11-22,Grocery,754.0,Tea Powder,4.0,North
+2025-05-11,Beauty,1320.0,Face Wash,5.0,North
+2025-07-12,Toys,3262.0,Action Figure,5.0,North
+2025-08-18,Apparel,4466.0,Kurta,6.0,East
+2024-01-18,Beauty,861.0,Perfume,5.0,
+2025-08-18,Sports,1102.0,Badminton Racket,1.0,South
+2023-02-03,Grocery,435.0,Toor Dal,2.0,
+2024-03-11,Apparel,619.0,Jacket,3.0,South
+2025-04-04,Toys,1250.0,Puzzle,2.0,North
+2024-07-10,Sports,4564.0,Football,7.0,West
+2025-03-21,Grocery,665.0,Atta,4.0,West
+2025-06-24,Toys,3608.0,Action Figure,3.0,South
+2024-06-02,Electronics,84353.0,Power Bank,2.0,North
+06/10/2025,Toys,483.0,RC Car,4.0,West
+2024-05-06,Beauty,720.0,Lip Balm,4.0,East
+2025-11-25,Apparel,,Saree,2.0,West
+2025-01-21,Electronics,79779.0,Laptop,3.0,North
+2024-02-07,Home & Kitchen,2513.0,Table Fan,4.0,Central
+2023-07-30,Sports,6624.0,Dumbbell Set,5.0,North
+2024-11-19,Apparel,4110.0,Kurta,2.0,East
+2023-10-11,Grocery,526.0,Toor Dal,2.0,South
+2023-09-24,Apparel,2039.0,,5.0,West
+2024-02-06,Apparel,674.0,Jacket,3.0,North
+2023-05-06,Beauty,1030.0,Body Lotion,2.0,North
+2025-11-19,Beauty,1537.0,Sunscreen,6.0,South
+2025-11-21,Toys,3910.0,Doll,1.0,North-East
+2024-07-29,Sports,890.0,Badminton Racket,3.0, West 
+2025-01-15,Grocery,649.0,Atta,2.0,East
+2025-05-15,Electronics,43811.0,Smartwatch,4.0,North
+2025-03-25,Sports,7643.0,Dumbbell Set,4.0,North-East
+2023-06-03,BEAUTY,919.0,Perfume,1.0,North
+2025-09-28,GROCERY,733.0,Sunflower Oil,4.0,West
+2025-10-20,Grocery,706.0,Basmati Rice,6.0,Central
+2025-04-30,Books,1229.0,Novel,6.0,North
+2024-09-08,Electronics,76142.0,Power Bank,4.0,North
+2023-06-06,Electronics,42547.0,Smartwatch,3.0,South
+2023-05-04,Electronics,8540.0,Smartphone,3.0,North
+2025-03-27,Apparel,3194.0,Jeans,2.0,South
+2024-07-22,Sports,921.0,Badminton Racket,8.0,West
+2025-07-29,Books,990.0,Comic,1.0,East
+2025-06-12,Books,1427.0,Self-Help,3.0,
+2023-07-16,Sports,7310.0,Dumbbell Set,3.0,East
+2024-05-04,GROCERY,770.0,Atta,6.0,East
+2025-02-11,Grocery,646.0,Tea Powder,1.0,North
+2024-11-01,Apparel,737.0,Jacket,,West
+08/08/2023,Apparel,2176.0,Sneakers,3.0,East
+2023-06-30,Home & Kitchen,4740.0,Cookware Set,2.0,North
+2023-10-05,Sports,8190.0,Dumbbell Set,4.0,West
+2023-01-14,Toys,3844.0,Doll,3.0,South
+2023-07-18,Beauty,865.0,Perfume,-2.0,South
+2023-05-06,Apparel,973.0,Saree,3.0,East
+2025-11-20,Grocery,630.0,Basmati Rice,,West
+2023-10-07,Beauty,1605.0,Face Wash,4.0,East
+2023-07-29,Sports,4219.0,Football,3.0,North
+2024-05-29,Home & Kitchen,5731.0,Bedsheet,3.0,West
+2023-01-16,Sports,5078.0,Football,3.0,West
+2023-09-14,Apparel,2145.0,Sneakers,,South
+2024-05-07,Home & Kitchen,11695.0,,1.0,West
+2025-04-06,Sports,1005.0,Badminton Racket,2.0,North-East
+2025-01-18,Sports,2110.0,Yoga Mat,4.0,West
+2024-03-30,Apparel,995.0,Saree,1.0, South 
+2025-05-12,Sports,829.0,Cycling Helmet,3.0,South
+2023-01-14,Apparel,1145.0,Saree,4.0,East
+2024-04-19,Sports,883.0,Badminton Racket,2.0,South
+04/06/2024,Toys,3190.0,Doll,3.0,Central
+2025-03-23,Apparel,575.0,T-Shirt,1.0,West
+2024-08-17,Electronics,82343.0,Power Bank,2.0,South
+2025-03-29,Beauty,1583.0,Sunscreen,3.0,West
+2025-10-22,Toys,457.0,RC Car,3.0,West
+2023-08-27,Apparel,633.0,T-Shirt,2.0,West
+2024-05-21,Home & Kitchen,11649.0,Mixer Grinder,2.0,Central
+2023-08-24,Electronics,39655.0,Smartwatch,1.0, South 
+2023-04-30,Electronics,9308.0,Smartphone,1.0,East
+2023-09-04,Electronics,68251.0,Laptop,1.0,East
+2024-11-16,Home & Kitchen,12532.0,Water Bottle,1.0,Central
+2024-04-09,Home & Kitchen,2801.0,Table Fan,2.0,South
+2024-07-16,Toys,2739.0,Building Blocks,5.0,East
+29/12/2025,Beauty,1298.0,Face Wash,2.0,South
+2024-12-27,Sports,3594.0,Cricket Bat,2.0,North
+2025-09-07,Grocery,735.0,Sunflower Oil,4.0,West
+2023-04-10,Beauty,1485.0,Sunscreen,4.0,Central
+2024-10-19,Home & Kitchen,2529.0,Table Fan,3.0, North-East 
+2024-07-08,Grocery,785.0,Atta,3.0,North
+2024-07-03,TOYS,1419.0,Puzzle,2.0,West
+2023-03-20,Beauty,1648.0,Sunscreen,4.0,West
+2025-11-13,Toys,3319.0,Action Figure,-5.0,East
+2023-07-31,Beauty,772.0,Lip Balm,3.0,North
+2024-03-15,Books,965.0,Comic,5.0,West
+2023-09-29,Books,1495.0,Novel,,East
+2023-07-28,Sports,891.0,Badminton Racket,3.0,South
+2024-10-11,Toys,3182.0,Doll,3.0,South
+2023-10-29,Home & Kitchen,6318.0,Pressure Cooker,5.0,East
+2023-05-19,Grocery,616.0,Tea Powder,3.0,North
+2023-09-29,Home & Kitchen,5668.0,Bedsheet,3.0,South
+05/02/2024,Grocery,691.0,Sunflower Oil,2.0,West
+2025-11-29,Books,314.0,Biography,4.0,South
+2025-04-04,Books,357.0,Biography,3.0,East
+2024-03-17,Sports,3464.0,Cricket Bat,3.0,West
+2025-01-24,Home & Kitchen,11826.0,Water Bottle,5.0,East
+2023-09-22,Sports,4957.0,Football,2.0,South
+2025-10-26,Books,550.0,Textbook,3.0,South
+2023-12-17,Apparel,3632.0,Kurta,3.0,North
+2023-12-15,Sports,1987.0,Yoga Mat,1.0,South
+2025-10-31,ELECTRONICS,88606.0,Power Bank,1.0,South
+19/04/2025,Electronics,,Smartwatch,4.0,North
+2024-05-01,Apparel,2183.0,Sneakers,3.0,North
+2025-05-07,Apparel,1020.0,Saree,4.0,North
+2024-03-08,Electronics,40127.0,Earbuds,5.0,North-East
+2025-12-27,Electronics,,Smartphone,2.0,North
+2025-06-16,Apparel,661.0,Jacket,2.0,North
+2024-01-08,Beauty,1044.0,Body Lotion,5.0,West
+2025-03-14,Beauty,1165.0,Body Lotion,2.0,North
+2025-04-05,Books,1267.0,Novel,1.0,South
+2023-01-21,Toys,3021.0,Action Figure,3.0,West
+2025-08-12,Electronics,36011.0,Earbuds,2.0,East
+2024-10-22,Beauty,1096.0,Shampoo,,North
+2025-11-13,Apparel,711.0,Jacket,6.0,South
+2024-05-02,Beauty,1658.0,Sunscreen,3.0,West
+2024-01-16,Beauty,1407.0,Sunscreen,4.0,South
+2023-08-14,Books,461.0,Textbook,1.0,West
+2025-08-01,Grocery,471.0,Toor Dal,1.0,South
+2024-01-17,Grocery,495.0,Toor Dal,3.0,North
+2024-05-27,Apparel,3996.0,Kurta,5.0,West
+2023-12-28,Beauty,943.0,Perfume,5.0,South
+2023-03-17,Toys,2911.0,Action Figure,5.0,West
+2023-09-12,Toys,1639.0,Board Game,2.0,North
+2024-04-26,ELECTRONICS,79296.0,Laptop,2.0,North-East
+2023-05-19,Books,1356.0,Novel,1.0,South
+2024-06-07,Sports,4242.0,Football,4.0,North
+2025-12-22,Home & Kitchen,11859.0,Water Bottle,3.0,North
+2024-05-15,Apparel,669.0,Jacket,2.0,South
+2025-08-20,Electronics,85005.0,Power Bank,1.0,North
+2025-06-23,Beauty,1227.0,Shampoo,3.0,West
+2023-04-20,Grocery,618.0,Basmati Rice,2.0,North
+2023-01-26,Sports,7758.0,Dumbbell Set,7.0,Central
+2023-03-11,Books,1072.0,Cookbook,2.0,North-East
+2025-10-18,Grocery,637.0,Sunflower Oil,3.0,East
+2025-01-29,Home & Kitchen,2883.0,Table Fan,4.0,South
+2023-02-07,Grocery,442.0,Toor Dal,3.0,North
+2024-09-08,Beauty,1239.0,Shampoo,3.0,Central
+2024-06-25,Electronics,65010.0,Bluetooth Speaker,-4.0,North
+2023-02-09,Apparel,632.0,Jacket,4.0,West
+2025-08-04,Toys,451.0,RC Car,3.0,West
+2024-01-20,Toys,3375.0,Doll,2.0,Central
+2024-03-15,Home & Kitchen,,Cookware Set,7.0,North-East
+2025-09-11,Books,1142.0,Cookbook,4.0,
+2024-10-21,Apparel,694.0,T-Shirt,3.0,North-East
+2025-03-17,Home & Kitchen,5821.0,Bedsheet,,North
+2024-07-22,Apparel,2357.0,Sneakers,3.0,East
+2023-12-06,Apparel,2648.0,Jeans,2.0,South
+2023-10-04,Sports,1912.0,Yoga Mat,,South
+2025-07-26,Home & Kitchen,9890.0,Mixer Grinder,3.0,North
+2023-12-02,Beauty,1432.0,Sunscreen,4.0,Central
+2024-11-03,Sports,787.0,Cycling Helmet,2.0,South
+2025-04-24,Beauty,1098.0,Body Lotion,3.0,South
+2023-08-09,Apparel,616.0,T-Shirt,2.0,South
+2025-02-15,Sports,7263.0,Dumbbell Set,2.0,West
+28/05/2023,Electronics,40596.0,Earbuds,5.0,East
+2024-09-25,Sports,6889.0,Dumbbell Set,3.0,East
+2023-04-03,Grocery,619.0,Basmati Rice,4.0,North
+2024-08-08,Beauty,952.0,Body Lotion,2.0,West
+2024-10-25,Toys,1890.0,Board Game,2.0,West
+2024-03-20,Home & Kitchen,10411.0,Mixer Grinder,1.0,South
+2024-07-21,Grocery,772.0,Atta,1.0,West
+2023-11-08,Apparel,582.0,T-Shirt,1.0,North
+2024-10-29,Home & Kitchen,12017.0,Water Bottle,5.0,East
+2024-12-26,Sports,904.0,,2.0,South
+2025-11-30,Sports,1090.0,Badminton Racket,2.0,Central
+2025-07-26,Home & Kitchen,11587.0,Water Bottle,3.0,North
+2025-09-04,Apparel,598.0,Jacket,3.0,East
+2025-10-12,Sports,4978.0,Football,4.0,North
+2023-06-29,Grocery,611.0,Tea Powder,1.0,South
+2024-12-05,Sports,3769.0,Cricket Bat,4.0,North
+2024-07-17,Beauty,855.0,Perfume,4.0,South
+2025-04-15,Home & Kitchen,6271.0,Pressure Cooker,4.0,North-East
+2024-07-21,Apparel,,Sneakers,1.0,West
+2025-11-10,Books,1401.0,Novel,5.0,East
+2024-07-23,Electronics,10654.0,Smartphone,2.0,West
+2025-08-23,Apparel,2264.0,Sneakers,11.0,South
+2023-03-15,Electronics,10560.0,Smartphone,2.0,East
+2024-10-16,Toys,1892.0,Board Game,1.0,South
+2024-08-18,Apparel,3851.0,Kurta,6.0,North
+2024-09-03,Electronics,39240.0,Earbuds,5.0,North
+2023-07-25,Books,975.0,Comic,1.0,North
+2024-06-06,Toys,2940.0,Action Figure,4.0,North
+2024-06-12,Books,1272.0,Novel,,North
+2023-09-17,Toys,382.0,RC Car,2.0,South
+2025-09-17,Home & Kitchen,10640.0,Mixer Grinder,3.0,West
+2025-06-13,Toys,423.0,RC Car,4.0,East
+2024-06-08,Beauty,,Body Lotion,2.0,West
+2025-04-14,Sports,728.0,Cycling Helmet,,Central
+2024-08-19,Electronics,55658.0,Bluetooth Speaker,1.0,West
+2023-02-05,Toys,3553.0,Doll,4.0,West
+2023-08-19,Apparel,626.0,Jacket,1.0,East
+2024-06-11,Toys,478.0,RC Car,2.0,West
+2024-11-04,Books,,Novel,4.0, East 
+2023-10-12,Beauty,933.0,Body Lotion,1.0,East
+2023-11-10,Grocery,710.0,Tea Powder,4.0,West
+2024-05-18,Beauty,902.0,Lip Balm,3.0,West
+2024-11-23,Sports,6804.0,Dumbbell Set,5.0,South
+2023-10-16,Books,340.0,Biography,-7.0,Central
+2024-06-01,Beauty,1526.0,Sunscreen,4.0,East
+2025-09-30,Beauty,1158.0,Body Lotion,2.0,North-East
+2024-04-11,Home & Kitchen,5350.0,Cookware Set,2.0,North-East
+2025-10-21,Electronics,56840.0,Bluetooth Speaker,1.0,North
+2024-09-25,Home & Kitchen,10268.0,Water Bottle,4.0,Central
+2024-07-19,Apparel,4218.0,Kurta,2.0,
+2024-10-12,Books,1154.0,Cookbook,2.0,West
+2025-10-19,Beauty,1294.0,Shampoo,1.0,North-East
+2025-09-08,ELECTRONICS,74351.0,Laptop,7.0,South
+2024-10-12,Apparel,667.0,T-Shirt,2.0,North
+2024-09-21,Home & Kitchen,12110.0,Water Bottle,7.0,West
+2024-11-17,Home & Kitchen,2593.0,Table Fan,2.0,North
+2025-09-08,Apparel,1144.0,Saree,1.0,South
+2023-08-26,Home & Kitchen,2502.0,Table Fan,1.0,West
+2024-04-19,Electronics,62504.0,Bluetooth Speaker,1.0,East
+2025-08-17,Apparel,941.0,Saree,2.0,Central
+2024-12-18,Beauty,1660.0,Sunscreen,3.0,North
+2024-08-30,Books,1088.0,Comic,2.0, West 
+2025-11-30,Home & Kitchen,10651.0,Mixer Grinder,2.0, West 
+2025-02-10,Home & Kitchen,2809.0,Table Fan,6.0,East
+2025-05-19,Sports,4295.0,Cricket Bat,-5.0,East
+2025-10-09,Home & Kitchen,5130.0,Pressure Cooker,1.0,West
+2024-03-14,Toys,2523.0,Building Blocks,2.0,Central
+2025-12-23,Beauty,1524.0,Face Wash,3.0,South
+2024-09-18,Grocery,669.0,Basmati Rice,3.0,South
+2023-07-25,Electronics,,Smartwatch,2.0,South
+2025-04-09,Electronics,8849.0,Smartphone,2.0,South
+2025-10-31,Home & Kitchen,10670.0,Water Bottle,1.0,South
+2024-09-18,Books,1177.0,Novel,2.0,South
+23/06/2025,Apparel,4408.0,Kurta,4.0,South
+2025-10-07,Toys,484.0,RC Car,4.0,North-East
+2024-12-04,Toys,3485.0,Doll,4.0,North
+2023-05-11,Sports,4152.0,Cricket Bat,2.0,South
+2025-10-14,Electronics,45043.0,Earbuds,2.0,South
+2023-11-14,Home & Kitchen,2816.0,Table Fan,7.0,West
+2024-06-13,Toys,2731.0,Building Blocks,1.0,West
+2024-02-28,Home & Kitchen,2541.0,Table Fan,4.0,North
+2024-02-21,Grocery,442.0,Toor Dal,3.0,South
+2025-02-04,Grocery,,Sunflower Oil,1.0,North
+2024-11-15,Electronics,66244.0,Laptop,3.0,East
+2023-08-21,Electronics,73112.0,Power Bank,3.0,North
+2025-03-12,Books,1433.0,Self-Help,3.0,West
+17/06/2023,Electronics,86497.0,Power Bank,5.0,West
+2024-09-08,Beauty,948.0,Body Lotion,,West
+2025-04-06,Sports,4716.0,Football,5.0,
+2023-11-16,Grocery,690.0,Sunflower Oil,7.0,East
+2023-04-26,Grocery,155.0,Biscuits,3.0,Central
+2025-10-01,Home & Kitchen,6478.0,Bedsheet,3.0,South
+2024-06-25,Home & Kitchen,2398.0,Table Fan,-4.0,North
+2023-10-28,Toys,1282.0,Puzzle,2.0,North
+2025-10-04,Toys,1250.0,Puzzle,6.0,South
+2025-08-25,Home & Kitchen,12263.0,Water Bottle,3.0,South
+2023-05-16,Grocery,772.0,Atta,4.0,North
+2025-12-21,Books,990.0,Comic,-1.0,West
+2025-07-13,Toys,402.0,RC Car,1.0,South
+2023-11-27,Apparel,2762.0,Jeans,6.0,West
+2025-09-07,Books,329.0,Biography,,West
+2025-06-26,Toys,3725.0,Doll,2.0,South
+2024-07-10,Grocery,730.0,Sunflower Oil,4.0,West
+2024-07-19,Grocery,520.0,Toor Dal,2.0,North
+2025-04-25,Home & Kitchen,5860.0,Bedsheet,2.0,North
+2023-10-02,Toys,3330.0,Doll,2.0,South
+2024-09-04,Electronics,39703.0,Smartwatch,1.0,Central
+2025-12-26,Grocery,459.0,Toor Dal,2.0,East
+2023-03-28,Electronics,59058.0,Bluetooth Speaker,2.0,South
+2023-06-28,Grocery,746.0,,3.0,West
+2024-06-13,Grocery,139.0,Biscuits,8.0,North
+2023-06-07,Toys,3129.0,Action Figure,6.0,North
+2024-11-21,Apparel,2532.0,Sneakers,1.0,South
+2025-03-24,Sports,670.0,Cycling Helmet,1.0,North
+2023-02-03,Sports,802.0,Cycling Helmet,2.0,East
+2023-10-08,Grocery,135.0,Biscuits,4.0,West
+2023-09-26,Beauty,780.0,Perfume,2.0,South
+2023-05-19,Books,1203.0,Cookbook,3.0,South
+2024-11-08,Sports,7877.0,Dumbbell Set,3.0,West
+2025-03-07,Grocery,485.0,Toor Dal,3.0,West
+2025-11-25,Beauty,1306.0,Face Wash,-1.0,West
+2023-05-07,Apparel,2418.0,Sneakers,3.0,West
+2023-11-27,Electronics,9412.0,Smartphone,1.0,South
+2025-06-16,Electronics,73133.0,Laptop,6.0,West
+2024-09-14,Grocery,772.0,Atta,2.0,Central
+2023-09-10,Home & Kitchen,5932.0,Pressure Cooker,1.0,East
+2023-11-21,Beauty,1022.0,Body Lotion,-2.0,East
+2024-09-04,Beauty,1346.0,Face Wash,3.0,West
+2023-08-11,Home & Kitchen,11197.0,Water Bottle,4.0,West
+2025-03-06,Electronics,75593.0,Power Bank,3.0,Central
+2023-06-12,Toys,2684.0,Building Blocks,3.0,North
+2024-04-12,Apparel,2310.0,Sneakers,3.0,North
+2025-10-18,Apparel,987.0,Saree,2.0,North-East
+2024-03-21,Electronics,70873.0,Laptop,1.0,South
+2023-04-18,Sports,4266.0,Cricket Bat,1.0,South
+2024-07-27,Sports,4216.0,Cricket Bat,4.0,North
+2025-02-01,Toys,3467.0,Doll,1.0,North
+2025-04-18,Home & Kitchen,5928.0,Bedsheet,6.0,North
+2025-08-05,Electronics,60540.0,Bluetooth Speaker,6.0,South
+2023-01-05,Beauty,778.0,Perfume,3.0,South
+2025-06-24,Electronics,69187.0,Laptop,4.0,East
+2024-09-28,Apparel,2245.0,Sneakers,,North
+2024-07-23,Books,1285.0,Novel,3.0,North
+2025-08-12,Sports,5025.0,Football,,West
+2025-11-29,Beauty,1522.0,Face Wash,5.0,South
+2025-01-10,Toys,1649.0,Board Game,1.0,South
+2023-03-30,Apparel,2798.0,Jeans,1.0,West
+2023-11-09,Grocery,787.0,Atta,5.0,South
+2023-03-18,Apparel,1120.0,Saree,3.0,North
+2025-10-05,Toys,1649.0,Board Game,-3.0,North
+2024-01-14,Home & Kitchen,2628.0,Table Fan,1.0,South
+2024-11-23,Sports,2137.0,Yoga Mat,1.0,South
+2024-03-04,Toys,3337.0,Doll,4.0,North
+2024-12-16,Grocery,492.0,Toor Dal,4.0,South
+2023-07-11,Apparel,2076.0,Sneakers,2.0,South
+2024-02-21,Electronics,10100.0,Smartphone,5.0,North
+2023-07-27,Grocery,743.0,Atta,3.0,West
+2023-01-01,Beauty,909.0,Lip Balm,2.0,West
+2025-11-05,Sports,7743.0,Dumbbell Set,4.0,West
+2024-01-16,Toys,2599.0,Building Blocks,3.0,North
+2024-05-31,Electronics,44367.0,Earbuds,3.0,North-East
+2024-04-28,Books,1142.0,Self-Help,5.0, North 
+24/12/2023,Sports,1012.0,Badminton Racket,2.0,South
+2024-08-15,Electronics,54802.0,Bluetooth Speaker,5.0,East
+2024-08-22,Beauty,1577.0,Sunscreen,4.0,North
+2023-09-14,Apparel,2786.0,Jeans,3.0,Central
+2024-02-20,Electronics,37018.0,Smartwatch,4.0,South
+2024-03-29,Home & Kitchen,10380.0,Water Bottle,1.0,East
+2024-10-18,Toys,1247.0,Puzzle,3.0,Central
+2025-06-16,Sports,8156.0,Dumbbell Set,7.0,West
+2024-03-17,Grocery,464.0,Toor Dal,,West
+2023-09-26,Sports,2248.0,Yoga Mat,2.0,South
+2024-01-16,Books,1331.0,Novel,3.0,
+2023-07-22,Sports,893.0,Badminton Racket,3.0,North
+2025-06-25,Toys,431.0,RC Car,2.0,North
+2023-09-23,Sports,776.0,Cycling Helmet,4.0,South
+2023-08-20,Electronics,46187.0,Smartwatch,5.0,South
+2025-03-02,Beauty,1700.0,Sunscreen,3.0,South
+2023-09-25,GROCERY,786.0,Atta,5.0,South
+2024-03-29,Electronics,83455.0,Power Bank,6.0,South
+2023-11-12,Toys,2655.0,Building Blocks,1.0,South
+2023-06-01,Toys,405.0,RC Car,8.0,East
+2024-11-27,Books,1424.0,Self-Help,1.0,South
+2023-10-16,Beauty,1030.0,Body Lotion,1.0,Central
+2023-10-18,Home & Kitchen,6027.0,Pressure Cooker,2.0,North-East
+2024-10-02,Home & Kitchen,11597.0,Mixer Grinder,6.0,Central
+2024-05-13,Toys,1864.0,Board Game,3.0,North
+2024-11-09,BOOKS,493.0,Textbook,2.0, West 
+2024-10-22,Books,475.0,Textbook,2.0,South
+2024-08-14,Apparel,1141.0,Saree,5.0,North
+2023-06-17,Grocery,667.0,Tea Powder,2.0,North
+2023-01-06,Sports,3552.0,,7.0,Central
+02/07/2025,APPAREL,3547.0,Kurta,2.0,South
+2025-12-04,Beauty,952.0,Body Lotion,7.0,South
+2023-11-12,Electronics,10562.0,Smartphone,5.0,West
+2023-10-09,Home & Kitchen,4831.0,Cookware Set,-1.0,West
+2024-05-24,Electronics,36882.0,Earbuds,3.0,Central
+2023-01-20,Home & Kitchen,2417.0,Table Fan,4.0,South
+2025-06-27,Books,464.0,Textbook,5.0,North
+2023-01-05,Toys,1536.0,Board Game,3.0,East
+2023-09-22,Grocery,145.0,Biscuits,10.0,North
+2025-02-26,Beauty,1560.0,Sunscreen,4.0,West
+2023-07-10,Grocery,771.0,Atta,7.0,North
+2024-01-20,GROCERY,495.0,Toor Dal,4.0,South
+2023-05-30,Home & Kitchen,10420.0,Mixer Grinder,4.0,South
+2024-04-18,Apparel,621.0,T-Shirt,3.0,South
+2023-09-15,Books,301.0,Biography,5.0,East
+2023-09-30,Grocery,722.0,Sunflower Oil,3.0,North
+2025-08-03,Sports,3972.0,Cricket Bat,1.0,
+2023-07-01,Electronics,55999.0,Bluetooth Speaker,3.0,North-East
+2023-10-19,Grocery,161.0,Biscuits,1.0,South
+2024-05-31,Beauty,1104.0,Shampoo,6.0,West
+2025-10-22,Apparel,4063.0,Kurta,1.0,South
+2023-06-25,Toys,2916.0,Action Figure,3.0,North
+2023-09-03,Beauty,819.0,Perfume,1.0,East
+2024-03-08,Sports,1099.0,Badminton Racket,2.0,
+2024-10-16,Electronics,8981.0,Smartphone,4.0,South
+2024-03-29,SPORTS,4019.0,Cricket Bat,4.0,West
+2023-10-14,Apparel,2145.0,Sneakers,6.0,North
+2024-06-28,Home & Kitchen,5556.0,Pressure Cooker,3.0,South
+2023-10-20,Toys,3801.0,Doll,5.0,North
+2023-08-02,Grocery,607.0,Tea Powder,2.0,East
+2024-05-26,Electronics,9016.0,Smartphone,3.0,North-East
+2024-07-26,Sports,846.0,Cycling Helmet,2.0,South
+2024-07-01,Electronics,44081.0,Earbuds,1.0,West
+2024-10-30,Sports,1933.0,Yoga Mat,3.0,
+2023-03-29,Beauty,1050.0,Body Lotion,1.0,North
+2023-05-27,Apparel,1139.0,Saree,6.0,South
+2023-01-19,Beauty,1150.0,Body Lotion,3.0,South
+2025-10-22,Home & Kitchen,10684.0,Mixer Grinder,5.0,South
+2024-10-21,Apparel,3207.0,Jeans,-2.0,South
+2025-11-02,Books,518.0,Textbook,4.0,East
+2023-11-05,Sports,7638.0,Dumbbell Set,5.0,East
+2023-01-06,Grocery,162.0,Biscuits,1.0,East
+2025-10-08,Home & Kitchen,2574.0,Table Fan,3.0,South
+2025-03-06,SPORTS,3419.0,Cricket Bat,5.0,West
+2023-08-10,Toys,,Board Game,4.0,South
+2023-11-04,Beauty,789.0,Perfume,2.0,West
+2023-05-10,Beauty,1280.0,Shampoo,5.0,South
+2025-10-08,Toys,2297.0,Building Blocks,2.0,North
+2023-05-02,Sports,4241.0,Cricket Bat,3.0, North-East 
+2023-07-15,Books,1336.0,Self-Help,2.0,North
+2024-10-16,Home & Kitchen,4488.0,Cookware Set,3.0,East
+2024-08-11,Apparel,2640.0,Jeans,1.0,South
+2023-12-09,Home & Kitchen,4258.0,Cookware Set,2.0,South
+2025-10-29,Sports,5051.0,Football,1.0,West
+2023-09-23,Apparel,2093.0,Sneakers,3.0,South
+2024-11-29,Beauty,1154.0,Body Lotion,4.0,Central
+2024-09-02,Home & Kitchen,4720.0,Cookware Set,2.0,West
+2023-01-14,Toys,3584.0,Doll,4.0,West
+2025-10-30,Electronics,72687.0,Power Bank,,North
+2025-10-20,Beauty,1561.0,Face Wash,2.0,North
+2023-12-31,Apparel,3604.0,Kurta,1.0,South
+2025-04-30,Beauty,1122.0,Shampoo,,South
+2025-04-01,Beauty,747.0,Lip Balm,6.0,North
+2024-10-09,Electronics,38105.0,Smartwatch,6.0,West
+2025-03-30,Toys,449.0,RC Car,4.0,West
+2024-05-13,Home & Kitchen,11348.0,Water Bottle,5.0,East
+2023-01-25,Books,350.0,Biography,4.0,West
+2024-07-06,Apparel,563.0,T-Shirt,2.0,East
+2023-12-28,Apparel,3621.0,Kurta,6.0,West
+2024-09-19,Beauty,,Face Wash,1.0,East
+2023-06-01,Apparel,591.0,Jacket,2.0,North
+2023-08-10,Beauty,,Lip Balm,,North
+2025-12-06,Sports,888.0,Badminton Racket,2.0, South 
+2023-12-24,Sports,716.0,Cycling Helmet,,South
+2024-02-18,TOYS,1303.0,Puzzle,4.0,North
+2024-09-01,Apparel,569.0,T-Shirt,-3.0,West
+2023-05-29,Apparel,618.0,Jacket,5.0,South
+2025-06-11,Apparel,,,6.0,South
+2025-05-23,Home & Kitchen,7132.0,Bedsheet,2.0, West 
+2025-11-07,Apparel,2079.0,Sneakers,1.0,North
+2024-04-08,Apparel,2606.0,Jeans,7.0,South
+2023-08-18,Grocery,649.0,Atta,2.0,South
+2024-11-02,Sports,1998.0,Yoga Mat,3.0,North
+2024-09-30,Sports,1962.0,Yoga Mat,5.0,East
+2025-09-18,Toys,,RC Car,4.0,South
+2025-07-26,Books,1096.0,Cookbook,3.0,South
+2024-09-22,Beauty,791.0,Perfume,4.0,Central
+2024-03-12,Toys,3514.0,Doll,1.0,North
+2023-06-12,Apparel,4487.0,Kurta,2.0,South
+2024-03-09,Grocery,749.0,Basmati Rice,3.0,North
+2024-04-24,Apparel,653.0,Jacket,6.0,West
+2025-03-22,Books,1206.0,Novel,2.0,South
+2025-06-07,Books,902.0,Comic,3.0,South
+2025-08-02,Sports,4744.0,Football,2.0,South
+2023-03-10,Books,1265.0,Self-Help,1.0,North
+2025-01-02,Grocery,655.0,Tea Powder,1.0,South
+2025-07-16,Books,1226.0,Novel,-3.0,West
+2024-02-24,Toys,3335.0,Action Figure,8.0,West
+2025-05-23,Beauty,1187.0,Shampoo,2.0,South
+2023-11-30,Electronics,72855.0,Laptop,1.0,East
+2024-02-18,Electronics,74735.0,Laptop,1.0,North-East
+2024-08-02,Beauty,1052.0,Body Lotion,4.0,South
+2024-06-03,Home & Kitchen,2488.0,Table Fan,3.0,South
+2025-07-03,Home & Kitchen,2521.0,Table Fan,4.0,North-East
+2025-03-14,Grocery,716.0,Tea Powder,2.0,South
+2024-10-22,Apparel,617.0,T-Shirt,1.0,South
+2025-07-16,Electronics,,Earbuds,3.0,North
+2024-09-05,Grocery,165.0,Biscuits,-7.0,South
+2025-01-09,Sports,2242.0,Yoga Mat,1.0,South
+2023-11-22,Toys,409.0,RC Car,2.0,North
+2023-04-18,Books,1245.0,Cookbook,3.0,North
+2024-01-29,Apparel,2198.0,Sneakers,2.0,East
+2024-12-08,Toys,2904.0,Action Figure,4.0,West
+2023-02-08,Electronics,77722.0,Power Bank,2.0,South
+2024-04-29,APPAREL,603.0,Jacket,1.0,South
+2025-04-06,Apparel,3628.0,Kurta,-1.0,South
+2025-10-07,Grocery,716.0,Sunflower Oil,3.0,North
+2025-11-16,Apparel,2959.0,Jeans,2.0,West
+2025-12-26,Sports,3391.0,Cricket Bat,7.0,North
+2025-03-10,Beauty,1539.0,Sunscreen,3.0,West
+2023-07-22,Books,1439.0,Self-Help,1.0,North
+2023-09-01,Books,1121.0,Comic,8.0,South
+2023-05-12,Electronics,9748.0,Smartphone,2.0,South
+2024-05-01,Beauty,1084.0,Body Lotion,4.0,East
+2025-08-12,Toys,397.0,RC Car,1.0,South
+2025-05-24,Grocery,163.0,Biscuits,3.0,South
+2025-07-13,Books,1128.0,Comic,1.0,West
+23/08/2024,Beauty,1618.0,Sunscreen,1.0, East 
+2024-06-02,Home & Kitchen,12423.0,Water Bottle,7.0,South
+2025-12-16,Grocery,140.0,Biscuits,2.0,Central
+2024-11-06,Books,,Comic,1.0,West
+2025-02-11,Sports,,Yoga Mat,2.0,West
+2025-03-05,Grocery,816.0,Atta,3.0,South
+2024-08-13,Books,1102.0,Comic,5.0,
+2023-01-10,Apparel,689.0,T-Shirt,-2.0,East
+2025-12-18,Sports,7459.0,Dumbbell Set,,North
+2025-12-10,Books,1378.0,Novel,2.0,West
+2023-08-08,Grocery,689.0,Basmati Rice,10.0, East 
+2025-05-17,Beauty,1326.0,Shampoo,-3.0,South
+2024-03-05,Home & Kitchen,11640.0,Water Bottle,2.0,West
+2024-05-23,Toys,1545.0,Board Game,2.0,East
+2025-04-23,Grocery,703.0,Tea Powder,3.0,West
+2024-07-18,Sports,7444.0,Dumbbell Set,1.0,East
+2023-08-26,Electronics,8665.0,Smartphone,2.0,South
+2024-12-25,Home & Kitchen,11326.0,Mixer Grinder,3.0,Central
+2025-09-10,Books,1425.0,Self-Help,4.0,West
+2023-11-25,Toys,1286.0,Puzzle,2.0,South
+2023-03-13,Apparel,2054.0,Sneakers,6.0,South
+2025-07-03,Electronics,66798.0,Laptop,4.0,Central
+2024-05-06,Beauty,1679.0,Sunscreen,1.0,South
+2023-06-20,Electronics,10556.0,Smartphone,2.0,East
+2025-12-15,Beauty,1232.0,Shampoo,4.0,North-East
+2025-11-04,Grocery,496.0,Toor Dal,4.0,Central
+2025-12-11,Grocery,455.0,Toor Dal,,North-East
+2024-11-19,APPAREL,636.0,Jacket,1.0,East
+2024-04-23,Sports,7642.0,Dumbbell Set,2.0,West
+2025-04-21,Toys,390.0,RC Car,3.0,North
+2024-09-03,Home & Kitchen,6288.0,Pressure Cooker,3.0,Central
+2023-11-13,Books,1418.0,Self-Help,3.0,Central
+2023-06-18,Grocery,166.0,Biscuits,4.0,East
+2023-06-08,Electronics,36535.0,Smartwatch,4.0,North
+2025-07-26,Electronics,38526.0,Earbuds,5.0,West
+2024-01-29,Grocery,599.0,Tea Powder,1.0,Central
+2025-12-02,Beauty,1350.0,Face Wash,3.0,South
+2023-05-29,Sports,4619.0,Football,1.0,West
+2023-04-09,Books,1337.0,Novel,3.0,
+2025-03-07,Apparel,2333.0,Sneakers,2.0,West
+2024-05-20,Apparel,694.0,T-Shirt,2.0,West
+2024-01-14,Sports,881.0,Badminton Racket,4.0,South
+2023-10-31,Apparel,3662.0,Kurta,4.0,Central
+2024-06-26,Home & Kitchen,9387.0,Mixer Grinder,9.0,South
+2024-07-28,Apparel,1007.0,Saree,4.0,North
+2025-02-12,Books,1182.0,Self-Help,3.0,North
+2024-01-17,Apparel,2560.0,Sneakers,6.0,West
+2023-04-27,Toys,2748.0,Building Blocks,6.0,West
+2025-03-23,Grocery,139.0,Biscuits,2.0,Central
+2023-03-17,Grocery,162.0,Biscuits,3.0,South
+2024-08-05,ELECTRONICS,9323.0,Smartphone,3.0,North
+2024-08-26,Beauty,1345.0,Face Wash,4.0, Central 
+2023-12-26,Beauty,786.0,Lip Balm,2.0,West
+2025-02-20,Beauty,872.0,Lip Balm,2.0,West
+2023-10-28,Grocery,170.0,Biscuits,4.0,South
+2024-03-04,Sports,7604.0,Dumbbell Set,3.0,North
+2024-12-04,Home & Kitchen,6116.0,Pressure Cooker,1.0,South
+2024-09-28,Home & Kitchen,4248.0,Cookware Set,-2.0,
+2023-03-09,Books,343.0,Biography,3.0,South
+2023-03-06,Home & Kitchen,6242.0,Pressure Cooker,4.0,West
+2024-08-13,Electronics,38902.0,Smartwatch,1.0,West
+2024-05-03,Apparel,1173.0,Saree,3.0,
+2025-11-17,Apparel,4297.0,Kurta,1.0,East
+2024-05-17,Apparel,2751.0,Jeans,3.0,North
+2023-07-08,Toys,2362.0,Building Blocks,3.0,East
+2023-04-10,Apparel,727.0,Jacket,2.0,West
+2025-03-16,Beauty,1356.0,Shampoo,-1.0,South
+2023-04-06,Grocery,735.0,Basmati Rice,2.0, East 
+2023-05-22,Apparel,3111.0,Jeans,3.0,West
+2025-08-27,Beauty,1410.0,Face Wash,4.0,West
+2023-03-11,Books,1292.0,Novel,5.0,West
+2024-09-08,Books,,Biography,1.0,South
+31/03/2023,Electronics,,Laptop,4.0,
+2024-06-17,Sports,7961.0,Dumbbell Set,-6.0,South
+2025-01-22,Grocery,707.0,Tea Powder,5.0,South
+2023-11-23,Apparel,1084.0,Saree,1.0,East
+2023-06-03,Grocery,666.0,Tea Powder,3.0,South
+2023-10-09,Books,502.0,Textbook,3.0,West
+2025-09-19,Electronics,9190.0,Smartphone,4.0,Central
+2024-06-03,Sports,884.0,Badminton Racket,1.0,East
+2025-01-31,Toys,2901.0,Action Figure,3.0,South
+2024-04-03,Apparel,3981.0,Kurta,4.0,South
+2024-07-30,Sports,672.0,Cycling Helmet,2.0,South
+2024-11-30,Toys,2662.0,Building Blocks,2.0,North
+17/05/2023,Electronics,41232.0,Earbuds,5.0,North
+2025-12-07,Apparel,3160.0,Jeans,1.0,West
+2025-07-11,Beauty,1630.0,Face Wash,4.0,West
+2024-04-10,Books,352.0,Biography,2.0,East
+2025-02-26,Home & Kitchen,4460.0,Cookware Set,-2.0,North
+2023-07-31,Electronics,38604.0,Smartwatch,1.0,West
+2023-06-29,Apparel,740.0,Jacket,2.0,East
+2025-03-03,Toys,1509.0,Board Game,3.0, West 
+2025-12-06,Grocery,709.0,Atta,7.0,West
+2023-11-22,Beauty,1420.0,Face Wash,4.0,East
+2025-09-10,Home & Kitchen,4644.0,Cookware Set,1.0,North-East
+2023-02-21,Toys,1386.0,Puzzle,2.0,East
+2024-03-13,Home & Kitchen,5041.0,Cookware Set,3.0,South
+2024-10-17,Electronics,81310.0,Power Bank,6.0,West
+2025-10-02,Apparel,2611.0,Jeans,4.0,West
+2025-05-05,Apparel,2957.0,Jeans,1.0,South
+2025-06-06,Toys,2935.0,Action Figure,4.0,West
+2025-10-13,Electronics,78747.0,Laptop,4.0,East
+2025-04-14,Books,1154.0,Self-Help,1.0,North-East
+2023-11-13,Home & Kitchen,11750.0,Water Bottle,1.0,West
+2024-12-29,Sports,965.0,Badminton Racket,-4.0,North
+2024-03-11,Beauty,729.0,Lip Balm,3.0,South
+2024-11-03,Home & Kitchen,7055.0,Bedsheet,1.0,East
+2025-10-24,Books,359.0,Biography,3.0,South
+2025-04-11,Toys,2871.0,Action Figure,7.0,North
+2025-11-18,Books,1213.0,Cookbook,1.0,North
+2025-03-25,Grocery,465.0,Toor Dal,2.0,South
+2025-02-24,Grocery,150.0,Biscuits,2.0,North
+2023-10-14,Home & Kitchen,11442.0,Mixer Grinder,1.0,West
+2024-07-17,Electronics,71739.0,Power Bank,3.0,East
+2023-04-11,Sports,3491.0,Cricket Bat,,West
+2023-01-10,Apparel,2397.0,Sneakers,3.0,South
+2024-03-20,Electronics,66411.0,Laptop,2.0,North
+2024-06-17,Books,1052.0,Comic,4.0,North
+2023-02-12,Apparel,3906.0,Kurta,3.0,East
+2023-06-18,Toys,1865.0,Board Game,1.0,North
+2023-08-03,TOYS,426.0,RC Car,1.0,West
+2023-09-07,Apparel,604.0,T-Shirt,6.0,North
+2023-08-13,Apparel,605.0,T-Shirt,3.0,South
+2023-10-19,Grocery,161.0,Biscuits,1.0,South
+2023-04-29,Toys,2799.0,Building Blocks,4.0,West
+2025-07-16,Electronics,,Earbuds,3.0,North
+2024-09-07,Home & Kitchen,11261.0,Water Bottle,4.0,West
+2023-04-03,Apparel,680.0,T-Shirt,1.0,West
+2025-10-30,Apparel,2431.0,Sneakers,5.0,North
+09/04/2024,Apparel,693.0,T-Shirt,2.0,South
+2024-10-14,Beauty,1329.0,Shampoo,4.0,North-East
+2024-07-10,Toys,1909.0,Board Game,4.0,North
+2024-09-10,Grocery,141.0,Biscuits,2.0,West
+2023-05-03,Grocery,667.0,Tea Powder,3.0,Central
+2023-08-14,Sports,4296.0,Cricket Bat,-2.0,Central
+2023-08-27,HOME & KITCHEN,10137.0,Mixer Grinder,2.0,South
+2023-12-29,Home & Kitchen,10944.0,Mixer Grinder,3.0,West
+2025-06-22,Apparel,4114.0,Kurta,2.0,West
+2024-09-01,Electronics,58253.0,Bluetooth Speaker,3.0,West
+2024-04-06,Grocery,767.0,Basmati Rice,4.0,North
+2024-07-26,Apparel,3139.0,Jeans,2.0,West
+2023-09-24,Books,1185.0,Self-Help,2.0,South
+2024-02-23,Home & Kitchen,6161.0,Pressure Cooker,2.0,South
+2023-09-19,Books,,Comic,4.0,West
+2024-04-26,Toys,3617.0,Doll,7.0,South
+2024-02-25,Beauty,857.0,Lip Balm,2.0,South
+2023-08-31,Grocery,709.0,Atta,1.0,West
+2024-08-06,Grocery,631.0,Basmati Rice,5.0,North
+2023-12-16,Sports,1097.0,Badminton Racket,,South
+2024-02-05,Apparel,3823.0,Kurta,3.0,Central
+2023-12-02,Grocery,503.0,Toor Dal,8.0,West
+2025-12-24,Sports,,Football,3.0, East 
+2024-02-25,Toys,2296.0,Building Blocks,3.0,Central
+2025-04-02,Books,328.0,Biography,3.0,
+2023-05-29,Beauty,847.0,Lip Balm,3.0,East
+2025-10-12,Books,347.0,Biography,2.0,South
+2025-06-10,Books,1199.0,Self-Help,3.0,North
+2023-06-27,Apparel,3659.0,Kurta,6.0,East
+2024-11-27,Apparel,3075.0,Jeans,3.0,West
+2025-09-23,Beauty,1368.0,Sunscreen,3.0,South
+2023-03-12,Books,1258.0,Self-Help,2.0,South
+2024-01-07,Apparel,965.0,Saree,6.0,South
+2024-09-24,Apparel,1146.0,Saree,1.0,West
+2023-02-22,Sports,843.0,Cycling Helmet,2.0,North-East
