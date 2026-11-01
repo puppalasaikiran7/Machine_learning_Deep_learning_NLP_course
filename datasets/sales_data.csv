@@ -1,0 +1,1211 @@
+transaction_id,date,product_category,product_name,units_sold,unit_price,total_revenue,region,payment_method
+TXN100849,2025-10-16,Home & Kitchen,Mixer Grinder,10,3619.0,36190.0,East,Credit Card
+TXN100514,2025-06-28,Books & Stationery,Fiction Novel,25,839.0,20975.0,West,Debit Card
+TXN100758,2025-09-22,Electronics,Smart Watch,3,17949.0,53847.0,South,Credit Card
+TXN100522,2025-06-30,Clothing,Winter Jacket,2,3559.0,7118.0,North,UPI
+TXN100931,2025-10-26,Sports & Fitness,Cycling Helmet,7,3739.0,26173.0,East,UPI
+TXN100263,2025-03-23,Sports & Fitness,Cricket Bat,2,1819.0,3638.0,East,UPI
+TXN101183,2025-12-29,Sports & Fitness,Running Shoes,5,4919.0,24595.0,North,Debit Card
+TXN100391,2025-05-11,Home & Kitchen,Pressure Cooker 5L,1,1169.0,1169.0,Central,UPI
+TXN100883,2025-10-20,Electronics,Wireless Earbuds,2,21089.0,42178.0,East,UPI
+TXN101174,2025-12-27,Beauty & Personal Care,Perfume 100ml,3,1169.0,3507.0,,Debit Card
+TXN100808,2025-10-08,Electronics,USB-C Hub,2,8479.0,16958.0,North,Credit Card
+TXN100464,2025-06-11,Clothing,Sports T-shirt,11,1009.0,11099.0,South,Credit Card
+TXN101052,2025-11-19,Electronics,Wireless Earbuds,3,18219.0,54657.0,North,Credit Card
+TXN100173,2025-02-25,Books & Stationery,Desk Organiser,7,1169.0,8183.0,North,Credit Card
+TXN100928,2025-10-25,Home & Kitchen,Water Purifier,4,2949.0,11796.0,East,Credit Card
+TXN100290,2025-04-06,Books & Stationery,Gel Pen Set,12,989.0,11868.0,West,Credit Card
+TXN100558,2025-07-12,Books & Stationery,Exam Guide 2026,12,169.0,2028.0,South,UPI
+TXN100722,2025-09-09,Clothing,Denim Jeans,9,3239.0,29151.0,Central,UPI
+TXN100632,2025-08-06,Electronics,LED Monitor 24in,2,16899.0,33798.0,Central,Debit Card
+TXN101007,2025-11-05,Electronics,Power Bank 20000mAh,2,17119.0,34238.0,West,Credit Card
+TXN100800,2025-10-05,Electronics,LED Monitor 24in,2,5249.0,10498.0,South,UPI
+TXN101149,2025-12-22,Beauty & Personal Care,Lip Balm,9,2539.0,22851.0,West,Cash on Delivery
+TXN100431,2025-05-29,Home & Kitchen,Electric Kettle,7,4689.0,32823.0,West,Debit Card
+TXN100190,2025-03-01,Clothing,Cotton Kurta,1,4709.0,4709.0,West,Credit Card
+TXN100668,2025-08-21,Electronics,Bluetooth Speaker,1,24749.0,24749.0,South,UPI
+TXN101197,2025-12-31,Home & Kitchen,Water Purifier,4,3399.0,13596.0,North,Debit Card
+TXN100197,2025-03-03,Electronics,Bluetooth Speaker,3,15099.0,45297.0,North,Cash on Delivery
+TXN101107,2025-12-08,Books & Stationery,Notebook Pack of 5,2,749.0,1498.0,West,UPI
+TXN100107,2025-02-08,Beauty & Personal Care,Perfume 100ml,23,869.0,19987.0,East,Debit Card
+TXN100381,2025-05-10,Beauty & Personal Care,Body Lotion 400ml,4,2319.0,9276.0,North,Cash on Delivery
+TXN100377,2025-05-08,Home & Kitchen,Water Purifier,3,4459.0,13377.0,East,Cash on Delivery
+TXN100649,2025-08-13,Home & Kitchen,Air Fryer 4L,-5,4759.0,-23795.0,East,UPI
+TXN100143,2025-02-17,Electronics,LED Monitor 24in,2,18449.0,36898.0,East,Cash on Delivery
+TXN100119,2025-02-11,Home & Kitchen,Water Purifier,7,3109.0,21763.0,East,Credit Card
+TXN101100,2025-12-06,Electronics,Bluetooth Speaker,2,24509.0,49018.0,North,Credit Card
+TXN100989,2025-11-02,Clothing,Formal Shirt,10,2229.0,22290.0,Central,Debit Card
+TXN100146,2025-02-18,Clothing,Denim Jeans,8,4749.0,37992.0,West,Debit Card
+TXN100447,2025-06-03,Clothing,Winter Jacket,4,2209.0,8836.0,North,Credit Card
+TXN100376,2025-05-08,Electronics,Bluetooth Speaker,1,16889.0,16889.0,West,Debit Card
+TXN100901,2025-10-23,Home & Kitchen,Air Fryer 4L,6,7669.0,46014.0,North,Credit Card
+TXN100820,2025-10-11,Clothing,Cotton Kurta,8,4469.0,35752.0,South,UPI
+TXN100648,2025-08-12,Electronics,Bluetooth Speaker,1,22089.0,22089.0,Central,UPI
+TXN100445,2025-06-03,Clothing,Silk Saree,1,5319.0,5319.0,Central,Net Banking
+TXN101112,2025-12-10,Electronics,Bluetooth Speaker,2,22849.0,45698.0,West,UPI
+TXN101005,2025-11-05,Electronics,USB-C Hub,3,8619.0,25857.0,South,UPI
+TXN101196,2025-12-31,Electronics,USB-C Hub,2,17619.0,35238.0,South,UPI
+TXN100072,2025-01-22,Books & Stationery,Fiction Novel,8,1079.0,8632.0,Central,Debit Card
+TXN100097,2025-02-05,Electronics,Bluetooth Speaker,4,13229.0,52916.0,East,UPI
+TXN101115,2025-12-11,Home & Kitchen,Air Fryer 4L,3,5249.0,15747.0,South,Debit Card
+TXN100526,2025-06-30,Clothing,Formal Shirt,8,2719.0,21752.0,South,UPI
+TXN100703,2025-09-02,Electronics,USB-C Hub,2,15249.0,30498.0,South,UPI
+TXN100624,2025-08-03,Sports & Fitness,Cycling Helmet,7,4439.0,31073.0,North,UPI
+TXN101079,2025-11-28,Home & Kitchen,Air Fryer 4L,3,2919.0,8757.0,North,UPI
+TXN100677,2025-08-24,Beauty & Personal Care,Face Wash 150ml,7,3209.0,22463.0,East,Cash on Delivery
+TXN100995,2025-11-03,Books & Stationery,Exam Guide 2026,18,479.0,8622.0,South,UPI
+TXN100349,2025-04-28,Home & Kitchen,Pressure Cooker 5L,2,7329.0,14658.0,Central,Net Banking
+TXN100822,2025-10-11,Home & Kitchen,Water Purifier,4,3579.0,14316.0,East,UPI
+TXN100239,2025-03-16,Books & Stationery,Sketchbook A4,8,289.0,2312.0,North,Credit Card
+TXN100103,2025-02-07,Beauty & Personal Care,Hair Oil 200ml,5,2179.0,10895.0,East,Net Banking
+TXN100328,2025-04-21,Beauty & Personal Care,Sunscreen SPF50,6,1619.0,9714.0,North,UPI
+TXN100216,2025-03-08,Home & Kitchen,Pressure Cooker 5L,3,3509.0,10527.0,West,UPI
+TXN100768,2025-09-27,Electronics,Bluetooth Speaker,1,8729.0,8729.0,South,UPI
+TXN100689,2025-08-30,Books & Stationery,Desk Organiser,24,319.0,7656.0,South,Credit Card
+TXN100747,2025-09-20,Electronics,LED Monitor 24in,2,18439.0,36878.0,East,UPI
+TXN100498,2025-06-21,Electronics,Bluetooth Speaker,8,3399.0,27192.0,East,Debit Card
+TXN100833,2025-10-13,Books & Stationery,Gel Pen Set,12,959.0,11508.0,West,UPI
+TXN100868,2025-10-18,Books & Stationery,Exam Guide 2026,15,749.0,11235.0,East,Credit Card
+TXN100327,2025-04-20,Clothing,Winter Jacket,8,1909.0,15272.0,South,UPI
+TXN100303,2025-04-10,Electronics,Bluetooth Speaker,2,24779.0,49558.0,North,Credit Card
+TXN100198,2025-03-03,Electronics,Smart Watch,2,18359.0,36718.0,North,Credit Card
+TXN100827,2025-10-12,Beauty & Personal Care,Hair Oil 200ml,9,2379.0,21411.0,West,UPI
+TXN101145,2025-12-21,Electronics,Smart Watch,1,22909.0,22909.0,South,Cash on Delivery
+TXN101076,2025-11-28,Sports & Fitness,Cycling Helmet,4,5319.0,21276.0,North,Credit Card
+TXN100061,2025-01-19,Clothing,Cotton Kurta,9,2969.0,26721.0,North,Debit Card
+TXN100343,2025-04-27,Electronics,LED Monitor 24in,1,21529.0,21529.0,North,Debit Card
+TXN100249,2025-03-20,Clothing,Cotton Kurta,1,2659.0,2659.0,East,Credit Card
+TXN100750,2025-09-20,Electronics,Bluetooth Speaker,5,6859.0,34295.0,Central,UPI
+TXN100825,2025-10-12,Electronics,USB-C Hub,2,23129.0,46258.0,South,UPI
+TXN100141,2025-02-17,Home & Kitchen,Air Fryer 4L,6,1299.0,7794.0,West,Cash on Delivery
+TXN100612,2025-07-30,Books & Stationery,Desk Organiser,23,399.0,9177.0,West,Debit Card
+TXN100869,2025-10-19,Home & Kitchen,Pressure Cooker 5L,6,5859.0,35154.0,West,Credit Card
+TXN101055,2025-11-20,Electronics,USB-C Hub,5,11279.0,56395.0,North,UPI
+TXN101059,2025-11-21,Electronics,Power Bank 20000mAh,3,12429.0,37287.0,South,Credit Card
+TXN101015,2025-11-08,Beauty & Personal Care,Body Lotion 400ml,3,2349.0,7047.0,West,UPI
+TXN100266,2025-03-26,Clothing,Sports T-shirt,8,4269.0,34152.0,North,
+TXN100164,2025-02-23,Clothing,Silk Saree,4,479.0,1916.0,North,Credit Card
+TXN101081,2025-11-29,Electronics,Power Bank 20000mAh,6,6459.0,38754.0,North,UPI
+TXN100255,2025-03-22,Electronics,LED Monitor 24in,1,5789.0,5789.0,South,Cash on Delivery
+TXN100150,2025-02-19,Books & Stationery,Exam Guide 2026,2,929.0,1858.0,Central,Cash on Delivery
+TXN100635,2025-08-08,Electronics,Smart Watch,5,5849.0,29245.0,West,UPI
+TXN101157,2025-12-24,Clothing,Denim Jeans,16,709.0,11344.0,North,UPI
+TXN101148,2025-12-22,Beauty & Personal Care,Lip Balm,6,1989.0,11934.0,East,
+TXN100646,2025-08-11,Home & Kitchen,Air Fryer 4L,6,7599.0,45594.0,South,Credit Card
+TXN100085,2025-02-02,Beauty & Personal Care,Face Wash 150ml,10,779.0,7790.0,North,UPI
+TXN100957,2025-10-29,Home & Kitchen,Electric Kettle,1,3839.0,3839.0,Central,Credit Card
+TXN100837,2025-10-13,Beauty & Personal Care,Body Lotion 400ml,4,789.0,3156.0,South,Cash on Delivery
+TXN100288,2025-04-06,Beauty & Personal Care,Perfume 100ml,10,2079.0,20790.0,West,UPI
+TXN100400,2025-05-14,Beauty & Personal Care,Hair Oil 200ml,12,3219.0,38628.0,East,Cash on Delivery
+TXN100777,2025-09-28,Home & Kitchen,Electric Kettle,10,4159.0,41590.0,Central,UPI
+TXN100121,2025-02-12,Beauty & Personal Care,Body Lotion 400ml,1,1649.0,1649.0,South,UPI
+TXN100232,2025-03-13,Sports & Fitness,Cycling Helmet,1,3499.0,3499.0,West,Debit Card
+TXN101004,2025-11-05,Home & Kitchen,Water Purifier,2,5389.0,10778.0,North,Credit Card
+TXN100478,2025-06-14,Sports & Fitness,Yoga Mat 6mm,2,5699.0,11398.0,North,UPI
+TXN100201,2025-03-03,Clothing,Formal Shirt,9,2879.0,25911.0,North,UPI
+TXN100863,2025-10-18,Books & Stationery,Exam Guide 2026,6,299.0,1794.0,North,Credit Card
+TXN100623,2025-08-02,Clothing,Formal Shirt,12,4809.0,57708.0,West,UPI
+TXN100639,2025-08-09,Home & Kitchen,Electric Kettle,2,6979.0,13958.0,North,Debit Card
+TXN100671,2025-08-23,Beauty & Personal Care,Lip Balm,10,2579.0,25790.0,North,Debit Card
+TXN101131,2025-12-16,Home & Kitchen,Air Fryer 4L,3,3419.0,10257.0,North,UPI
+TXN100269,2025-03-26,Home & Kitchen,Pressure Cooker 5L,12,2139.0,25668.0,South,UPI
+TXN100615,2025-08-01,Electronics,Power Bank 20000mAh,2,21589.0,43178.0,South,Debit Card
+TXN100421,2025-05-21,Electronics,USB-C Hub,1,1809.0,1809.0,East,UPI
+TXN100618,2025-08-02,Electronics,Bluetooth Speaker,1,2979.0,2979.0,East,Net Banking
+TXN100973,2025-10-31,Sports & Fitness,Dumbbell Set 10kg,6,1819.0,10914.0,South,UPI
+TXN100019,2025-01-05,Home & Kitchen,Electric Kettle,2,2079.0,4158.0,West,UPI
+TXN100698,2025-09-02,Clothing,Silk Saree,3,4469.0,13407.0,West,UPI
+TXN100562,2025-07-13,Home & Kitchen,Water Purifier,2,8419.0,16838.0,North,Credit Card
+TXN100157,2025-02-21,Books & Stationery,Notebook Pack of 5,8,859.0,6872.0,Central,UPI
+TXN101087,2025-12-01,Home & Kitchen,Non-stick Kadai,1,6529.0,6529.0,West,UPI
+TXN100638,2025-08-09,Electronics,Wireless Earbuds,5,13549.0,67745.0,East,UPI
+TXN101179,2025-12-28,Home & Kitchen,Electric Kettle,6,3479.0,20874.0,North,UPI
+TXN101071,2025-11-26,Home & Kitchen,Non-stick Kadai,11,1899.0,20889.0,West,UPI
+TXN100867,2025-10-18,Beauty & Personal Care,Sunscreen SPF50,4,2179.0,8716.0,South,UPI
+TXN100235,2025-03-14,Electronics,LED Monitor 24in,3,15529.0,46587.0,North,Debit Card
+TXN100415,2025-05-20,Sports & Fitness,Dumbbell Set 10kg,6,3869.0,23214.0,South,UPI
+TXN101155,2025-12-22,Electronics,LED Monitor 24in,5,5879.0,29395.0,West,Debit Card
+TXN100180,2025-02-26,Beauty & Personal Care,Sunscreen SPF50,2,2849.0,5698.0,Central,Credit Card
+TXN100123,2025-02-13,Clothing,Cotton Kurta,10,,30490.0,South,Credit Card
+TXN100003,2025-01-01,Clothing,Cotton Kurta,4,3559.0,14236.0,West,UPI
+TXN100903,2025-10-23,Electronics,Power Bank 20000mAh,3,24919.0,74757.0,North,UPI
+TXN100095,2025-02-05,Books & Stationery,Notebook Pack of 5,19,569.0,10811.0,West,Credit Card
+TXN100527,2025-07-01,Home & Kitchen,Air Fryer 4L,9,1029.0,9261.0,West,UPI
+TXN100555,2025-07-10,Electronics,USB-C Hub,1,4519.0,4519.0,South,Debit Card
+TXN100227,2025-03-12,Beauty & Personal Care,Hair Oil 200ml,11,1389.0,15279.0,East,UPI
+TXN100450,2025-06-05,Beauty & Personal Care,Perfume 100ml,15,149.0,2235.0,North,Cash on Delivery
+TXN100317,2025-04-15,Beauty & Personal Care,Hair Oil 200ml,9,1959.0,17631.0,Central,UPI
+TXN100168,2025-02-24,Home & Kitchen,Air Fryer 4L,5,5949.0,29745.0,Central,Cash on Delivery
+TXN101022,2025-11-09,Electronics,Bluetooth Speaker,3,23859.0,71577.0,North,Debit Card
+TXN100730,2025-09-13,Electronics,Smart Watch,3,20369.0,61107.0,North,UPI
+TXN100144,2025-02-17,Clothing,Sports T-shirt,4,3069.0,12276.0,South,UPI
+TXN100339,2025-04-26,Electronics,Smart Watch,6,6059.0,36354.0,East,UPI
+TXN100147,2025-02-18,Electronics,USB-C Hub,2,15559.0,31118.0,North,UPI
+TXN100557,2025-07-12,Electronics,Smart Watch,2,12309.0,24618.0,Central,Cash on Delivery
+TXN100073,2025-01-23,Clothing,Silk Saree,3,489.0,1467.0,South,Credit Card
+TXN100897,2025-10-22,Electronics,LED Monitor 24in,1,5849.0,5849.0,West,Cash on Delivery
+TXN100448,2025-06-03,Home & Kitchen,Air Fryer 4L,3,1039.0,3117.0,South,Net Banking
+TXN100736,2025-09-14,Electronics,USB-C Hub,-2,15539.0,-31078.0,South,Net Banking
+TXN101194,2025-12-31,Clothing,Denim Jeans,7,4519.0,31633.0,East,UPI
+TXN100137,2025-02-16,Home & Kitchen,Electric Kettle,2,2269.0,4538.0,West,Credit Card
+TXN100502,2025-06-22,Sports & Fitness,Dumbbell Set 10kg,5,6949.0,34745.0,West,Net Banking
+TXN100980,2025-11-01,Clothing,Silk Saree,2,5129.0,10258.0,West,UPI
+TXN100370,2025-05-05,Sports & Fitness,Cricket Bat,2,4639.0,9278.0,West,Credit Card
+TXN100091,2025-02-03,Home & Kitchen,Water Purifier,2,7729.0,15458.0,South,UPI
+TXN100922,2025-10-25,Clothing,Silk Saree,1,4199.0,4199.0,West,
+TXN100637,2025-08-09,Sports & Fitness,Running Shoes,4,1329.0,5316.0,,Credit Card
+TXN100999,2025-11-04,Home & Kitchen,Non-stick Kadai,10,1929.0,19290.0,South,Cash on Delivery
+TXN101040,2025-11-13,Electronics,Bluetooth Speaker,3,1259.0,3777.0,East,UPI
+TXN100521,2025-06-30,Electronics,Smart Watch,2,16179.0,32358.0,Central,Debit Card
+TXN100570,2025-07-15,Books & Stationery,Gel Pen Set,18,689.0,12402.0,South,Net Banking
+TXN100717,2025-09-07,Sports & Fitness,Yoga Mat 6mm,2,5319.0,10638.0,North,Debit Card
+TXN100469,2025-06-12,Clothing,Formal Shirt,3,5989.0,17967.0,North,Net Banking
+TXN100115,2025-02-10,Clothing,Winter Jacket,9,2909.0,26181.0,South,Credit Card
+TXN100685,2025-08-29,Clothing,Denim Jeans,11,2249.0,24739.0,North,UPI
+TXN100934,2025-10-26,Clothing,Sports T-shirt,4,1069.0,4276.0,North,
+TXN100856,2025-10-17,Electronics,Wireless Earbuds,1,9539.0,9539.0,South,Cash on Delivery
+TXN101022,2025-11-09,Electronics,Bluetooth Speaker,3,23859.0,71577.0,North,Debit Card
+TXN100506,2025-06-22,Books & Stationery,Gel Pen Set,23,719.0,16537.0,East,UPI
+TXN100027,2025-01-08,Sports & Fitness,Cycling Helmet,3,4279.0,12837.0,West,UPI
+TXN100439,2025-06-01,Books & Stationery,Sketchbook A4,3,199.0,597.0,West,Debit Card
+TXN100985,2025-11-02,Home & Kitchen,Electric Kettle,7,739.0,5173.0,East,UPI
+TXN101133,2025-12-17,Home & Kitchen,Mixer Grinder,7,1059.0,7413.0,East,Credit Card
+TXN101118,2025-12-11,Home & Kitchen,Air Fryer 4L,2,6629.0,13258.0,East,Credit Card
+TXN100687,2025-08-29,Electronics,USB-C Hub,2,17619.0,35238.0,North,UPI
+TXN100697,2025-09-01,Home & Kitchen,Pressure Cooker 5L,4,4459.0,17836.0,West,Debit Card
+TXN100761,2025-09-24,Home & Kitchen,Electric Kettle,5,6099.0,30495.0,West,UPI
+TXN100131,2025-02-15,Books & Stationery,Desk Organiser,7,399.0,2793.0,North,UPI
+TXN100982,2025-11-02,Electronics,Power Bank 20000mAh,3,7419.0,22257.0,Central,UPI
+TXN100587,2025-07-21,Electronics,Wireless Earbuds,2,21569.0,43138.0,West,Debit Card
+TXN100843,2025-10-14,Clothing,Formal Shirt,1,5779.0,5779.0,North,UPI
+TXN101106,2025-12-08,Sports & Fitness,Running Shoes,4,6019.0,24076.0,West,UPI
+TXN100954,2025-10-28,Home & Kitchen,Non-stick Kadai,1,5139.0,5139.0,Central,Cash on Delivery
+TXN101108,2025-12-08,Clothing,Cotton Kurta,10,739.0,7390.0,North,UPI
+TXN100321,2025-04-17,Electronics,Power Bank 20000mAh,1,18599.0,18599.0,North,UPI
+TXN101178,2025-12-28,Clothing,Silk Saree,4,5089.0,20356.0,West,Debit Card
+TXN100542,2025-07-07,Clothing,Cotton Kurta,3,5249.0,15747.0,South,UPI
+TXN100741,2025-09-17,Clothing,Formal Shirt,11,1079.0,11869.0,West,UPI
+TXN100998,2025-11-04,Sports & Fitness,Dumbbell Set 10kg,2,1609.0,3218.0,South,UPI
+TXN100243,2025-03-17,Electronics,Smart Watch,2,13759.0,27518.0,North,Cash on Delivery
+TXN100606,2025-07-28,Books & Stationery,Desk Organiser,2,899.0,1798.0,West,UPI
+TXN100670,2025-08-21,Electronics,Smart Watch,9,1239.0,11151.0,West,UPI
+TXN100870,2025-10-19,Home & Kitchen,Water Purifier,1,3609.0,3609.0,North,Debit Card
+TXN100993,2025-11-03,Clothing,Sports T-shirt,8,2979.0,23832.0,South,Debit Card
+TXN100350,2025-04-28,Electronics,Wireless Earbuds,10,4719.0,47190.0,Central,Credit Card
+TXN100314,2025-04-14,Electronics,Bluetooth Speaker,3,22319.0,66957.0,North,Debit Card
+TXN100943,2025-10-26,Clothing,Sports T-shirt,10,4749.0,47490.0,West,UPI
+TXN100499,2025-06-21,Home & Kitchen,Mixer Grinder,4,1089.0,4356.0,North,UPI
+TXN100458,2025-06-08,Clothing,Winter Jacket,1,5189.0,5189.0,East,UPI
+TXN101035,2025-11-12,Electronics,Smart Watch,1,22039.0,22039.0,South,Credit Card
+TXN100600,2025-07-25,Electronics,Wireless Earbuds,10,3719.0,37190.0,East,Debit Card
+TXN100546,2025-07-08,Clothing,Silk Saree,8,3259.0,26072.0,North,Credit Card
+TXN100581,2025-07-18,Electronics,USB-C Hub,3,18519.0,55557.0,Central,Credit Card
+TXN100713,2025-09-06,Home & Kitchen,Electric Kettle,4,5429.0,21716.0,North,Debit Card
+TXN100193,2025-03-02,Home & Kitchen,Water Purifier,11,4239.0,46629.0,South,Credit Card
+TXN100065,2025-01-20,Electronics,LED Monitor 24in,3,12589.0,37767.0,North,UPI
+TXN100673,2025-08-23,Beauty & Personal Care,Lip Balm,20,269.0,5380.0,East,Credit Card
+TXN100752,2025-09-21,Electronics,LED Monitor 24in,1,12779.0,12779.0,North,UPI
+TXN101075,2025-11-28,Clothing,Denim Jeans,6,4639.0,27834.0,Central,Cash on Delivery
+TXN100080,2025-01-27,Sports & Fitness,Skipping Rope,2,4839.0,9678.0,West,UPI
+TXN100871,2025-10-19,Sports & Fitness,Cycling Helmet,4,2529.0,10116.0,West,
+TXN100729,2025-09-12,Home & Kitchen,Electric Kettle,1,6139.0,6139.0,North,Debit Card
+TXN100323,2025-04-18,Clothing,Sports T-shirt,4,3739.0,14956.0,South,Cash on Delivery
+TXN101117,2025-12-11,Clothing,Cotton Kurta,6,4429.0,26574.0,West,Net Banking
+TXN101061,2025-11-23,Electronics,USB-C Hub,12,2309.0,27708.0,East,Credit Card
+TXN100760,2025-09-23,Electronics,Power Bank 20000mAh,2,19449.0,38898.0,North,UPI
+TXN100083,2025-01-31,Electronics,LED Monitor 24in,1,14789.0,14789.0,Central,UPI
+TXN100927,2025-10-25,Electronics,USB-C Hub,6,13399.0,80394.0,South,UPI
+TXN100682,2025-08-25,Sports & Fitness,Cricket Bat,4,4819.0,19276.0,South,UPI
+TXN100723,2025-09-10,Electronics,Bluetooth Speaker,2,13109.0,26218.0,East,Credit Card
+TXN100950,2025-10-28,Home & Kitchen,Mixer Grinder,6,4499.0,26994.0,North,UPI
+TXN100983,2025-11-02,Beauty & Personal Care,Sunscreen SPF50,11,589.0,6479.0,West,UPI
+TXN100004,2025-01-02,Electronics,Wireless Earbuds,1,22489.0,22489.0,East,UPI
+TXN100986,2025-11-02,Home & Kitchen,Mixer Grinder,4,6719.0,26876.0,North,UPI
+TXN100378,2025-05-09,Sports & Fitness,Dumbbell Set 10kg,6,5999.0,35994.0,Central,Credit Card
+TXN100585,2025-07-19,Electronics,Wireless Earbuds,4,12609.0,50436.0,West,Cash on Delivery
+TXN100633,2025-08-08,Electronics,Smart Watch,2,15209.0,30418.0,North,UPI
+TXN100914,2025-10-25,Sports & Fitness,Yoga Mat 6mm,11,1929.0,21219.0,East,UPI
+TXN100126,2025-02-13,Clothing,Winter Jacket,12,2919.0,35028.0,North,UPI
+TXN100427,2025-05-24,Home & Kitchen,Non-stick Kadai,4,8029.0,32116.0,South,Credit Card
+TXN100139,2025-02-16,Electronics,Bluetooth Speaker,4,7749.0,30996.0,North,UPI
+TXN100001,2025-01-01,Electronics,USB-C Hub,4,12769.0,51076.0,North,UPI
+TXN100081,2025-01-28,Home & Kitchen,Non-stick Kadai,12,2899.0,34788.0,South,UPI
+TXN100423,2025-05-22,Electronics,Bluetooth Speaker,9,3619.0,32571.0,North,UPI
+TXN101193,2025-12-30,Home & Kitchen,Non-stick Kadai,9,2329.0,20961.0,East,UPI
+TXN100769,2025-09-27,Books & Stationery,Exam Guide 2026,3,1009.0,3027.0,North,Cash on Delivery
+TXN100801,2025-10-06,Electronics,USB-C Hub,1,23329.0,23329.0,North,UPI
+TXN100965,2025-10-29,Sports & Fitness,Skipping Rope,2,1079.0,2158.0,Central,UPI
+TXN100963,2025-10-29,Electronics,USB-C Hub,1,20789.0,20789.0,West,Cash on Delivery
+TXN100162,2025-02-22,Electronics,Power Bank 20000mAh,4,4529.0,18116.0,South,UPI
+TXN100051,2025-01-17,Electronics,Smart Watch,2,11619.0,23238.0,Central,UPI
+TXN100031,2025-01-10,Electronics,USB-C Hub,4,12239.0,48956.0,West,
+TXN100539,2025-07-05,Clothing,Silk Saree,4,2639.0,10556.0,North,UPI
+TXN100175,2025-02-25,Clothing,Winter Jacket,12,1439.0,17268.0,South,UPI
+TXN100169,2025-02-24,Electronics,Smart Watch,3,14219.0,42657.0,North,UPI
+TXN100911,2025-10-24,Clothing,Denim Jeans,2,3159.0,6318.0,North,UPI
+TXN100905,2025-10-23,Sports & Fitness,Skipping Rope,8,2459.0,19672.0,Central,UPI
+TXN100238,2025-03-15,Clothing,Formal Shirt,10,2409.0,24090.0,North,Credit Card
+TXN100881,2025-10-20,Clothing,Cotton Kurta,1,3749.0,3749.0,South,Debit Card
+TXN100057,2025-01-18,Electronics,Power Bank 20000mAh,6,12359.0,74154.0,West,Credit Card
+TXN101084,2025-11-30,Sports & Fitness,Cricket Bat,8,319.0,2552.0,South,UPI
+TXN100210,2025-03-07,Clothing,Winter Jacket,10,2519.0,25190.0,East,Cash on Delivery
+TXN100888,2025-10-21,Home & Kitchen,Pressure Cooker 5L,5,7209.0,36045.0,South,Credit Card
+TXN100058,2025-01-19,Electronics,LED Monitor 24in,3,16629.0,49887.0,West,UPI
+TXN100352,2025-04-29,Beauty & Personal Care,Body Lotion 400ml,25,489.0,12225.0,East,UPI
+TXN100389,2025-05-11,Clothing,Cotton Kurta,9,4389.0,39501.0,West,UPI
+TXN100311,2025-04-13,Beauty & Personal Care,Lip Balm,11,2489.0,27379.0,West,Credit Card
+TXN100304,2025-04-11,Clothing,Winter Jacket,10,2389.0,23890.0,South,UPI
+TXN100915,2025-10-25,Electronics,LED Monitor 24in,5,14269.0,71345.0,West,UPI
+TXN100221,2025-03-09,Home & Kitchen,Air Fryer 4L,7,4279.0,29953.0,East,Cash on Delivery
+TXN100099,2025-02-06,Clothing,Silk Saree,3,4849.0,14547.0,Central,Debit Card
+TXN100930,2025-10-26,Books & Stationery,Sketchbook A4,22,109.0,2398.0,North,UPI
+TXN100898,2025-10-22,Clothing,Cotton Kurta,2,3389.0,6778.0,West,Debit Card
+TXN101039,2025-11-13,Beauty & Personal Care,Sunscreen SPF50,21,669.0,14049.0,East,Net Banking
+TXN100975,2025-10-31,Clothing,Silk Saree,8,2399.0,19192.0,North,Net Banking
+TXN100132,2025-02-15,Clothing,Silk Saree,6,5949.0,35694.0,East,Credit Card
+TXN100293,2025-04-07,Sports & Fitness,Cricket Bat,23,769.0,17687.0,East,Credit Card
+TXN100007,2025-01-02,Electronics,Smart Watch,2,11259.0,22518.0,North,UPI
+TXN100206,2025-03-05,Home & Kitchen,Electric Kettle,8,1479.0,11832.0,Central,Debit Card
+TXN101151,2025-12-22,Clothing,Denim Jeans,4,3479.0,13916.0,South,Cash on Delivery
+TXN100468,2025-06-12,Sports & Fitness,Skipping Rope,4,6239.0,24956.0,North,UPI
+TXN100204,2025-03-04,Home & Kitchen,Air Fryer 4L,6,4149.0,24894.0,North,Cash on Delivery
+TXN100488,2025-06-18,Home & Kitchen,Air Fryer 4L,1,7469.0,7469.0,North,UPI
+TXN101139,2025-12-20,Electronics,LED Monitor 24in,12,1529.0,18348.0,East,Cash on Delivery
+TXN100818,2025-10-11,Home & Kitchen,Electric Kettle,3,7859.0,23577.0,West,Debit Card
+TXN100751,2025-09-20,Electronics,Smart Watch,6,6979.0,41874.0,South,Debit Card
+TXN100028,2025-01-08,Electronics,Smart Watch,5,12669.0,63345.0,East,Cash on Delivery
+TXN100588,2025-07-22,Home & Kitchen,Pressure Cooker 5L,14,979.0,13706.0,South,Credit Card
+TXN101009,2025-11-06,Electronics,Bluetooth Speaker,3,24129.0,72387.0,East,UPI
+TXN100918,2025-10-25,Sports & Fitness,Yoga Mat 6mm,9,1189.0,10701.0,North,Debit Card
+TXN100189,2025-03-01,Books & Stationery,Fiction Novel,2,1189.0,2378.0,West,UPI
+TXN100108,2025-02-08,Electronics,LED Monitor 24in,3,1849.0,5547.0,Central,Debit Card
+TXN100330,2025-04-21,Home & Kitchen,Mixer Grinder,3,7459.0,22377.0,South,Debit Card
+TXN101185,2025-12-29,Books & Stationery,Sketchbook A4,9,589.0,5301.0,West,UPI
+TXN100287,2025-04-05,Home & Kitchen,Mixer Grinder,6,2439.0,14634.0,West,UPI
+TXN100487,2025-06-18,Electronics,Power Bank 20000mAh,5,6359.0,31795.0,West,Credit Card
+TXN100022,2025-01-06,Home & Kitchen,Pressure Cooker 5L,6,5509.0,33054.0,North,UPI
+TXN101093,2025-12-04,Beauty & Personal Care,Perfume 100ml,10,1749.0,17490.0,North,Net Banking
+TXN100711,2025-09-06,Clothing,Formal Shirt,3,5939.0,17817.0,North,Cash on Delivery
+TXN101099,2025-12-06,Home & Kitchen,Air Fryer 4L,5,1719.0,8595.0,West,Credit Card
+TXN100528,2025-07-01,Beauty & Personal Care,Lip Balm,8,2339.0,18712.0,East,Cash on Delivery
+TXN100596,2025-07-23,Beauty & Personal Care,Perfume 100ml,2,2489.0,4978.0,South,Cash on Delivery
+TXN100093,2025-02-04,Sports & Fitness,Dumbbell Set 10kg,11,1829.0,20119.0,North,Net Banking
+TXN100224,2025-03-11,Electronics,USB-C Hub,1,10799.0,10799.0,North,UPI
+TXN100873,2025-10-19,Electronics,Power Bank 20000mAh,8,4919.0,39352.0,North,Net Banking
+TXN100721,2025-09-08,Beauty & Personal Care,Face Wash 150ml,5,2139.0,10695.0,South,Credit Card
+TXN100755,2025-09-21,Home & Kitchen,Pressure Cooker 5L,6,2429.0,14574.0,West,Cash on Delivery
+TXN100354,2025-04-30,Clothing,Denim Jeans,8,1119.0,8952.0,Central,Credit Card
+TXN100509,2025-06-24,Beauty & Personal Care,Hair Oil 200ml,4,3089.0,12356.0,South,UPI
+TXN100523,2025-06-30,Home & Kitchen,Water Purifier,6,3019.0,18114.0,West,Net Banking
+TXN100429,2025-05-26,Beauty & Personal Care,Perfume 100ml,-10,2129.0,-21290.0,West,UPI
+TXN100660,2025-08-18,Electronics,LED Monitor 24in,2,15909.0,31818.0,South,UPI
+TXN101041,2025-11-14,Beauty & Personal Care,Body Lotion 400ml,25,849.0,21225.0,East,UPI
+TXN100554,2025-07-10,Books & Stationery,Exam Guide 2026,5,659.0,3295.0,North,UPI
+TXN100324,2025-04-19,Home & Kitchen,Air Fryer 4L,9,1149.0,10341.0,Central,Cash on Delivery
+TXN100178,2025-02-26,Home & Kitchen,Pressure Cooker 5L,6,5449.0,32694.0,North,Cash on Delivery
+TXN101103,2025-12-07,Sports & Fitness,Running Shoes,5,5929.0,29645.0,East,Credit Card
+TXN100070,2025-01-22,Electronics,Wireless Earbuds,3,8409.0,25227.0,South,UPI
+TXN100937,2025-10-26,Electronics,Smart Watch,4,4959.0,19836.0,West,UPI
+TXN100386,2025-05-11,Home & Kitchen,Mixer Grinder,11,1519.0,16709.0,North,Debit Card
+TXN100831,2025-10-12,Books & Stationery,Exam Guide 2026,16,549.0,8784.0,South,Net Banking
+TXN101192,2025-12-30,Clothing,Formal Shirt,6,3599.0,21594.0,West,Cash on Delivery
+TXN100128,2025-02-14,Electronics,Bluetooth Speaker,7,4869.0,34083.0,Central,UPI
+TXN100935,2025-10-26,Clothing,Sports T-shirt,8,1389.0,11112.0,West,UPI
+TXN100852,2025-10-16,Beauty & Personal Care,Body Lotion 400ml,4,509.0,2036.0,West,UPI
+TXN100048,2025-01-16,Electronics,Power Bank 20000mAh,1,4859.0,4859.0,,UPI
+TXN100744,2025-09-19,Home & Kitchen,Electric Kettle,2,2989.0,5978.0,West,Credit Card
+TXN100471,2025-06-12,Beauty & Personal Care,Lip Balm,6,3249.0,19494.0,East,Credit Card
+TXN100087,2025-02-02,Home & Kitchen,Electric Kettle,3,8359.0,25077.0,North,Debit Card
+TXN100440,2025-06-01,Electronics,Power Bank 20000mAh,6,13659.0,81954.0,,Net Banking
+TXN101144,2025-12-21,Beauty & Personal Care,Face Wash 150ml,10,1559.0,15590.0,South,UPI
+TXN101102,2025-12-07,Electronics,Power Bank 20000mAh,6,8609.0,51654.0,East,Credit Card
+TXN100437,2025-05-31,Beauty & Personal Care,Lip Balm,7,3309.0,23163.0,South,UPI
+TXN100428,2025-05-26,Home & Kitchen,Air Fryer 4L,10,2009.0,20090.0,North,Credit Card
+TXN100130,2025-02-14,Electronics,Bluetooth Speaker,6,13099.0,78594.0,West,Net Banking
+TXN101045,2025-11-16,Electronics,Bluetooth Speaker,1,10599.0,10599.0,South,UPI
+TXN100270,2025-03-28,Clothing,Denim Jeans,6,3999.0,23994.0,Central,UPI
+TXN100981,2025-11-02,Books & Stationery,Gel Pen Set,25,219.0,5475.0,South,Credit Card
+TXN100785,2025-10-01,Electronics,Power Bank 20000mAh,3,6289.0,18867.0,Central,Cash on Delivery
+TXN100357,2025-05-01,Electronics,Smart Watch,1,14259.0,14259.0,North,Credit Card
+TXN100407,2025-05-17,Electronics,Smart Watch,6,7979.0,47874.0,South,UPI
+TXN100678,2025-08-25,Electronics,USB-C Hub,2,18569.0,37138.0,North,UPI
+TXN101062,2025-11-23,Beauty & Personal Care,Face Wash 150ml,5,749.0,3745.0,West,UPI
+TXN100155,2025-02-21,Electronics,LED Monitor 24in,2,23629.0,47258.0,West,UPI
+TXN101147,2025-12-21,Beauty & Personal Care,Face Wash 150ml,11,2039.0,22429.0,North,UPI
+TXN101068,2025-11-25,Sports & Fitness,Dumbbell Set 10kg,2,6479.0,12958.0,South,UPI
+TXN100759,2025-09-22,Electronics,USB-C Hub,2,12409.0,24818.0,South,Credit Card
+TXN100550,2025-07-09,Home & Kitchen,Non-stick Kadai,6,8539.0,51234.0,West,UPI
+TXN100030,2025-01-08,Beauty & Personal Care,Hair Oil 200ml,11,1099.0,12089.0,South,Net Banking
+TXN100988,2025-11-02,Electronics,LED Monitor 24in,2,3479.0,6958.0,East,Credit Card
+TXN100385,2025-05-11,Electronics,Bluetooth Speaker,7,4269.0,29883.0,West,Cash on Delivery
+TXN100890,2025-10-21,Sports & Fitness,Yoga Mat 6mm,6,4259.0,25554.0,South,UPI
+TXN101073,2025-11-27,Beauty & Personal Care,Perfume 100ml,7,1829.0,12803.0,East,Cash on Delivery
+TXN100194,2025-03-02,Home & Kitchen,Non-stick Kadai,4,4869.0,19476.0,North,UPI
+TXN100355,2025-05-01,Sports & Fitness,Dumbbell Set 10kg,4,5059.0,20236.0,West,Net Banking
+TXN101078,2025-11-28,Electronics,LED Monitor 24in,5,11549.0,57745.0,West,Cash on Delivery
+TXN101063,2025-11-23,Clothing,Sports T-shirt,9,4049.0,36441.0,North,UPI
+TXN100472,2025-06-13,Beauty & Personal Care,Body Lotion 400ml,7,3179.0,22253.0,North,Cash on Delivery
+TXN100179,2025-02-26,Home & Kitchen,Air Fryer 4L,1,4809.0,4809.0,North,UPI
+TXN101167,2025-12-27,Clothing,Denim Jeans,2,4539.0,9078.0,West,Cash on Delivery
+TXN100947,2025-10-27,Clothing,Cotton Kurta,3,2609.0,7827.0,East,Net Banking
+TXN101064,2025-11-23,Books & Stationery,Gel Pen Set,12,129.0,1548.0,North,UPI
+TXN100010,2025-01-03,Electronics,LED Monitor 24in,2,3939.0,7878.0,East,UPI
+TXN100067,2025-01-21,Clothing,Denim Jeans,10,4589.0,45890.0,West,Credit Card
+TXN100602,2025-07-27,Beauty & Personal Care,Hair Oil 200ml,5,1659.0,8295.0,North,Credit Card
+TXN100209,2025-03-07,Electronics,LED Monitor 24in,1,16119.0,16119.0,South,UPI
+TXN100145,2025-02-18,Electronics,Wireless Earbuds,2,18129.0,36258.0,North,UPI
+TXN100416,2025-05-20,Beauty & Personal Care,Sunscreen SPF50,1,1069.0,1069.0,North,UPI
+TXN100850,2025-10-16,Electronics,Wireless Earbuds,2,18989.0,37978.0,North,Cash on Delivery
+TXN100948,2025-10-27,Beauty & Personal Care,Body Lotion 400ml,16,639.0,10224.0,West,UPI
+TXN100859,2025-10-17,Electronics,USB-C Hub,6,8489.0,50934.0,North,UPI
+TXN101104,2025-12-07,Home & Kitchen,Pressure Cooker 5L,5,4169.0,20845.0,North,UPI
+TXN100092,2025-02-04,Electronics,LED Monitor 24in,2,19829.0,39658.0,North,Cash on Delivery
+TXN101096,2025-12-05,Beauty & Personal Care,Face Wash 150ml,11,2139.0,23529.0,West,UPI
+TXN101163,2025-12-26,Books & Stationery,Exam Guide 2026,11,109.0,1199.0,North,Credit Card
+TXN100359,2025-05-02,Clothing,Silk Saree,8,1579.0,12632.0,Central,UPI
+TXN100529,2025-07-01,Clothing,Formal Shirt,9,4349.0,39141.0,North,UPI
+TXN100835,2025-10-13,Beauty & Personal Care,Hair Oil 200ml,4,2569.0,10276.0,North,Net Banking
+TXN100195,2025-03-02,Clothing,Sports T-shirt,3,5009.0,15027.0,North,Cash on Delivery
+TXN100296,2025-04-09,Sports & Fitness,Running Shoes,11,1329.0,14619.0,East,UPI
+TXN101053,2025-11-19,Sports & Fitness,Cricket Bat,2,5229.0,10458.0,Central,Net Banking
+TXN100380,2025-05-10,Books & Stationery,Gel Pen Set,3,1149.0,3447.0,West,
+TXN100565,2025-07-13,Books & Stationery,Fiction Novel,17,819.0,13923.0,South,Cash on Delivery
+TXN100411,2025-05-18,Sports & Fitness,Yoga Mat 6mm,2,2369.0,4738.0,East,UPI
+TXN100360,2025-05-02,Sports & Fitness,Running Shoes,8,1939.0,15512.0,West,UPI
+TXN100456,2025-06-07,Home & Kitchen,Non-stick Kadai,5,7659.0,38295.0,East,Debit Card
+TXN100780,2025-09-29,Clothing,Silk Saree,9,529.0,4761.0,East,Net Banking
+TXN100477,2025-06-14,Sports & Fitness,Cycling Helmet,5,3539.0,17695.0,,UPI
+TXN101098,2025-12-06,Home & Kitchen,Air Fryer 4L,1,8109.0,8109.0,West,Credit Card
+TXN100188,2025-02-28,Sports & Fitness,Dumbbell Set 10kg,3,5439.0,16317.0,West,UPI
+TXN100628,2025-08-04,Electronics,Wireless Earbuds,1,14729.0,14729.0,North,Debit Card
+TXN100086,2025-02-02,Clothing,Silk Saree,11,3999.0,43989.0,West,Cash on Delivery
+TXN101186,2025-12-29,Home & Kitchen,Non-stick Kadai,8,1779.0,14232.0,South,UPI
+TXN100199,2025-03-03,Sports & Fitness,Yoga Mat 6mm,1,3729.0,3729.0,North,Debit Card
+TXN100700,2025-09-02,Books & Stationery,Sketchbook A4,12,459.0,5508.0,South,UPI
+TXN100885,2025-10-20,Clothing,Formal Shirt,9,4699.0,42291.0,North,UPI
+TXN100756,2025-09-21,Sports & Fitness,Skipping Rope,3,2379.0,7137.0,North,UPI
+TXN100347,2025-04-28,Clothing,Silk Saree,9,879.0,7911.0,North,UPI
+TXN100614,2025-07-30,Books & Stationery,Fiction Novel,13,979.0,12727.0,West,UPI
+TXN100045,2025-01-15,Home & Kitchen,Pressure Cooker 5L,2,1339.0,2678.0,West,Credit Card
+TXN100537,2025-07-05,Electronics,Power Bank 20000mAh,3,21419.0,64257.0,Central,UPI
+TXN101011,2025-11-06,Sports & Fitness,Cycling Helmet,8,1039.0,8312.0,South,UPI
+TXN100792,2025-10-03,Books & Stationery,Fiction Novel,24,219.0,5256.0,South,Debit Card
+TXN100465,2025-06-11,Home & Kitchen,Air Fryer 4L,2,1969.0,3938.0,West,Credit Card
+TXN100812,2025-10-10,Clothing,Denim Jeans,8,1269.0,10152.0,West,UPI
+TXN100505,2025-06-22,Beauty & Personal Care,Lip Balm,25,979.0,24475.0,West,Debit Card
+TXN100000,2025-01-01,Clothing,Silk Saree,4,5039.0,20156.0,West,UPI
+TXN100679,2025-08-25,Books & Stationery,Sketchbook A4,12,279.0,3348.0,South,UPI
+TXN100953,2025-10-28,Electronics,Wireless Earbuds,5,8019.0,40095.0,East,Debit Card
+TXN100853,2025-10-16,Sports & Fitness,Yoga Mat 6mm,10,1249.0,12490.0,South,UPI
+TXN101113,2025-12-10,Clothing,Cotton Kurta,10,3059.0,30590.0,West,UPI
+TXN100710,2025-09-05,Electronics,Bluetooth Speaker,4,9869.0,39476.0,South,Cash on Delivery
+TXN101014,2025-11-07,Clothing,Cotton Kurta,3,3719.0,11157.0,North,UPI
+TXN100940,2025-10-26,Sports & Fitness,Running Shoes,1,1229.0,1229.0,West,Credit Card
+TXN100101,2025-02-07,Books & Stationery,Gel Pen Set,4,539.0,2156.0,West,UPI
+TXN100841,2025-10-14,Beauty & Personal Care,Body Lotion 400ml,10,699.0,6990.0,North,Net Banking
+TXN100039,2025-01-13,Electronics,LED Monitor 24in,2,22989.0,45978.0,East,UPI
+TXN100016,2025-01-05,Home & Kitchen,Air Fryer 4L,5,4279.0,21395.0,East,Cash on Delivery
+TXN100977,2025-11-01,Sports & Fitness,Running Shoes,6,1919.0,11514.0,South,Debit Card
+TXN100809,2025-10-09,Clothing,Cotton Kurta,7,1529.0,10703.0,North,Net Banking
+TXN100148,2025-02-19,Electronics,Power Bank 20000mAh,3,11049.0,33147.0,North,Net Banking
+TXN101011,2025-11-06,Sports & Fitness,Cycling Helmet,8,1039.0,8312.0,South,UPI
+TXN100177,2025-02-25,Home & Kitchen,Electric Kettle,5,3599.0,17995.0,West,Credit Card
+TXN100136,2025-02-16,Clothing,Sports T-shirt,8,2689.0,21512.0,West,UPI
+TXN100336,2025-04-24,Electronics,Bluetooth Speaker,1,14279.0,14279.0,South,Credit Card
+TXN100727,2025-09-11,Sports & Fitness,Cycling Helmet,3,369.0,1107.0,North,UPI
+TXN100118,2025-02-11,Beauty & Personal Care,Hair Oil 200ml,9,879.0,7911.0,West,Cash on Delivery
+TXN100591,2025-07-22,Electronics,Smart Watch,11,2889.0,31779.0,South,UPI
+TXN100715,2025-09-06,Electronics,Smart Watch,6,3149.0,18894.0,North,Debit Card
+TXN101122,2025-12-13,Electronics,Power Bank 20000mAh,2,9249.0,18498.0,North,Credit Card
+TXN100665,2025-08-19,Clothing,Cotton Kurta,9,4219.0,37971.0,North,Credit Card
+TXN100064,2025-01-19,Home & Kitchen,Mixer Grinder,4,8029.0,32116.0,West,Debit Card
+TXN100574,2025-07-16,Home & Kitchen,Non-stick Kadai,8,4179.0,33432.0,North,UPI
+TXN100610,2025-07-29,Home & Kitchen,Mixer Grinder,2,2249.0,4498.0,East,Net Banking
+TXN100112,2025-02-09,Home & Kitchen,Air Fryer 4L,3,2459.0,7377.0,North,UPI
+TXN100192,2025-03-01,Home & Kitchen,Non-stick Kadai,4,3959.0,15836.0,South,Net Banking
+TXN100750,2025-09-20,Electronics,Bluetooth Speaker,5,6859.0,34295.0,Central,UPI
+TXN100393,2025-05-11,Beauty & Personal Care,Hair Oil 200ml,4,779.0,3116.0,North,Credit Card
+TXN100667,2025-08-20,Electronics,Wireless Earbuds,2,21799.0,43598.0,North,UPI
+TXN100549,2025-07-09,Sports & Fitness,Dumbbell Set 10kg,7,909.0,6363.0,West,UPI
+TXN100847,2025-10-16,Electronics,Power Bank 20000mAh,5,6059.0,30295.0,Central,UPI
+TXN100718,2025-09-07,Clothing,Silk Saree,1,1939.0,1939.0,Central,UPI
+TXN100459,2025-06-09,Sports & Fitness,Dumbbell Set 10kg,5,5379.0,26895.0,South,Net Banking
+TXN100041,2025-01-13,Home & Kitchen,Mixer Grinder,12,1479.0,17748.0,West,Debit Card
+TXN100211,2025-03-07,Clothing,Cotton Kurta,11,4839.0,53229.0,North,UPI
+TXN100186,2025-02-28,Electronics,Bluetooth Speaker,3,24779.0,74337.0,Central,Credit Card
+TXN100124,2025-02-13,Books & Stationery,Sketchbook A4,13,669.0,8697.0,East,
+TXN100358,2025-05-02,Beauty & Personal Care,Lip Balm,10,1189.0,11890.0,East,Credit Card
+TXN100152,2025-02-20,Clothing,Formal Shirt,6,3599.0,21594.0,North,Debit Card
+TXN100297,2025-04-09,Beauty & Personal Care,Sunscreen SPF50,3,2399.0,7197.0,North,Credit Card
+TXN100449,2025-06-04,Home & Kitchen,Pressure Cooker 5L,5,6979.0,34895.0,South,Net Banking
+TXN101051,2025-11-19,Beauty & Personal Care,Perfume 100ml,6,2569.0,15414.0,South,Debit Card
+TXN100246,2025-03-19,Sports & Fitness,Cycling Helmet,9,4229.0,38061.0,South,Debit Card
+TXN100005,2025-01-02,Sports & Fitness,Yoga Mat 6mm,6,3489.0,20934.0,Central,UPI
+TXN100616,2025-08-01,Electronics,USB-C Hub,2,15849.0,31698.0,,Cash on Delivery
+TXN100046,2025-01-15,Books & Stationery,Sketchbook A4,16,119.0,1904.0,North,UPI
+TXN100301,2025-04-10,Clothing,Sports T-shirt,11,1689.0,18579.0,North,Debit Card
+TXN100893,2025-10-21,Beauty & Personal Care,Lip Balm,4,3139.0,12556.0,East,Net Banking
+TXN100410,2025-05-18,Books & Stationery,Exam Guide 2026,15,379.0,5685.0,,UPI
+TXN101160,2025-12-24,Beauty & Personal Care,Face Wash 150ml,11,2159.0,23749.0,East,Cash on Delivery
+TXN100884,2025-10-20,Home & Kitchen,Mixer Grinder,2,6029.0,12058.0,East,UPI
+TXN100951,2025-10-28,Clothing,Silk Saree,15,819.0,12285.0,West,UPI
+TXN101047,2025-11-18,Home & Kitchen,Pressure Cooker 5L,7,3309.0,23163.0,West,Credit Card
+TXN100878,2025-10-19,Home & Kitchen,Electric Kettle,5,5549.0,27745.0,North,Credit Card
+TXN100978,2025-11-01,Electronics,Wireless Earbuds,1,15869.0,15869.0,East,Cash on Delivery
+TXN100708,2025-09-04,Electronics,Wireless Earbuds,1,19739.0,19739.0,South,UPI
+TXN101109,2025-12-09,Electronics,Smart Watch,4,13719.0,54876.0,South,Debit Card
+TXN100877,2025-10-19,Books & Stationery,Gel Pen Set,15,409.0,6135.0,South,Credit Card
+TXN101164,2025-12-26,Books & Stationery,Exam Guide 2026,25,459.0,11475.0,South,UPI
+TXN100312,2025-04-14,Clothing,Silk Saree,24,959.0,23016.0,South,UPI
+TXN100264,2025-03-24,Electronics,Smart Watch,4,9959.0,39836.0,East,Cash on Delivery
+TXN100387,2025-05-11,Beauty & Personal Care,Body Lotion 400ml,22,339.0,7458.0,West,UPI
+TXN100709,2025-09-04,Electronics,Power Bank 20000mAh,2,15889.0,31778.0,West,UPI
+TXN100170,2025-02-24,Books & Stationery,Gel Pen Set,2,,1178.0,West,UPI
+TXN100247,2025-03-19,Books & Stationery,Notebook Pack of 5,16,819.0,13104.0,South,Debit Card
+TXN101120,2025-12-13,Home & Kitchen,Mixer Grinder,8,4789.0,38312.0,South,Cash on Delivery
+TXN100229,2025-03-13,Electronics,USB-C Hub,3,21089.0,63267.0,North,UPI
+TXN100116,2025-02-11,Electronics,Smart Watch,5,7399.0,36995.0,North,UPI
+TXN100560,2025-07-12,Beauty & Personal Care,Hair Oil 200ml,5,2999.0,14995.0,North,Credit Card
+TXN101172,2025-12-27,Electronics,USB-C Hub,1,7709.0,7709.0,North,UPI
+TXN100420,2025-05-21,Books & Stationery,Fiction Novel,9,369.0,3321.0,Central,Debit Card
+TXN100583,2025-07-19,Home & Kitchen,Water Purifier,4,7879.0,31516.0,South,Credit Card
+TXN100749,2025-09-20,Sports & Fitness,Yoga Mat 6mm,4,5549.0,22196.0,East,Debit Card
+TXN100790,2025-10-03,Clothing,Cotton Kurta,2,3049.0,6098.0,North,UPI
+TXN100879,2025-10-19,Clothing,Silk Saree,11,2719.0,29909.0,East,Credit Card
+TXN100926,2025-10-25,Beauty & Personal Care,Lip Balm,4,1269.0,5076.0,East,Credit Card
+TXN100078,2025-01-26,Electronics,LED Monitor 24in,1,23789.0,23789.0,South,Net Banking
+TXN100109,2025-02-08,Clothing,Formal Shirt,9,3379.0,30411.0,South,Credit Card
+TXN100457,2025-06-08,Beauty & Personal Care,Hair Oil 200ml,9,2649.0,23841.0,North,Credit Card
+TXN100763,2025-09-25,Home & Kitchen,Water Purifier,7,4739.0,33173.0,East,UPI
+TXN100111,2025-02-09,Clothing,Cotton Kurta,1,5849.0,5849.0,Central,Cash on Delivery
+TXN101048,2025-11-18,Clothing,Silk Saree,6,5089.0,30534.0,West,UPI
+TXN100548,2025-07-09,Electronics,USB-C Hub,2,5739.0,11478.0,East,UPI
+TXN100573,2025-07-15,Beauty & Personal Care,Body Lotion 400ml,4,2479.0,9916.0,Central,UPI
+TXN100566,2025-07-13,Clothing,Denim Jeans,5,3989.0,19945.0,East,UPI
+TXN100552,2025-07-10,Home & Kitchen,Electric Kettle,1,6469.0,6469.0,North,UPI
+TXN100593,2025-07-22,Electronics,LED Monitor 24in,1,10819.0,10819.0,East,Credit Card
+TXN100972,2025-10-30,Clothing,Winter Jacket,5,1269.0,6345.0,South,UPI
+TXN100102,2025-02-07,Beauty & Personal Care,Body Lotion 400ml,5,3429.0,17145.0,West,UPI
+TXN100454,2025-06-06,Home & Kitchen,Electric Kettle,3,5279.0,15837.0,South,Credit Card
+TXN100941,2025-10-26,Sports & Fitness,Running Shoes,8,4479.0,35832.0,South,UPI
+TXN101152,2025-12-22,Home & Kitchen,Non-stick Kadai,2,5479.0,10958.0,South,UPI
+TXN100724,2025-09-10,Beauty & Personal Care,Sunscreen SPF50,4,2379.0,9516.0,West,UPI
+TXN100626,2025-08-03,Electronics,Power Bank 20000mAh,12,2809.0,33708.0,South,Net Banking
+TXN100824,2025-10-12,Electronics,LED Monitor 24in,2,21759.0,43518.0,North,UPI
+TXN100362,2025-05-03,Home & Kitchen,Mixer Grinder,6,7029.0,42174.0,West,
+TXN100631,2025-08-05,Beauty & Personal Care,Lip Balm,12,1199.0,14388.0,South,Debit Card
+TXN100540,2025-07-05,Electronics,LED Monitor 24in,3,17979.0,53937.0,East,UPI
+TXN100925,2025-10-25,Electronics,Smart Watch,5,7109.0,35545.0,East,Debit Card
+TXN100804,2025-10-06,Electronics,Smart Watch,7,3549.0,24843.0,North,Credit Card
+TXN100688,2025-08-29,Electronics,Wireless Earbuds,1,12479.0,12479.0,,UPI
+TXN100990,2025-11-02,Sports & Fitness,Dumbbell Set 10kg,9,2699.0,24291.0,South,UPI
+TXN100803,2025-10-06,Home & Kitchen,Mixer Grinder,5,1009.0,5045.0,South,UPI
+TXN101085,2025-11-30,Sports & Fitness,Cycling Helmet,8,4209.0,33672.0,North,Debit Card
+TXN100961,2025-10-29,Clothing,Sports T-shirt,4,5179.0,20716.0,West,Net Banking
+TXN100669,2025-08-21,Home & Kitchen,Air Fryer 4L,12,2789.0,33468.0,West,UPI
+TXN100068,2025-01-21,Sports & Fitness,Dumbbell Set 10kg,3,2719.0,8157.0,North,Credit Card
+TXN100586,2025-07-20,Beauty & Personal Care,Perfume 100ml,8,1579.0,12632.0,South,Credit Card
+TXN100452,2025-06-05,Home & Kitchen,Non-stick Kadai,20,759.0,15180.0,South,Debit Card
+TXN100034,2025-01-11,Electronics,Power Bank 20000mAh,6,10839.0,65034.0,West,Cash on Delivery
+TXN100994,2025-11-03,Books & Stationery,Fiction Novel,12,519.0,6228.0,South,UPI
+TXN101130,2025-12-15,Books & Stationery,Sketchbook A4,10,869.0,8690.0,South,UPI
+TXN100475,2025-06-14,Home & Kitchen,Pressure Cooker 5L,10,2829.0,28290.0,West,UPI
+TXN100214,2025-03-08,Clothing,Winter Jacket,8,4629.0,37032.0,West,Net Banking
+TXN100563,2025-07-13,Clothing,Sports T-shirt,4,2939.0,11756.0,North,Debit Card
+TXN100674,2025-08-23,Home & Kitchen,Pressure Cooker 5L,11,2049.0,22539.0,South,Net Banking
+TXN100597,2025-07-24,Sports & Fitness,Running Shoes,2,1199.0,2398.0,North,Credit Card
+TXN100252,2025-03-22,Sports & Fitness,Running Shoes,18,909.0,16362.0,East,UPI
+TXN100617,2025-08-01,Electronics,USB-C Hub,6,6349.0,38094.0,Central,Credit Card
+TXN100683,2025-08-27,Home & Kitchen,Electric Kettle,1,5259.0,5259.0,South,Credit Card
+TXN100134,2025-02-15,Home & Kitchen,Water Purifier,3,8879.0,26637.0,Central,Cash on Delivery
+TXN100578,2025-07-18,Electronics,LED Monitor 24in,3,21089.0,63267.0,North,UPI
+TXN100784,2025-10-01,Clothing,Sports T-shirt,4,2819.0,11276.0,East,Credit Card
+TXN100127,2025-02-13,Electronics,Power Bank 20000mAh,1,11479.0,11479.0,West,Debit Card
+TXN101095,2025-12-05,Electronics,Smart Watch,2,22419.0,44838.0,North,Credit Card
+TXN100796,2025-10-04,Clothing,Sports T-shirt,11,419.0,4609.0,West,UPI
+TXN100237,2025-03-15,Beauty & Personal Care,Hair Oil 200ml,25,299.0,7475.0,West,UPI
+TXN101089,2025-12-02,Electronics,Wireless Earbuds,1,1809.0,1809.0,Central,UPI
+TXN100946,2025-10-27,Books & Stationery,Exam Guide 2026,7,429.0,3003.0,North,UPI
+TXN100807,2025-10-08,Clothing,Silk Saree,-6,999.0,-5994.0,South,Credit Card
+TXN101105,2025-12-08,Home & Kitchen,Mixer Grinder,1,2979.0,2979.0,West,Credit Card
+TXN100055,2025-01-18,Clothing,Winter Jacket,3,5969.0,17907.0,South,Credit Card
+TXN100916,2025-10-25,Books & Stationery,Sketchbook A4,25,599.0,14975.0,West,UPI
+TXN100105,2025-02-07,Electronics,Smart Watch,2,21789.0,43578.0,North,UPI
+TXN100163,2025-02-22,Clothing,Denim Jeans,8,579.0,4632.0,East,UPI
+TXN100746,2025-09-20,Beauty & Personal Care,Lip Balm,8,2789.0,22312.0,North,Credit Card
+TXN100902,2025-10-23,Beauty & Personal Care,Lip Balm,7,3439.0,24073.0,West,UPI
+TXN100592,2025-07-22,Clothing,Sports T-shirt,2,5219.0,10438.0,South,Credit Card
+TXN100692,2025-08-31,Beauty & Personal Care,Perfume 100ml,11,1669.0,18359.0,North,Credit Card
+TXN100959,2025-10-29,Home & Kitchen,Air Fryer 4L,4,7469.0,29876.0,West,Net Banking
+TXN100779,2025-09-28,Clothing,Cotton Kurta,9,3999.0,35991.0,West,Net Banking
+TXN100518,2025-06-29,Electronics,LED Monitor 24in,4,1749.0,6996.0,North,Credit Card
+TXN100806,2025-10-07,Sports & Fitness,Yoga Mat 6mm,11,3019.0,33209.0,South,Debit Card
+TXN100787,2025-10-02,Clothing,Sports T-shirt,3,619.0,1857.0,North,Net Banking
+TXN101140,2025-12-20,Home & Kitchen,Air Fryer 4L,4,6479.0,25916.0,South,Credit Card
+TXN100543,2025-07-07,Home & Kitchen,Non-stick Kadai,4,5219.0,20876.0,West,UPI
+TXN100719,2025-09-07,Electronics,USB-C Hub,2,12609.0,25218.0,,Debit Card
+TXN101070,2025-11-26,Sports & Fitness,Cricket Bat,2,5929.0,11858.0,North,UPI
+TXN100650,2025-08-13,Sports & Fitness,Running Shoes,12,4679.0,56148.0,West,Credit Card
+TXN101190,2025-12-30,Clothing,Cotton Kurta,5,5999.0,29995.0,East,Net Banking
+TXN100406,2025-05-17,Home & Kitchen,Mixer Grinder,2,4999.0,9998.0,North,UPI
+TXN101043,2025-11-15,Electronics,Wireless Earbuds,3,6029.0,18087.0,West,Debit Card
+TXN100921,2025-10-25,Beauty & Personal Care,Lip Balm,9,2929.0,26361.0,North,Debit Card
+TXN100446,2025-06-03,Clothing,Denim Jeans,4,5909.0,23636.0,North,UPI
+TXN100479,2025-06-15,Books & Stationery,Exam Guide 2026,11,1069.0,11759.0,Central,UPI
+TXN100742,2025-09-18,Electronics,Bluetooth Speaker,3,10419.0,31257.0,Central,UPI
+TXN101058,2025-11-21,Home & Kitchen,Electric Kettle,4,7749.0,30996.0,North,Net Banking
+TXN100261,2025-03-23,Electronics,Power Bank 20000mAh,3,23499.0,70497.0,East,Debit Card
+TXN100294,2025-04-08,Clothing,Sports T-shirt,6,2629.0,15774.0,South,Credit Card
+TXN100733,2025-09-14,Electronics,Power Bank 20000mAh,2,6859.0,13718.0,South,Credit Card
+TXN101162,2025-12-25,Electronics,USB-C Hub,12,1329.0,15948.0,,UPI
+TXN100603,2025-07-27,Electronics,Wireless Earbuds,9,2889.0,26001.0,Central,Debit Card
+TXN100716,2025-09-06,Home & Kitchen,Electric Kettle,6,8309.0,49854.0,East,Cash on Delivery
+TXN100159,2025-02-22,Beauty & Personal Care,Face Wash 150ml,4,1269.0,5076.0,West,Credit Card
+TXN100656,2025-08-17,Home & Kitchen,Water Purifier,4,7259.0,29036.0,North,Net Banking
+TXN100333,2025-04-23,Electronics,USB-C Hub,3,14459.0,43377.0,Central,UPI
+TXN100279,2025-04-03,Sports & Fitness,Cricket Bat,2,3029.0,6058.0,Central,Cash on Delivery
+TXN101177,2025-12-28,Beauty & Personal Care,Hair Oil 200ml,9,1059.0,9531.0,North,UPI
+TXN100533,2025-07-04,Home & Kitchen,Mixer Grinder,7,2839.0,19873.0,East,Credit Card
+TXN101127,2025-12-14,Electronics,Bluetooth Speaker,1,16339.0,16339.0,Central,Cash on Delivery
+TXN100014,2025-01-04,Books & Stationery,Sketchbook A4,11,529.0,5819.0,East,UPI
+TXN100620,2025-08-02,Clothing,Denim Jeans,5,5979.0,29895.0,South,UPI
+TXN100392,2025-05-11,Books & Stationery,Notebook Pack of 5,25,239.0,5975.0,West,Credit Card
+TXN100422,2025-05-21,Books & Stationery,Desk Organiser,24,689.0,16536.0,East,UPI
+TXN101029,2025-11-10,Clothing,Winter Jacket,12,4469.0,53628.0,South,Debit Card
+TXN100046,2025-01-15,Books & Stationery,Sketchbook A4,16,119.0,1904.0,North,UPI
+TXN100984,2025-11-02,Electronics,Power Bank 20000mAh,2,17549.0,35098.0,South,UPI
+TXN100745,2025-09-19,Home & Kitchen,Water Purifier,3,4729.0,14187.0,,UPI
+TXN100236,2025-03-14,Sports & Fitness,Yoga Mat 6mm,3,1309.0,3927.0,North,UPI
+TXN100466,2025-06-12,Electronics,USB-C Hub,1,12469.0,12469.0,North,Debit Card
+TXN100291,2025-04-07,Books & Stationery,Gel Pen Set,11,709.0,7799.0,North,UPI
+TXN100233,2025-03-13,Beauty & Personal Care,Perfume 100ml,4,1549.0,6196.0,South,Credit Card
+TXN100855,2025-10-17,Electronics,USB-C Hub,2,11929.0,23858.0,East,Cash on Delivery
+TXN100409,2025-05-18,Clothing,Denim Jeans,5,4889.0,24445.0,West,Credit Card
+TXN100845,2025-10-15,Clothing,Winter Jacket,12,4979.0,59748.0,Central,Credit Card
+TXN100319,2025-04-16,Clothing,Sports T-shirt,8,2379.0,19032.0,West,Debit Card
+TXN100904,2025-10-23,Beauty & Personal Care,Hair Oil 200ml,3,379.0,1137.0,West,Net Banking
+TXN101088,2025-12-02,Electronics,LED Monitor 24in,5,6109.0,30545.0,South,Credit Card
+TXN100644,2025-08-10,Home & Kitchen,Electric Kettle,2,5789.0,11578.0,North,Credit Card
+TXN100654,2025-08-17,Sports & Fitness,Cycling Helmet,4,4639.0,18556.0,North,Credit Card
+TXN100664,2025-08-18,Electronics,Power Bank 20000mAh,2,19609.0,39218.0,West,Debit Card
+TXN100059,2025-01-19,Clothing,Denim Jeans,-11,3929.0,-43219.0,South,Debit Card
+TXN100913,2025-10-24,Home & Kitchen,Water Purifier,3,5819.0,17457.0,South,Debit Card
+TXN100609,2025-07-28,Home & Kitchen,Non-stick Kadai,22,869.0,19118.0,North,Net Banking
+TXN100461,2025-06-10,Clothing,Silk Saree,6,4939.0,29634.0,West,UPI
+TXN101049,2025-11-19,Electronics,Bluetooth Speaker,5,12349.0,61745.0,West,Debit Card
+TXN100534,2025-07-05,Home & Kitchen,Water Purifier,3,1629.0,4887.0,North,Cash on Delivery
+TXN101146,2025-12-21,Electronics,Smart Watch,5,14859.0,74295.0,West,Debit Card
+TXN100636,2025-08-08,Clothing,Silk Saree,4,1659.0,6636.0,South,Net Banking
+TXN101056,2025-11-20,Beauty & Personal Care,Face Wash 150ml,6,3059.0,18354.0,West,Cash on Delivery
+TXN100401,2025-05-14,Home & Kitchen,Pressure Cooker 5L,1,1219.0,1219.0,North,UPI
+TXN100619,2025-08-02,Home & Kitchen,Mixer Grinder,3,5589.0,16767.0,East,Debit Card
+TXN100371,2025-05-05,Clothing,Formal Shirt,8,1249.0,9992.0,North,UPI
+TXN100399,2025-05-13,Home & Kitchen,Mixer Grinder,7,1479.0,10353.0,North,Cash on Delivery
+TXN100613,2025-07-30,Clothing,Denim Jeans,6,4969.0,29814.0,West,Debit Card
+TXN100894,2025-10-21,Clothing,Sports T-shirt,11,2429.0,26719.0,East,Credit Card
+TXN100726,2025-09-11,Clothing,Cotton Kurta,4,4219.0,16876.0,,UPI
+TXN100037,2025-01-12,Electronics,Bluetooth Speaker,5,8379.0,41895.0,Central,UPI
+TXN100589,2025-07-22,Electronics,Wireless Earbuds,1,17629.0,17629.0,South,UPI
+TXN100675,2025-08-24,Electronics,Bluetooth Speaker,10,3079.0,30790.0,South,UPI
+TXN100106,2025-02-08,Books & Stationery,Sketchbook A4,3,919.0,2757.0,,Net Banking
+TXN100322,2025-04-17,Electronics,Bluetooth Speaker,3,17709.0,53127.0,North,UPI
+TXN100351,2025-04-29,Home & Kitchen,Air Fryer 4L,5,799.0,3995.0,North,Cash on Delivery
+TXN100356,2025-05-01,Clothing,Silk Saree,8,959.0,7672.0,East,UPI
+TXN100251,2025-03-21,Clothing,Cotton Kurta,16,969.0,15504.0,North,Credit Card
+TXN101175,2025-12-27,Clothing,Silk Saree,2,5959.0,11918.0,North,Cash on Delivery
+TXN100390,2025-05-11,Electronics,Wireless Earbuds,4,9619.0,38476.0,North,UPI
+TXN100443,2025-06-02,Electronics,Smart Watch,2,19929.0,39858.0,North,Net Banking
+TXN100720,2025-09-08,Home & Kitchen,Pressure Cooker 5L,3,1079.0,3237.0,South,Net Banking
+TXN100215,2025-03-08,Electronics,Wireless Earbuds,4,6349.0,25396.0,West,Debit Card
+TXN100338,2025-04-26,Electronics,USB-C Hub,3,15899.0,47697.0,East,Cash on Delivery
+TXN100056,2025-01-18,Home & Kitchen,Water Purifier,1,5619.0,5619.0,,Credit Card
+TXN100181,2025-02-27,Beauty & Personal Care,Sunscreen SPF50,9,3479.0,31311.0,South,UPI
+TXN100053,2025-01-17,Beauty & Personal Care,Face Wash 150ml,12,919.0,11028.0,West,UPI
+TXN101066,2025-11-24,Home & Kitchen,Non-stick Kadai,6,6549.0,39294.0,North,Credit Card
+TXN101125,2025-12-14,Clothing,Silk Saree,1,5219.0,5219.0,East,Debit Card
+TXN100346,2025-04-27,Clothing,Sports T-shirt,3,3549.0,10647.0,West,Debit Card
+TXN100231,2025-03-13,Beauty & Personal Care,Lip Balm,6,1829.0,10974.0,Central,UPI
+TXN100151,2025-02-20,Books & Stationery,Gel Pen Set,15,169.0,2535.0,West,Credit Card
+TXN101006,2025-11-05,Sports & Fitness,Cycling Helmet,3,5779.0,17337.0,North,UPI
+TXN101027,2025-11-10,Home & Kitchen,Mixer Grinder,6,3499.0,20994.0,North,Debit Card
+TXN100230,2025-03-13,Electronics,Power Bank 20000mAh,6,6789.0,40734.0,East,UPI
+TXN100524,2025-06-30,Beauty & Personal Care,Sunscreen SPF50,8,1949.0,15592.0,North,Debit Card
+TXN100794,2025-10-03,Beauty & Personal Care,Lip Balm,8,2949.0,23592.0,North,UPI
+TXN100971,2025-10-30,Electronics,USB-C Hub,1,14779.0,14779.0,West,Cash on Delivery
+TXN100976,2025-11-01,Electronics,Bluetooth Speaker,1,14829.0,14829.0,North,UPI
+TXN100257,2025-03-23,Home & Kitchen,Water Purifier,5,7359.0,36795.0,North,Credit Card
+TXN100388,2025-05-11,Home & Kitchen,Electric Kettle,2,8969.0,17938.0,North,Net Banking
+TXN100525,2025-06-30,Clothing,Denim Jeans,4,2239.0,8956.0,Central,Credit Card
+TXN100185,2025-02-27,Home & Kitchen,Water Purifier,5,3419.0,17095.0,North,UPI
+TXN100043,2025-01-15,Beauty & Personal Care,Hair Oil 200ml,7,1969.0,13783.0,West,Cash on Delivery
+TXN100473,2025-06-13,Sports & Fitness,Skipping Rope,11,3539.0,38929.0,West,UPI
+TXN100854,2025-10-17,Clothing,Sports T-shirt,1,5689.0,5689.0,North,Debit Card
+TXN100142,2025-02-17,Electronics,Power Bank 20000mAh,1,22709.0,22709.0,East,UPI
+TXN100805,2025-10-07,Home & Kitchen,Water Purifier,5,739.0,3695.0,North,UPI
+TXN101072,2025-11-26,Home & Kitchen,Non-stick Kadai,5,1679.0,8395.0,Central,UPI
+TXN100762,2025-09-24,Electronics,Power Bank 20000mAh,4,6059.0,24236.0,West,UPI
+TXN100712,2025-09-06,Clothing,Winter Jacket,4,5559.0,22236.0,South,UPI
+TXN100681,2025-08-25,Home & Kitchen,Water Purifier,11,2509.0,27599.0,North,Cash on Delivery
+TXN100832,2025-10-12,Clothing,Cotton Kurta,1,1199.0,1199.0,Central,Cash on Delivery
+TXN100329,2025-04-21,Clothing,Winter Jacket,7,759.0,5313.0,West,UPI
+TXN100512,2025-06-26,Books & Stationery,Fiction Novel,9,179.0,1611.0,North,UPI
+TXN100851,2025-10-16,Clothing,Denim Jeans,3,4019.0,12057.0,North,UPI
+TXN100579,2025-07-18,Home & Kitchen,Mixer Grinder,4,5859.0,23436.0,West,Cash on Delivery
+TXN100781,2025-09-29,Home & Kitchen,Water Purifier,2,3089.0,6178.0,South,
+TXN101094,2025-12-04,Home & Kitchen,Mixer Grinder,4,4929.0,19716.0,South,Debit Card
+TXN100829,2025-10-12,Electronics,LED Monitor 24in,3,19019.0,57057.0,West,UPI
+TXN100819,2025-10-11,Clothing,Denim Jeans,12,1749.0,20988.0,North,UPI
+TXN101097,2025-12-06,Home & Kitchen,Pressure Cooker 5L,6,8049.0,48294.0,East,Credit Card
+TXN100886,2025-10-20,Home & Kitchen,Air Fryer 4L,3,4189.0,12567.0,North,UPI
+TXN100782,2025-09-29,Electronics,Smart Watch,2,19129.0,38258.0,Central,UPI
+TXN100929,2025-10-25,Sports & Fitness,Skipping Rope,12,1769.0,21228.0,North,Debit Card
+TXN101083,2025-11-30,Electronics,Bluetooth Speaker,2,21469.0,42938.0,North,UPI
+TXN100643,2025-08-10,Beauty & Personal Care,Lip Balm,14,199.0,2786.0,North,Credit Card
+TXN101060,2025-11-22,Sports & Fitness,Yoga Mat 6mm,4,4179.0,16716.0,West,Debit Card
+TXN100283,2025-04-05,Clothing,Denim Jeans,2,5219.0,10438.0,West,Cash on Delivery
+TXN100645,2025-08-10,Home & Kitchen,Electric Kettle,3,1849.0,5547.0,North,UPI
+TXN100417,2025-05-20,Clothing,Cotton Kurta,8,2759.0,22072.0,North,UPI
+TXN101187,2025-12-29,Beauty & Personal Care,Body Lotion 400ml,5,929.0,4645.0,West,UPI
+TXN100642,2025-08-10,Home & Kitchen,Electric Kettle,1,6859.0,6859.0,North,UPI
+TXN101034,2025-11-12,Sports & Fitness,Dumbbell Set 10kg,1,6819.0,6819.0,West,UPI
+TXN100114,2025-02-10,Clothing,Cotton Kurta,10,3929.0,39290.0,West,
+TXN100896,2025-10-22,Sports & Fitness,Running Shoes,5,1459.0,7295.0,East,UPI
+TXN100289,2025-04-06,Sports & Fitness,Cricket Bat,5,5649.0,28245.0,West,Net Banking
+TXN100778,2025-09-28,Home & Kitchen,Pressure Cooker 5L,10,3549.0,35490.0,South,Cash on Delivery
+TXN101090,2025-12-03,Beauty & Personal Care,Body Lotion 400ml,12,2389.0,28668.0,East,Credit Card
+TXN100271,2025-03-28,Beauty & Personal Care,Lip Balm,1,1029.0,1029.0,South,UPI
+TXN100706,2025-09-04,Home & Kitchen,Non-stick Kadai,11,3549.0,39039.0,North,Cash on Delivery
+TXN100313,2025-04-14,Books & Stationery,Exam Guide 2026,12,839.0,10068.0,West,Cash on Delivery
+TXN100686,2025-08-29,Home & Kitchen,Pressure Cooker 5L,6,3409.0,20454.0,North,Debit Card
+TXN100284,2025-04-05,Sports & Fitness,Cycling Helmet,12,1829.0,21948.0,Central,Credit Card
+TXN100129,2025-02-14,Clothing,Denim Jeans,4,3989.0,15956.0,South,Debit Card
+TXN100395,2025-05-12,Electronics,Wireless Earbuds,6,9879.0,59274.0,North,Credit Card
+TXN100326,2025-04-19,Electronics,USB-C Hub,3,12209.0,36627.0,West,Debit Card
+TXN101137,2025-12-20,Books & Stationery,Sketchbook A4,12,379.0,4548.0,East,Credit Card
+TXN100891,2025-10-21,Electronics,LED Monitor 24in,3,20229.0,60687.0,North,Debit Card
+TXN100774,2025-09-28,Home & Kitchen,Non-stick Kadai,5,4459.0,22295.0,South,Cash on Delivery
+TXN100040,2025-01-13,Home & Kitchen,Water Purifier,1,8739.0,8739.0,South,UPI
+TXN100306,2025-04-11,Electronics,LED Monitor 24in,2,14409.0,28818.0,South,UPI
+TXN100373,2025-05-06,Home & Kitchen,Water Purifier,5,2209.0,11045.0,West,Credit Card
+TXN101129,2025-12-15,Electronics,Power Bank 20000mAh,2,11139.0,22278.0,North,Cash on Delivery
+TXN100495,2025-06-20,Sports & Fitness,Cricket Bat,4,4129.0,16516.0,North,UPI
+TXN100272,2025-03-29,Clothing,Sports T-shirt,9,4579.0,41211.0,South,Credit Card
+TXN100008,2025-01-03,Sports & Fitness,Dumbbell Set 10kg,4,2719.0,10876.0,North,UPI
+TXN100838,2025-10-13,Clothing,Formal Shirt,3,,17637.0,South,UPI
+TXN100740,2025-09-17,Clothing,Sports T-shirt,4,1409.0,5636.0,West,Debit Card
+TXN100652,2025-08-16,Home & Kitchen,Electric Kettle,5,3419.0,17095.0,Central,UPI
+TXN100942,2025-10-26,Books & Stationery,Exam Guide 2026,4,669.0,2676.0,North,UPI
+TXN100397,2025-05-13,Electronics,USB-C Hub,3,21759.0,65277.0,North,UPI
+TXN100414,2025-05-20,Books & Stationery,Gel Pen Set,16,799.0,12784.0,West,Debit Card
+TXN100846,2025-10-15,Home & Kitchen,Pressure Cooker 5L,3,6159.0,18477.0,South,Debit Card
+TXN100753,2025-09-21,Electronics,Wireless Earbuds,3,8769.0,26307.0,North,Credit Card
+TXN100457,2025-06-08,Beauty & Personal Care,Hair Oil 200ml,9,2649.0,23841.0,North,Credit Card
+TXN100504,2025-06-22,Clothing,Sports T-shirt,4,5169.0,20676.0,South,Net Banking
+TXN100532,2025-07-03,Clothing,Silk Saree,1,4189.0,4189.0,South,Cash on Delivery
+TXN100969,2025-10-30,Home & Kitchen,Air Fryer 4L,5,1499.0,7495.0,North,Credit Card
+TXN101124,2025-12-14,Clothing,Winter Jacket,12,3139.0,37668.0,North,Credit Card
+TXN100861,2025-10-18,Home & Kitchen,Pressure Cooker 5L,3,4019.0,12057.0,West,Credit Card
+TXN100958,2025-10-29,Electronics,Smart Watch,3,24129.0,72387.0,Central,Credit Card
+TXN100491,2025-06-19,Electronics,Power Bank 20000mAh,1,11129.0,11129.0,West,UPI
+TXN100079,2025-01-26,Beauty & Personal Care,Perfume 100ml,6,739.0,4434.0,West,UPI
+TXN100920,2025-10-25,Home & Kitchen,Air Fryer 4L,4,7009.0,28036.0,East,Credit Card
+TXN100342,2025-04-26,Beauty & Personal Care,Lip Balm,2,1939.0,3878.0,West,Credit Card
+TXN101188,2025-12-29,Home & Kitchen,Non-stick Kadai,5,7049.0,35245.0,North,Net Banking
+TXN100049,2025-01-16,Clothing,Formal Shirt,11,3409.0,37499.0,East,UPI
+TXN100250,2025-03-21,Clothing,Sports T-shirt,9,3989.0,35901.0,West,Credit Card
+TXN101165,2025-12-26,Clothing,Denim Jeans,8,1809.0,14472.0,East,Cash on Delivery
+TXN100020,2025-01-05,Electronics,LED Monitor 24in,2,19179.0,38358.0,North,Net Banking
+TXN100569,2025-07-14,Electronics,Power Bank 20000mAh,2,7509.0,15018.0,South,Debit Card
+TXN100815,2025-10-10,Beauty & Personal Care,Lip Balm,7,2559.0,17913.0,North,Debit Card
+TXN100135,2025-02-15,Beauty & Personal Care,Lip Balm,4,1219.0,4876.0,East,Credit Card
+TXN100536,2025-07-05,Beauty & Personal Care,Body Lotion 400ml,11,2539.0,27929.0,South,Cash on Delivery
+TXN100567,2025-07-13,Home & Kitchen,Electric Kettle,2,7729.0,15458.0,South,Net Banking
+TXN100653,2025-08-17,Electronics,Power Bank 20000mAh,1,16869.0,16869.0,Central,UPI
+TXN100696,2025-09-01,Books & Stationery,Sketchbook A4,3,929.0,2787.0,West,Cash on Delivery
+TXN101030,2025-11-11,Beauty & Personal Care,Body Lotion 400ml,12,2709.0,32508.0,South,UPI
+TXN100481,2025-06-15,Electronics,Power Bank 20000mAh,1,7069.0,7069.0,North,UPI
+TXN100033,2025-01-11,Clothing,Winter Jacket,3,1179.0,3537.0,North,UPI
+TXN101126,2025-12-14,Clothing,Sports T-shirt,8,1839.0,14712.0,Central,UPI
+TXN100382,2025-05-10,Home & Kitchen,Air Fryer 4L,-2,6599.0,-13198.0,East,Credit Card
+TXN100025,2025-01-07,Sports & Fitness,Cycling Helmet,5,4089.0,20445.0,North,UPI
+TXN100047,2025-01-15,Books & Stationery,Desk Organiser,7,659.0,4613.0,Central,Cash on Delivery
+TXN101168,2025-12-27,Beauty & Personal Care,Face Wash 150ml,6,439.0,2634.0,North,Cash on Delivery
+TXN100174,2025-02-25,Sports & Fitness,Yoga Mat 6mm,6,2169.0,13014.0,West,UPI
+TXN100029,2025-01-08,Clothing,Winter Jacket,6,2469.0,14814.0,South,UPI
+TXN100571,2025-07-15,Sports & Fitness,Dumbbell Set 10kg,2,6689.0,13378.0,South,Net Banking
+TXN100153,2025-02-20,Electronics,LED Monitor 24in,3,21409.0,64227.0,South,Credit Card
+TXN100992,2025-11-03,Beauty & Personal Care,Face Wash 150ml,7,1289.0,9023.0,East,Cash on Delivery
+TXN100783,2025-09-30,Books & Stationery,Gel Pen Set,16,939.0,15024.0,North,Credit Card
+TXN101008,2025-11-06,Clothing,Cotton Kurta,6,609.0,3654.0,West,UPI
+TXN100161,2025-02-22,Sports & Fitness,Skipping Rope,6,1249.0,7494.0,North,Debit Card
+TXN100244,2025-03-18,Electronics,Wireless Earbuds,1,19409.0,19409.0,North,Cash on Delivery
+TXN100510,2025-06-25,Electronics,LED Monitor 24in,4,11929.0,47716.0,West,Credit Card
+TXN100158,2025-02-22,Electronics,LED Monitor 24in,5,9289.0,46445.0,North,Credit Card
+TXN100530,2025-07-02,Home & Kitchen,Electric Kettle,4,3739.0,14956.0,South,Credit Card
+TXN100501,2025-06-21,Electronics,Power Bank 20000mAh,1,17149.0,17149.0,South,Debit Card
+TXN100432,2025-05-30,Home & Kitchen,Mixer Grinder,3,5559.0,16677.0,East,UPI
+TXN100956,2025-10-28,Clothing,Cotton Kurta,4,5029.0,20116.0,South,Debit Card
+TXN101092,2025-12-03,Home & Kitchen,Air Fryer 4L,11,1829.0,20119.0,West,UPI
+TXN100332,2025-04-22,Home & Kitchen,Air Fryer 4L,7,3339.0,23373.0,North,UPI
+TXN100938,2025-10-26,Books & Stationery,Sketchbook A4,16,659.0,10544.0,West,UPI
+TXN100366,2025-05-04,Beauty & Personal Care,Sunscreen SPF50,3,999.0,2997.0,North,Cash on Delivery
+TXN101121,2025-12-13,Beauty & Personal Care,Perfume 100ml,7,3329.0,23303.0,South,Debit Card
+TXN100054,2025-01-18,Books & Stationery,Desk Organiser,6,199.0,1194.0,South,Credit Card
+TXN100584,2025-07-19,Books & Stationery,Exam Guide 2026,10,1069.0,10690.0,South,Cash on Delivery
+TXN100680,2025-08-25,Clothing,Formal Shirt,6,5919.0,35514.0,East,Debit Card
+TXN100892,2025-10-21,Home & Kitchen,Electric Kettle,1,5089.0,5089.0,North,UPI
+TXN100962,2025-10-29,Beauty & Personal Care,Lip Balm,18,179.0,3222.0,East,UPI
+TXN100766,2025-09-27,Electronics,USB-C Hub,11,2299.0,25289.0,East,Credit Card
+TXN100024,2025-01-07,Clothing,Denim Jeans,13,429.0,5577.0,West,UPI
+TXN100298,2025-04-09,Books & Stationery,Fiction Novel,5,1059.0,5295.0,Central,Net Banking
+TXN100556,2025-07-11,Electronics,Power Bank 20000mAh,2,,30058.0,North,UPI
+TXN100575,2025-07-16,Home & Kitchen,Non-stick Kadai,4,5459.0,21836.0,North,Credit Card
+TXN100018,2025-01-05,Clothing,Denim Jeans,8,3499.0,27992.0,South,UPI
+TXN100987,2025-11-02,Electronics,Bluetooth Speaker,6,5729.0,34374.0,North,Credit Card
+TXN100254,2025-03-22,Home & Kitchen,Water Purifier,6,6699.0,40194.0,South,UPI
+TXN100225,2025-03-11,Books & Stationery,Gel Pen Set,7,299.0,2093.0,East,Credit Card
+TXN100599,2025-07-24,Clothing,Winter Jacket,1,5349.0,5349.0,North,UPI
+TXN101180,2025-12-28,Home & Kitchen,Air Fryer 4L,2,5449.0,10898.0,North,UPI
+TXN100419,2025-05-21,Books & Stationery,Fiction Novel,20,639.0,12780.0,South,UPI
+TXN100842,2025-10-14,Home & Kitchen,Pressure Cooker 5L,10,3449.0,34490.0,North,Debit Card
+TXN101032,2025-11-11,Home & Kitchen,Pressure Cooker 5L,4,5019.0,20076.0,North,Net Banking
+TXN100222,2025-03-10,Books & Stationery,Desk Organiser,3,509.0,1527.0,North,UPI
+TXN100932,2025-10-26,Clothing,Sports T-shirt,1,4019.0,4019.0,West,Debit Card
+TXN100424,2025-05-23,Electronics,USB-C Hub,2,18039.0,36078.0,,Credit Card
+TXN100218,2025-03-08,Books & Stationery,Notebook Pack of 5,18,759.0,13662.0,South,UPI
+TXN100307,2025-04-11,Clothing,Silk Saree,3,3369.0,10107.0,West,Credit Card
+TXN100923,2025-10-25,Beauty & Personal Care,Hair Oil 200ml,9,829.0,7461.0,South,UPI
+TXN100171,2025-02-25,Clothing,Cotton Kurta,12,3059.0,36708.0,North,UPI
+TXN100442,2025-06-02,Clothing,Winter Jacket,2,3259.0,6518.0,North,UPI
+TXN100895,2025-10-22,Sports & Fitness,Running Shoes,2,4169.0,8338.0,West,UPI
+TXN100705,2025-09-04,Home & Kitchen,Air Fryer 4L,10,2849.0,28490.0,East,UPI
+TXN100770,2025-09-28,Electronics,USB-C Hub,3,14489.0,43467.0,North,Net Banking
+TXN100286,2025-04-05,Electronics,Power Bank 20000mAh,2,22329.0,44658.0,East,Credit Card
+TXN100066,2025-01-20,Home & Kitchen,Non-stick Kadai,1,5269.0,5269.0,West,UPI
+TXN100453,2025-06-06,Beauty & Personal Care,Face Wash 150ml,8,1159.0,9272.0,South,Cash on Delivery
+TXN101169,2025-12-27,Books & Stationery,Notebook Pack of 5,11,439.0,4829.0,South,UPI
+TXN100071,2025-01-22,Beauty & Personal Care,Face Wash 150ml,12,1819.0,21828.0,East,Net Banking
+TXN100874,2025-10-19,Electronics,LED Monitor 24in,1,13129.0,13129.0,West,UPI
+TXN100412,2025-05-18,Electronics,Wireless Earbuds,9,2909.0,26181.0,South,UPI
+TXN100082,2025-01-28,Electronics,LED Monitor 24in,3,19569.0,58707.0,South,Net Banking
+TXN100156,2025-02-21,Sports & Fitness,Running Shoes,3,6009.0,18027.0,North,Credit Card
+TXN101156,2025-12-23,Books & Stationery,Notebook Pack of 5,25,389.0,9725.0,West,UPI
+TXN100015,2025-01-04,Home & Kitchen,Mixer Grinder,3,1559.0,4677.0,West,Credit Card
+TXN100265,2025-03-25,Electronics,USB-C Hub,3,22679.0,68037.0,West,Credit Card
+TXN100535,2025-07-05,Home & Kitchen,Mixer Grinder,1,8609.0,8609.0,North,UPI
+TXN100816,2025-10-10,Books & Stationery,Gel Pen Set,4,1179.0,4716.0,South,UPI
+TXN100451,2025-06-05,Beauty & Personal Care,Hair Oil 200ml,12,3169.0,38028.0,North,Debit Card
+TXN100880,2025-10-20,Clothing,Formal Shirt,1,5419.0,5419.0,Central,Credit Card
+TXN100811,2025-10-09,Sports & Fitness,Cycling Helmet,8,3129.0,25032.0,South,UPI
+TXN100404,2025-05-16,Home & Kitchen,Electric Kettle,5,7009.0,35045.0,West,UPI
+TXN101114,2025-12-10,Home & Kitchen,Pressure Cooker 5L,7,4559.0,31913.0,Central,Credit Card
+TXN100490,2025-06-18,Home & Kitchen,Water Purifier,3,3269.0,9807.0,North,UPI
+TXN101077,2025-11-28,Electronics,Power Bank 20000mAh,1,24209.0,24209.0,West,Credit Card
+TXN100541,2025-07-06,Beauty & Personal Care,Face Wash 150ml,10,3099.0,30990.0,East,Net Banking
+TXN100693,2025-08-31,Home & Kitchen,Electric Kettle,10,3519.0,35190.0,West,UPI
+TXN100739,2025-09-15,Clothing,Cotton Kurta,3,3239.0,9717.0,West,Debit Card
+TXN100364,2025-05-04,Home & Kitchen,Non-stick Kadai,9,4639.0,41751.0,East,UPI
+TXN100629,2025-08-04,Books & Stationery,Sketchbook A4,10,1059.0,10590.0,South,Net Banking
+TXN100459,2025-06-09,Sports & Fitness,Dumbbell Set 10kg,5,5379.0,26895.0,South,Net Banking
+TXN100104,2025-02-07,Electronics,Smart Watch,1,18139.0,18139.0,East,Credit Card
+TXN100268,2025-03-26,Clothing,Cotton Kurta,6,2299.0,13794.0,North,Credit Card
+TXN100608,2025-07-28,Beauty & Personal Care,Lip Balm,10,1749.0,17490.0,South,Debit Card
+TXN101119,2025-12-12,Clothing,Sports T-shirt,10,1459.0,14590.0,East,UPI
+TXN100955,2025-10-28,Electronics,LED Monitor 24in,5,9409.0,47045.0,North,Debit Card
+TXN100661,2025-08-18,Home & Kitchen,Air Fryer 4L,5,2259.0,11295.0,West,UPI
+TXN100241,2025-03-16,Electronics,Power Bank 20000mAh,4,8279.0,33116.0,South,Cash on Delivery
+TXN100430,2025-05-29,Electronics,Power Bank 20000mAh,2,2119.0,4238.0,South,Credit Card
+TXN100814,2025-10-10,Books & Stationery,Exam Guide 2026,23,999.0,22977.0,West,UPI
+TXN100960,2025-10-29,Home & Kitchen,Pressure Cooker 5L,1,5419.0,5419.0,North,UPI
+TXN100203,2025-03-03,Electronics,USB-C Hub,1,23329.0,23329.0,Central,UPI
+TXN101170,2025-12-27,Books & Stationery,Gel Pen Set,7,489.0,3423.0,South,UPI
+TXN100595,2025-07-23,Clothing,Formal Shirt,4,5919.0,23676.0,East,Cash on Delivery
+TXN100630,2025-08-05,Electronics,USB-C Hub,1,16809.0,16809.0,North,Cash on Delivery
+TXN100096,2025-02-05,Beauty & Personal Care,Face Wash 150ml,10,2659.0,26590.0,South,UPI
+TXN100467,2025-06-12,Beauty & Personal Care,Body Lotion 400ml,3,2129.0,6387.0,North,UPI
+TXN100866,2025-10-18,Home & Kitchen,Non-stick Kadai,6,5009.0,30054.0,South,Net Banking
+TXN100492,2025-06-19,Electronics,USB-C Hub,3,22379.0,67137.0,West,UPI
+TXN100166,2025-02-23,Electronics,Power Bank 20000mAh,4,9409.0,37636.0,South,UPI
+TXN101054,2025-11-19,Home & Kitchen,Pressure Cooker 5L,4,,35716.0,East,UPI
+TXN100701,2025-09-02,Home & Kitchen,Air Fryer 4L,2,4249.0,8498.0,North,UPI
+TXN100694,2025-08-31,Electronics,Smart Watch,4,2029.0,8116.0,South,Debit Card
+TXN100009,2025-01-03,Home & Kitchen,Water Purifier,8,2399.0,19192.0,West,Cash on Delivery
+TXN100604,2025-07-27,Electronics,Bluetooth Speaker,1,9159.0,9159.0,North,UPI
+TXN100315,2025-04-14,Home & Kitchen,Electric Kettle,8,4969.0,39752.0,North,UPI
+TXN100773,2025-09-28,Clothing,Winter Jacket,8,2399.0,19192.0,North,Credit Card
+TXN100361,2025-05-02,Beauty & Personal Care,Body Lotion 400ml,16,519.0,8304.0,North,Debit Card
+TXN100138,2025-02-16,Electronics,Wireless Earbuds,5,14379.0,71895.0,North,UPI
+TXN100823,2025-10-12,Home & Kitchen,Electric Kettle,1,8319.0,8319.0,South,UPI
+TXN100276,2025-03-30,Electronics,Bluetooth Speaker,11,3029.0,33319.0,North,UPI
+TXN100384,2025-05-10,Electronics,USB-C Hub,2,9079.0,18158.0,South,UPI
+TXN100568,2025-07-13,Home & Kitchen,Electric Kettle,10,1819.0,18190.0,Central,Credit Card
+TXN101074,2025-11-27,Beauty & Personal Care,Face Wash 150ml,7,2309.0,16163.0,East,UPI
+TXN100772,2025-09-28,Electronics,LED Monitor 24in,1,8389.0,8389.0,North,Cash on Delivery
+TXN100088,2025-02-02,Beauty & Personal Care,Lip Balm,2,1719.0,3438.0,North,UPI
+TXN100090,2025-02-02,Home & Kitchen,Electric Kettle,4,2809.0,11236.0,North,Cash on Delivery
+TXN100765,2025-09-26,Clothing,Silk Saree,6,2199.0,13194.0,East,UPI
+TXN100280,2025-04-03,Home & Kitchen,Water Purifier,9,4489.0,40401.0,West,UPI
+TXN100651,2025-08-14,Home & Kitchen,Air Fryer 4L,1,5549.0,5549.0,North,Net Banking
+TXN100460,2025-06-09,Home & Kitchen,Water Purifier,15,709.0,10635.0,East,Debit Card
+TXN100882,2025-10-20,Electronics,Smart Watch,5,8029.0,40145.0,East,Credit Card
+TXN100799,2025-10-05,Books & Stationery,Desk Organiser,12,,5628.0,West,Credit Card
+TXN100300,2025-04-09,Beauty & Personal Care,Perfume 100ml,7,1449.0,10143.0,West,Debit Card
+TXN100857,2025-10-17,Sports & Fitness,Skipping Rope,11,1259.0,13849.0,South,Debit Card
+TXN100202,2025-03-03,Books & Stationery,Desk Organiser,6,1059.0,6354.0,South,Cash on Delivery
+TXN100402,2025-05-15,Home & Kitchen,Mixer Grinder,5,7259.0,36295.0,East,UPI
+TXN100340,2025-04-26,Home & Kitchen,Non-stick Kadai,12,1939.0,23268.0,Central,UPI
+TXN100365,2025-05-04,Electronics,Smart Watch,1,21659.0,21659.0,East,UPI
+TXN100023,2025-01-07,Beauty & Personal Care,Lip Balm,15,239.0,3585.0,West,Net Banking
+TXN100345,2025-04-27,Clothing,Denim Jeans,9,3689.0,33201.0,South,Debit Card
+TXN100676,2025-08-24,Beauty & Personal Care,Body Lotion 400ml,10,2999.0,29990.0,Central,Debit Card
+TXN101171,2025-12-27,Home & Kitchen,Mixer Grinder,11,1859.0,20449.0,East,UPI
+TXN100334,2025-04-23,Clothing,Winter Jacket,12,509.0,6108.0,North,UPI
+TXN100310,2025-04-12,Electronics,Wireless Earbuds,3,21129.0,63387.0,North,Cash on Delivery
+TXN101150,2025-12-22,Clothing,Silk Saree,12,1069.0,12828.0,East,Debit Card
+TXN100640,2025-08-09,Beauty & Personal Care,Perfume 100ml,19,219.0,4161.0,North,Credit Card
+TXN100353,2025-04-30,Clothing,Formal Shirt,4,1989.0,7956.0,East,UPI
+TXN100735,2025-09-14,Clothing,Silk Saree,3,4209.0,12627.0,South,UPI
+TXN101182,2025-12-29,Books & Stationery,Exam Guide 2026,16,,13424.0,East,Net Banking
+TXN100240,2025-03-16,Clothing,Denim Jeans,10,4619.0,46190.0,West,Net Banking
+TXN100666,2025-08-19,Beauty & Personal Care,Body Lotion 400ml,4,2339.0,9356.0,South,Credit Card
+TXN100318,2025-04-15,Sports & Fitness,Skipping Rope,1,5259.0,5259.0,Central,Net Banking
+TXN101036,2025-11-12,Beauty & Personal Care,Face Wash 150ml,11,2359.0,25949.0,West,UPI
+TXN100262,2025-03-23,Clothing,Silk Saree,6,1069.0,6414.0,North,UPI
+TXN100098,2025-02-06,Beauty & Personal Care,Lip Balm,23,979.0,22517.0,West,Debit Card
+TXN100167,2025-02-24,Beauty & Personal Care,Lip Balm,24,219.0,5256.0,East,Debit Card
+TXN100496,2025-06-20,Beauty & Personal Care,Face Wash 150ml,3,1579.0,4737.0,South,UPI
+TXN100725,2025-09-10,Home & Kitchen,Water Purifier,3,4139.0,12417.0,West,Cash on Delivery
+TXN100275,2025-03-30,Clothing,Denim Jeans,5,5209.0,26045.0,North,Cash on Delivery
+TXN100089,2025-02-02,Clothing,Denim Jeans,4,4859.0,19436.0,Central,Net Banking
+TXN100714,2025-09-06,Clothing,Denim Jeans,11,419.0,4609.0,South,UPI
+TXN100515,2025-06-28,Clothing,Formal Shirt,18,839.0,15102.0,West,Cash on Delivery
+TXN100991,2025-11-03,Electronics,Power Bank 20000mAh,6,2229.0,13374.0,North,Cash on Delivery
+TXN100331,2025-04-22,Books & Stationery,Fiction Novel,17,559.0,9503.0,West,Credit Card
+TXN101067,2025-11-25,Electronics,Smart Watch,1,15169.0,15169.0,South,Debit Card
+TXN100433,2025-05-31,Home & Kitchen,Electric Kettle,5,6069.0,30345.0,North,Credit Card
+TXN101158,2025-12-24,Electronics,Wireless Earbuds,1,22789.0,22789.0,South,Debit Card
+TXN101028,2025-11-10,Sports & Fitness,Cycling Helmet,6,6199.0,37194.0,South,UPI
+TXN100486,2025-06-18,Electronics,LED Monitor 24in,3,15449.0,46347.0,South,Credit Card
+TXN100658,2025-08-17,Clothing,Winter Jacket,6,5979.0,35874.0,North,UPI
+TXN100909,2025-10-24,Electronics,Wireless Earbuds,1,23899.0,23899.0,Central,Cash on Delivery
+TXN100531,2025-07-03,Electronics,Smart Watch,5,11609.0,58045.0,West,UPI
+TXN100840,2025-10-14,Beauty & Personal Care,Hair Oil 200ml,3,1439.0,4317.0,North,Credit Card
+TXN101042,2025-11-15,Electronics,Smart Watch,5,11529.0,57645.0,Central,Credit Card
+TXN100260,2025-03-23,Electronics,Power Bank 20000mAh,3,23819.0,71457.0,West,UPI
+TXN100810,2025-10-09,Clothing,Sports T-shirt,1,1849.0,1849.0,West,Debit Card
+TXN100305,2025-04-11,Beauty & Personal Care,Lip Balm,20,609.0,12180.0,South,Cash on Delivery
+TXN100876,2025-10-19,Beauty & Personal Care,Body Lotion 400ml,5,1239.0,6195.0,West,Debit Card
+TXN101000,2025-11-04,Clothing,Formal Shirt,6,3529.0,21174.0,North,UPI
+TXN100702,2025-09-02,Beauty & Personal Care,Sunscreen SPF50,3,2199.0,6597.0,Central,Credit Card
+TXN100771,2025-09-28,Home & Kitchen,Pressure Cooker 5L,4,5259.0,21036.0,East,UPI
+TXN101141,2025-12-21,Sports & Fitness,Dumbbell Set 10kg,5,5719.0,28595.0,Central,UPI
+TXN100196,2025-03-02,Beauty & Personal Care,Sunscreen SPF50,12,2959.0,35508.0,North,Credit Card
+TXN100140,2025-02-17,Clothing,Silk Saree,1,5149.0,5149.0,North,Credit Card
+TXN100594,2025-07-23,Books & Stationery,Gel Pen Set,9,1199.0,10791.0,South,Debit Card
+TXN100122,2025-02-12,Electronics,Bluetooth Speaker,2,18879.0,37758.0,North,Net Banking
+TXN100494,2025-06-20,Home & Kitchen,Water Purifier,8,3159.0,25272.0,South,Debit Card
+TXN100821,2025-10-11,Clothing,Cotton Kurta,12,2049.0,24588.0,North,UPI
+TXN100110,2025-02-09,Clothing,Denim Jeans,2,5369.0,10738.0,West,UPI
+TXN100084,2025-02-01,Electronics,USB-C Hub,2,20479.0,40958.0,North,UPI
+TXN100944,2025-10-27,Clothing,Silk Saree,1,4579.0,4579.0,,Credit Card
+TXN100513,2025-06-28,Beauty & Personal Care,Lip Balm,7,1279.0,8953.0,West,Credit Card
+TXN100691,2025-08-31,Sports & Fitness,Cricket Bat,11,1019.0,11209.0,East,UPI
+TXN100482,2025-06-16,Clothing,Formal Shirt,4,3839.0,15356.0,West,Credit Card
+TXN101132,2025-12-16,Electronics,LED Monitor 24in,11,3229.0,35519.0,South,Credit Card
+TXN100997,2025-11-03,Beauty & Personal Care,Face Wash 150ml,9,1029.0,9261.0,East,Credit Card
+TXN100611,2025-07-29,Electronics,USB-C Hub,1,12269.0,12269.0,Central,UPI
+TXN100793,2025-10-03,Beauty & Personal Care,Body Lotion 400ml,5,2649.0,13245.0,North,UPI
+TXN100074,2025-01-24,Home & Kitchen,Non-stick Kadai,4,5279.0,21116.0,West,UPI
+TXN101184,2025-12-29,Home & Kitchen,Electric Kettle,1,8629.0,8629.0,,UPI
+TXN101031,2025-11-11,Clothing,Formal Shirt,2,5679.0,11358.0,South,Credit Card
+TXN100273,2025-03-30,Home & Kitchen,Non-stick Kadai,1,1529.0,1529.0,East,Cash on Delivery
+TXN100791,2025-10-03,Electronics,Smart Watch,1,15229.0,15229.0,South,UPI
+TXN100396,2025-05-12,Books & Stationery,Desk Organiser,8,629.0,5032.0,North,UPI
+TXN100154,2025-02-20,Home & Kitchen,Water Purifier,6,6779.0,40674.0,South,UPI
+TXN100151,2025-02-20,Books & Stationery,Gel Pen Set,15,169.0,2535.0,West,Credit Card
+TXN100191,2025-03-01,Sports & Fitness,Cricket Bat,2,2149.0,4298.0,South,UPI
+TXN100797,2025-10-04,Sports & Fitness,Dumbbell Set 10kg,1,3849.0,3849.0,West,Credit Card
+TXN101159,2025-12-24,Sports & Fitness,Cycling Helmet,9,2919.0,26271.0,West,Debit Card
+TXN100187,2025-02-28,Clothing,Winter Jacket,4,4729.0,18916.0,West,Net Banking
+TXN100050,2025-01-16,Sports & Fitness,Cycling Helmet,4,6089.0,24356.0,Central,UPI
+TXN100038,2025-01-13,Books & Stationery,Desk Organiser,22,209.0,4598.0,North,Net Banking
+TXN100418,2025-05-21,Home & Kitchen,Electric Kettle,5,5509.0,27545.0,South,Credit Card
+TXN101135,2025-12-19,Clothing,Winter Jacket,1,2239.0,2239.0,West,UPI
+TXN100208,2025-03-07,Home & Kitchen,Water Purifier,1,3759.0,3759.0,North,UPI
+TXN100375,2025-05-08,Sports & Fitness,Running Shoes,5,4389.0,21945.0,East,UPI
+TXN100463,2025-06-11,Beauty & Personal Care,Lip Balm,16,729.0,11664.0,East,Debit Card
+TXN100470,2025-06-12,Sports & Fitness,Running Shoes,7,2609.0,18263.0,South,UPI
+TXN100517,2025-06-28,Books & Stationery,Gel Pen Set,25,219.0,5475.0,South,Debit Card
+TXN100075,2025-01-25,Electronics,Bluetooth Speaker,3,21379.0,64137.0,Central,Net Banking
+TXN100910,2025-10-24,Electronics,LED Monitor 24in,2,19279.0,38558.0,West,UPI
+TXN100248,2025-03-20,Books & Stationery,Fiction Novel,5,309.0,1545.0,East,Credit Card
+TXN100559,2025-07-12,Electronics,LED Monitor 24in,1,11989.0,11989.0,South,UPI
+TXN100302,2025-04-10,Books & Stationery,Notebook Pack of 5,7,359.0,2513.0,North,Net Banking
+TXN100582,2025-07-19,Home & Kitchen,Electric Kettle,5,7099.0,35495.0,South,Debit Card
+TXN100899,2025-10-22,Home & Kitchen,Mixer Grinder,1,8179.0,8179.0,West,UPI
+TXN101038,2025-11-13,Electronics,Power Bank 20000mAh,4,8789.0,35156.0,,Credit Card
+TXN100335,2025-04-24,Electronics,Wireless Earbuds,2,10749.0,21498.0,East,UPI
+TXN100737,2025-09-15,Sports & Fitness,Skipping Rope,2,4959.0,9918.0,South,Cash on Delivery
+TXN100798,2025-10-05,Clothing,Denim Jeans,9,1089.0,9801.0,West,Cash on Delivery
+TXN100011,2025-01-03,Sports & Fitness,Cycling Helmet,5,5789.0,28945.0,East,Cash on Delivery
+TXN101002,2025-11-04,Electronics,Smart Watch,5,10289.0,51445.0,East,UPI
+TXN101195,2025-12-31,Electronics,Smart Watch,1,24359.0,24359.0,Central,UPI
+TXN100485,2025-06-18,Clothing,Silk Saree,11,4169.0,45859.0,East,UPI
+TXN100462,2025-06-11,Books & Stationery,Exam Guide 2026,9,1189.0,10701.0,Central,Cash on Delivery
+TXN100538,2025-07-05,Electronics,USB-C Hub,4,13479.0,53916.0,East,Cash on Delivery
+TXN100627,2025-08-03,Electronics,Bluetooth Speaker,1,1789.0,1789.0,South,Net Banking
+TXN100281,2025-04-04,Electronics,Smart Watch,4,6729.0,26916.0,West,
+TXN100253,2025-03-22,Beauty & Personal Care,Lip Balm,10,2139.0,21390.0,East,UPI
+TXN100707,2025-09-04,Beauty & Personal Care,Perfume 100ml,18,319.0,5742.0,North,Credit Card
+TXN101199,2025-12-31,Books & Stationery,Exam Guide 2026,2,1069.0,2138.0,West,Debit Card
+TXN101018,2025-11-09,Beauty & Personal Care,Lip Balm,12,3189.0,38268.0,Central,UPI
+TXN100223,2025-03-11,Home & Kitchen,Mixer Grinder,2,7039.0,14078.0,South,Cash on Delivery
+TXN100577,2025-07-17,Books & Stationery,Gel Pen Set,14,769.0,10766.0,North,UPI
+TXN100672,2025-08-23,Books & Stationery,Sketchbook A4,7,389.0,2723.0,West,UPI
+TXN100813,2025-10-10,Electronics,LED Monitor 24in,1,21899.0,21899.0,Central,Credit Card
+TXN100219,2025-03-09,Electronics,Wireless Earbuds,9,2229.0,20061.0,North,Debit Card
+TXN100425,2025-05-23,Sports & Fitness,Cycling Helmet,3,5989.0,17967.0,South,UPI
+TXN100369,2025-05-04,Books & Stationery,Gel Pen Set,13,799.0,10387.0,Central,UPI
+TXN101012,2025-11-07,Sports & Fitness,Cricket Bat,5,659.0,3295.0,West,Credit Card
+TXN100069,2025-01-21,Home & Kitchen,Air Fryer 4L,2,6939.0,13878.0,South,UPI
+TXN101198,2025-12-31,Clothing,Formal Shirt,4,3499.0,13996.0,South,Debit Card
+TXN100580,2025-07-18,Home & Kitchen,Electric Kettle,4,5349.0,21396.0,South,Cash on Delivery
+TXN100021,2025-01-06,Books & Stationery,Gel Pen Set,16,829.0,13264.0,North,Cash on Delivery
+TXN100077,2025-01-26,Books & Stationery,Fiction Novel,10,699.0,6990.0,South,UPI
+TXN100547,2025-07-08,Home & Kitchen,Non-stick Kadai,3,6089.0,18267.0,South,UPI
+TXN100830,2025-10-12,Sports & Fitness,Cricket Bat,10,4709.0,47090.0,East,Cash on Delivery
+TXN100748,2025-09-20,Sports & Fitness,Cricket Bat,1,4289.0,4289.0,Central,Credit Card
+TXN100405,2025-05-16,Sports & Fitness,Cycling Helmet,9,1609.0,14481.0,,Credit Card
+TXN101065,2025-11-24,Books & Stationery,Gel Pen Set,9,109.0,981.0,South,UPI
+TXN100826,2025-10-12,Beauty & Personal Care,Hair Oil 200ml,19,979.0,18601.0,North,UPI
+TXN100125,2025-02-13,Electronics,Smart Watch,4,12659.0,50636.0,Central,Credit Card
+TXN100228,2025-03-12,Electronics,LED Monitor 24in,1,18519.0,18519.0,South,
+TXN100757,2025-09-22,Home & Kitchen,Electric Kettle,8,2269.0,18152.0,Central,UPI
+TXN100042,2025-01-13,Sports & Fitness,Yoga Mat 6mm,6,5939.0,35634.0,Central,UPI
+TXN100516,2025-06-28,Electronics,Smart Watch,3,23399.0,70197.0,North,Credit Card
+TXN100889,2025-10-21,Electronics,LED Monitor 24in,7,3129.0,21903.0,South,UPI
+TXN100936,2025-10-26,Home & Kitchen,Mixer Grinder,2,7219.0,14438.0,Central,Credit Card
+TXN100908,2025-10-23,Beauty & Personal Care,Face Wash 150ml,8,2789.0,22312.0,West,Debit Card
+TXN100572,2025-07-15,Books & Stationery,Desk Organiser,18,259.0,4662.0,East,UPI
+TXN100576,2025-07-17,Home & Kitchen,Non-stick Kadai,2,6749.0,13498.0,South,Credit Card
+TXN101080,2025-11-28,Electronics,USB-C Hub,1,7669.0,7669.0,North,Debit Card
+TXN100621,2025-08-02,Electronics,Smart Watch,4,9389.0,37556.0,Central,Credit Card
+TXN100767,2025-09-27,Electronics,Smart Watch,6,5719.0,34314.0,West,Debit Card
+TXN100743,2025-09-19,Sports & Fitness,Cricket Bat,9,4779.0,43011.0,Central,UPI
+TXN100374,2025-05-07,Electronics,Power Bank 20000mAh,3,20619.0,61857.0,West,Net Banking
+TXN100205,2025-03-04,Electronics,Smart Watch,9,2799.0,25191.0,North,Debit Card
+TXN100316,2025-04-14,Electronics,LED Monitor 24in,1,16379.0,16379.0,South,UPI
+TXN100668,2025-08-21,Electronics,Bluetooth Speaker,1,24749.0,24749.0,South,UPI
+TXN100966,2025-10-29,Home & Kitchen,Pressure Cooker 5L,6,1729.0,10374.0,North,Cash on Delivery
+TXN100006,2025-01-02,Electronics,Smart Watch,4,5849.0,23396.0,,UPI
+TXN101091,2025-12-03,Home & Kitchen,Pressure Cooker 5L,4,8659.0,34636.0,West,UPI
+TXN100802,2025-10-06,Home & Kitchen,Water Purifier,2,8689.0,17378.0,Central,UPI
+TXN101020,2025-11-09,Electronics,USB-C Hub,3,13609.0,40827.0,North,Debit Card
+TXN100844,2025-10-15,Home & Kitchen,Water Purifier,3,7219.0,21657.0,North,Cash on Delivery
+TXN100493,2025-06-19,Home & Kitchen,Non-stick Kadai,3,1769.0,5307.0,South,Credit Card
+TXN100919,2025-10-25,Clothing,Sports T-shirt,4,5479.0,21916.0,East,UPI
+TXN101013,2025-11-07,Sports & Fitness,Dumbbell Set 10kg,1,5669.0,5669.0,North,UPI
+TXN100500,2025-06-21,Sports & Fitness,Yoga Mat 6mm,3,4149.0,12447.0,West,UPI
+TXN101189,2025-12-30,Beauty & Personal Care,Face Wash 150ml,5,2709.0,13545.0,West,Credit Card
+TXN101037,2025-11-13,Sports & Fitness,Running Shoes,4,1159.0,4636.0,,UPI
+TXN100933,2025-10-26,Home & Kitchen,Non-stick Kadai,5,6639.0,33195.0,North,UPI
+TXN100259,2025-03-23,Clothing,Winter Jacket,7,1589.0,11123.0,West,Credit Card
+TXN100282,2025-04-04,Sports & Fitness,Cycling Helmet,10,3599.0,35990.0,West,UPI
+TXN100979,2025-11-01,Home & Kitchen,Non-stick Kadai,1,,5159.0,East,UPI
+TXN100634,2025-08-08,Home & Kitchen,Water Purifier,2,4949.0,9898.0,North,Credit Card
+TXN100590,2025-07-22,Electronics,Smart Watch,4,11629.0,46516.0,South,Credit Card
+TXN100160,2025-02-22,Sports & Fitness,Yoga Mat 6mm,3,6679.0,20037.0,East,
+TXN100949,2025-10-28,Home & Kitchen,Mixer Grinder,1,6239.0,6239.0,South,Debit Card
+TXN100474,2025-06-14,Beauty & Personal Care,Lip Balm,2,1179.0,2358.0,South,UPI
+TXN100455,2025-06-07,Home & Kitchen,Air Fryer 4L,5,8249.0,41245.0,Central,Credit Card
+TXN100320,2025-04-16,Books & Stationery,Notebook Pack of 5,13,149.0,1937.0,East,UPI
+TXN100786,2025-10-01,Home & Kitchen,Water Purifier,3,2519.0,7557.0,South,Net Banking
+TXN100434,2025-05-31,Sports & Fitness,Running Shoes,1,6029.0,6029.0,North,Credit Card
+TXN100663,2025-08-18,Home & Kitchen,Electric Kettle,6,3179.0,19074.0,West,UPI
+TXN101166,2025-12-26,Electronics,Power Bank 20000mAh,2,6199.0,12398.0,North,UPI
+TXN100299,2025-04-09,Electronics,LED Monitor 24in,10,1969.0,19690.0,South,Net Banking
+TXN100436,2025-05-31,Home & Kitchen,Pressure Cooker 5L,6,8359.0,50154.0,East,UPI
+TXN101101,2025-12-07,Clothing,Formal Shirt,3,3379.0,10137.0,East,UPI
+TXN100438,2025-05-31,Electronics,Smart Watch,3,24379.0,73137.0,North,Debit Card
+TXN100325,2025-04-19,Beauty & Personal Care,Face Wash 150ml,13,889.0,11557.0,West,Debit Card
+TXN100403,2025-05-15,Beauty & Personal Care,Hair Oil 200ml,10,189.0,1890.0,South,UPI
+TXN100564,2025-07-13,Electronics,USB-C Hub,2,8689.0,17378.0,Central,Debit Card
+TXN100292,2025-04-07,Sports & Fitness,Skipping Rope,5,2939.0,14695.0,North,Credit Card
+TXN100278,2025-04-02,Beauty & Personal Care,Body Lotion 400ml,11,2339.0,25729.0,North,UPI
+TXN100655,2025-08-17,Clothing,Formal Shirt,7,1729.0,12103.0,West,Cash on Delivery
+TXN100732,2025-09-13,Clothing,Cotton Kurta,11,1919.0,21109.0,West,Debit Card
+TXN100553,2025-07-10,Electronics,Smart Watch,6,4959.0,29754.0,South,UPI
+TXN100094,2025-02-05,Home & Kitchen,Pressure Cooker 5L,4,7009.0,28036.0,North,Debit Card
+TXN101142,2025-12-21,Beauty & Personal Care,Hair Oil 200ml,8,2379.0,19032.0,West,Debit Card
+TXN100245,2025-03-18,Beauty & Personal Care,Face Wash 150ml,1,2469.0,2469.0,East,Debit Card
+TXN100945,2025-10-27,Electronics,Power Bank 20000mAh,3,20649.0,61947.0,West,UPI
+TXN100775,2025-09-28,Electronics,Smart Watch,6,4759.0,28554.0,South,Debit Card
+TXN100426,2025-05-23,Books & Stationery,Fiction Novel,8,109.0,872.0,North,UPI
+TXN100149,2025-02-19,Books & Stationery,Fiction Novel,3,1119.0,3357.0,North,Cash on Delivery
+TXN100226,2025-03-11,Clothing,Cotton Kurta,3,5029.0,15087.0,North,UPI
+TXN100865,2025-10-18,Sports & Fitness,Cycling Helmet,4,1629.0,6516.0,Central,Net Banking
+TXN100967,2025-10-29,Sports & Fitness,Cricket Bat,11,2209.0,24299.0,North,UPI
+TXN100900,2025-10-23,Sports & Fitness,Yoga Mat 6mm,4,719.0,2876.0,West,Credit Card
+TXN100699,2025-09-02,Beauty & Personal Care,Sunscreen SPF50,5,1749.0,8745.0,East,Debit Card
+TXN100601,2025-07-26,Beauty & Personal Care,Hair Oil 200ml,6,359.0,2154.0,South,UPI
+TXN100217,2025-03-08,Electronics,Smart Watch,3,19389.0,58167.0,North,UPI
+TXN100817,2025-10-10,Electronics,Bluetooth Speaker,5,14399.0,71995.0,South,Credit Card
+TXN100220,2025-03-09,Books & Stationery,Gel Pen Set,20,609.0,12180.0,South,UPI
+TXN100213,2025-03-08,Electronics,LED Monitor 24in,5,13279.0,66395.0,West,Net Banking
+TXN101123,2025-12-14,Electronics,LED Monitor 24in,4,5719.0,22876.0,North,Cash on Delivery
+TXN100907,2025-10-23,Books & Stationery,Sketchbook A4,16,829.0,13264.0,Central,UPI
+TXN100394,2025-05-12,Books & Stationery,Exam Guide 2026,18,879.0,15822.0,Central,Debit Card
+TXN100367,2025-05-04,Beauty & Personal Care,Perfume 100ml,16,169.0,2704.0,North,Credit Card
+TXN100924,2025-10-25,Beauty & Personal Care,Hair Oil 200ml,11,2569.0,28259.0,North,UPI
+TXN100012,2025-01-04,Electronics,Bluetooth Speaker,3,8909.0,26727.0,Central,Credit Card
+TXN101116,2025-12-11,Home & Kitchen,Pressure Cooker 5L,3,5819.0,17457.0,North,Debit Card
+TXN100234,2025-03-14,Clothing,Formal Shirt,4,2109.0,8436.0,North,UPI
+TXN100695,2025-09-01,Electronics,Wireless Earbuds,2,4349.0,8698.0,North,Net Banking
+TXN101134,2025-12-19,Beauty & Personal Care,Sunscreen SPF50,7,1619.0,11333.0,South,UPI
+TXN101069,2025-11-25,Sports & Fitness,Cycling Helmet,1,4049.0,4049.0,,UPI
+TXN100063,2025-01-19,Home & Kitchen,Electric Kettle,1,8639.0,8639.0,North,UPI
+TXN100734,2025-09-14,Home & Kitchen,Electric Kettle,2,6479.0,12958.0,East,Credit Card
+TXN101023,2025-11-09,Clothing,Cotton Kurta,7,4359.0,30513.0,South,Credit Card
+TXN100964,2025-10-29,Books & Stationery,Exam Guide 2026,23,229.0,5267.0,West,Net Banking
+TXN100607,2025-07-28,Electronics,Smart Watch,2,21859.0,43718.0,East,Debit Card
+TXN100013,2025-01-04,Sports & Fitness,Cycling Helmet,2,6859.0,13718.0,South,Credit Card
+TXN100839,2025-10-14,Home & Kitchen,Mixer Grinder,4,,13596.0,West,UPI
+TXN100435,2025-05-31,Home & Kitchen,Electric Kettle,1,8299.0,8299.0,South,Cash on Delivery
+TXN100017,2025-01-05,Books & Stationery,Desk Organiser,11,449.0,4939.0,South,Credit Card
+TXN100764,2025-09-26,Sports & Fitness,Cricket Bat,6,6189.0,37134.0,East,Credit Card
+TXN100348,2025-04-28,Books & Stationery,Sketchbook A4,7,989.0,6923.0,North,UPI
+TXN100207,2025-03-06,Sports & Fitness,Cricket Bat,2,2449.0,4898.0,,Credit Card
+TXN100341,2025-04-26,Clothing,Denim Jeans,25,719.0,17975.0,Central,Credit Card
+TXN100344,2025-04-27,Books & Stationery,Exam Guide 2026,2,,518.0,West,UPI
+TXN101082,2025-11-30,Beauty & Personal Care,Sunscreen SPF50,4,1859.0,7436.0,North,Cash on Delivery
+TXN101110,2025-12-09,Electronics,Smart Watch,1,19699.0,19699.0,Central,UPI
+TXN100551,2025-07-09,Clothing,Denim Jeans,6,,34194.0,North,UPI
+TXN100598,2025-07-24,Electronics,Smart Watch,5,14349.0,71745.0,West,UPI
+TXN100032,2025-01-11,Beauty & Personal Care,Face Wash 150ml,5,2219.0,11095.0,North,Credit Card
+TXN100372,2025-05-05,Clothing,Silk Saree,6,1769.0,10614.0,West,UPI
+TXN100657,2025-08-17,Home & Kitchen,Mixer Grinder,10,1629.0,16290.0,South,Credit Card
+TXN100172,2025-02-25,Books & Stationery,Sketchbook A4,8,639.0,5112.0,North,UPI
+TXN101086,2025-12-01,Beauty & Personal Care,Body Lotion 400ml,1,3099.0,3099.0,East,Debit Card
+TXN100408,2025-05-17,Sports & Fitness,Cycling Helmet,4,6459.0,25836.0,South,UPI
+TXN101050,2025-11-19,Home & Kitchen,Pressure Cooker 5L,4,4769.0,19076.0,North,Debit Card
+TXN101153,2025-12-22,Clothing,Denim Jeans,7,1369.0,9583.0,East,Credit Card
+TXN100200,2025-03-03,Electronics,Smart Watch,3,22489.0,67467.0,North,UPI
+TXN100860,2025-10-18,Electronics,Power Bank 20000mAh,7,3879.0,27153.0,East,Net Banking
+TXN101128,2025-12-14,Beauty & Personal Care,Body Lotion 400ml,12,2569.0,30828.0,South,Credit Card
+TXN101111,2025-12-10,Electronics,Smart Watch,3,22269.0,66807.0,South,UPI
+TXN101138,2025-12-20,Clothing,Formal Shirt,9,759.0,6831.0,North,UPI
+TXN100489,2025-06-18,Beauty & Personal Care,Hair Oil 200ml,5,1449.0,7245.0,North,Net Banking
+TXN101136,2025-12-19,Electronics,USB-C Hub,4,10669.0,42676.0,West,Cash on Delivery
+TXN100212,2025-03-08,Beauty & Personal Care,Body Lotion 400ml,12,1689.0,20268.0,North,Credit Card
+TXN100133,2025-02-15,Sports & Fitness,Cricket Bat,12,1669.0,20028.0,East,Net Banking
+TXN100060,2025-01-19,Beauty & Personal Care,Lip Balm,12,1389.0,16668.0,South,Net Banking
+TXN100690,2025-08-30,Sports & Fitness,Running Shoes,10,1149.0,11490.0,North,UPI
+TXN100026,2025-01-07,Beauty & Personal Care,Face Wash 150ml,6,1949.0,11694.0,Central,Cash on Delivery
+TXN100100,2025-02-07,Sports & Fitness,Yoga Mat 6mm,12,2659.0,31908.0,East,Credit Card
+TXN100974,2025-10-31,Sports & Fitness,Yoga Mat 6mm,3,389.0,1167.0,North,Net Banking
+TXN100776,2025-09-28,Electronics,Smart Watch,4,11119.0,44476.0,North,Cash on Delivery
+TXN100788,2025-10-02,Clothing,Cotton Kurta,7,2189.0,15323.0,Central,UPI
+TXN100520,2025-06-29,Electronics,Bluetooth Speaker,2,8629.0,17258.0,North,UPI
+TXN100363,2025-05-03,Beauty & Personal Care,Perfume 100ml,24,459.0,11016.0,South,UPI
+TXN100309,2025-04-12,Beauty & Personal Care,Hair Oil 200ml,6,779.0,4674.0,South,UPI
+TXN100795,2025-10-04,Electronics,Bluetooth Speaker,3,1299.0,3897.0,South,Credit Card
+TXN100828,2025-10-12,Home & Kitchen,Air Fryer 4L,1,7909.0,7909.0,East,UPI
+TXN100544,2025-07-07,Electronics,USB-C Hub,6,9429.0,56574.0,Central,UPI
+TXN100939,2025-10-26,Beauty & Personal Care,Hair Oil 200ml,2,2969.0,5938.0,East,UPI
+TXN100441,2025-06-02,Sports & Fitness,Cricket Bat,7,1989.0,13923.0,South,UPI
+TXN100647,2025-08-12,Clothing,Silk Saree,10,1719.0,17190.0,,UPI
+TXN101003,2025-11-04,Electronics,Power Bank 20000mAh,2,17759.0,35518.0,North,UPI
+TXN100476,2025-06-14,Beauty & Personal Care,Body Lotion 400ml,10,1499.0,14990.0,West,Cash on Delivery
+TXN101046,2025-11-16,Home & Kitchen,Electric Kettle,6,1609.0,9654.0,Central,Credit Card
+TXN100062,2025-01-19,Electronics,Smart Watch,1,16119.0,16119.0,West,Cash on Delivery
+TXN100483,2025-06-16,Beauty & Personal Care,Sunscreen SPF50,10,689.0,6890.0,South,Cash on Delivery
+TXN101026,2025-11-10,Home & Kitchen,Pressure Cooker 5L,-12,4929.0,-59148.0,South,Debit Card
+TXN100052,2025-01-17,Beauty & Personal Care,Face Wash 150ml,14,759.0,10626.0,South,Debit Card
+TXN100242,2025-03-17,Beauty & Personal Care,Lip Balm,12,1549.0,18588.0,East,Credit Card
+TXN100035,2025-01-11,Electronics,Power Bank 20000mAh,2,,43878.0,East,UPI
+TXN100738,2025-09-15,Electronics,USB-C Hub,-2,11719.0,-23438.0,North,Debit Card
+TXN100120,2025-02-11,Clothing,Cotton Kurta,8,1159.0,9272.0,West,Debit Card
+TXN101161,2025-12-25,Home & Kitchen,Water Purifier,10,1149.0,11490.0,North,Credit Card
+TXN101019,2025-11-09,Beauty & Personal Care,Hair Oil 200ml,10,2309.0,23090.0,North,Cash on Delivery
+TXN100044,2025-01-15,Beauty & Personal Care,Perfume 100ml,6,1679.0,10074.0,South,UPI
+TXN100836,2025-10-13,Electronics,LED Monitor 24in,3,19849.0,59547.0,North,
+TXN100076,2025-01-25,Sports & Fitness,Yoga Mat 6mm,4,2989.0,11956.0,North,Credit Card
+TXN100368,2025-05-04,Home & Kitchen,Mixer Grinder,6,7049.0,42294.0,South,Debit Card
+TXN100906,2025-10-23,Home & Kitchen,Electric Kettle,6,6349.0,38094.0,West,UPI
+TXN100267,2025-03-26,Clothing,Denim Jeans,10,2509.0,25090.0,North,Credit Card
+TXN100728,2025-09-11,Sports & Fitness,Cricket Bat,6,2139.0,12834.0,South,UPI
+TXN100444,2025-06-02,Sports & Fitness,Cricket Bat,5,4719.0,23595.0,South,UPI
+TXN100503,2025-06-22,Sports & Fitness,Cricket Bat,5,5669.0,28345.0,Central,Credit Card
+TXN101057,2025-11-21,Sports & Fitness,Cycling Helmet,4,4719.0,18876.0,North,Cash on Delivery
+TXN101033,2025-11-12,Home & Kitchen,Electric Kettle,6,2409.0,14454.0,East,Debit Card
+TXN100285,2025-04-05,Home & Kitchen,Air Fryer 4L,7,3539.0,24773.0,South,UPI
+TXN100295,2025-04-08,Clothing,Cotton Kurta,6,4979.0,29874.0,West,UPI
+TXN100625,2025-08-03,Clothing,Denim Jeans,1,4549.0,4549.0,West,Cash on Delivery
+TXN100277,2025-03-31,Home & Kitchen,Water Purifier,5,2079.0,10395.0,South,UPI
+TXN101154,2025-12-22,Beauty & Personal Care,Lip Balm,10,979.0,9790.0,Central,Credit Card
+TXN100484,2025-06-17,Clothing,Denim Jeans,4,2929.0,11716.0,West,Debit Card
+TXN100182,2025-02-27,Clothing,Silk Saree,7,1399.0,9793.0,East,UPI
+TXN100970,2025-10-30,Home & Kitchen,Pressure Cooker 5L,4,7749.0,30996.0,North,UPI
+TXN101181,2025-12-28,Electronics,USB-C Hub,4,14719.0,58876.0,South,
+TXN100684,2025-08-28,Electronics,Power Bank 20000mAh,3,16399.0,49197.0,West,UPI
+TXN101191,2025-12-30,Beauty & Personal Care,Sunscreen SPF50,11,3349.0,36839.0,North,UPI
+TXN100036,2025-01-11,Home & Kitchen,Non-stick Kadai,1,5139.0,5139.0,Central,Cash on Delivery
+TXN100002,2025-01-01,Beauty & Personal Care,Face Wash 150ml,10,2029.0,20290.0,South,UPI
+TXN100754,2025-09-21,Clothing,Silk Saree,1,2179.0,2179.0,West,Credit Card
+TXN100508,2025-06-24,Electronics,Smart Watch,1,21579.0,21579.0,South,UPI
+TXN100497,2025-06-21,Electronics,Power Bank 20000mAh,2,23859.0,47718.0,East,UPI
+TXN100308,2025-04-12,Electronics,Bluetooth Speaker,6,5359.0,32154.0,West,UPI
+TXN100141,2025-02-17,Home & Kitchen,Air Fryer 4L,6,1299.0,7794.0,West,Cash on Delivery
+TXN100864,2025-10-18,Home & Kitchen,Mixer Grinder,3,4259.0,12777.0,West,UPI
+TXN100183,2025-02-27,Books & Stationery,Exam Guide 2026,8,119.0,952.0,North,UPI
+TXN101173,2025-12-27,Sports & Fitness,Cycling Helmet,5,6649.0,33245.0,South,Debit Card
+TXN101010,2025-11-06,Sports & Fitness,Dumbbell Set 10kg,3,3179.0,9537.0,South,Cash on Delivery
+TXN100912,2025-10-24,Electronics,Bluetooth Speaker,3,18919.0,56757.0,Central,Credit Card
+TXN100848,2025-10-16,Electronics,Smart Watch,3,20689.0,62067.0,West,Cash on Delivery
+TXN100511,2025-06-25,Home & Kitchen,Non-stick Kadai,4,3009.0,12036.0,Central,UPI
+TXN100731,2025-09-13,Books & Stationery,Exam Guide 2026,13,789.0,10257.0,North,UPI
+TXN100996,2025-11-03,Electronics,USB-C Hub,2,20509.0,41018.0,West,UPI
+TXN100887,2025-10-21,Beauty & Personal Care,Body Lotion 400ml,4,2529.0,10116.0,North,Credit Card
+TXN100117,2025-02-11,Sports & Fitness,Skipping Rope,4,4899.0,19596.0,West,UPI
+TXN101025,2025-11-09,Electronics,USB-C Hub,6,14979.0,89874.0,South,UPI
+TXN100113,2025-02-09,Electronics,Wireless Earbuds,12,2959.0,35508.0,North,Net Banking
+TXN100545,2025-07-07,Clothing,Denim Jeans,4,5039.0,20156.0,North,Cash on Delivery
+TXN100165,2025-02-23,Home & Kitchen,Air Fryer 4L,10,3839.0,38390.0,East,Credit Card
+TXN100184,2025-02-27,Home & Kitchen,Air Fryer 4L,1,3019.0,3019.0,North,UPI
+TXN100274,2025-03-30,Electronics,Power Bank 20000mAh,2,19069.0,38138.0,West,Credit Card
+TXN101001,2025-11-04,Beauty & Personal Care,Sunscreen SPF50,5,1119.0,5595.0,North,Net Banking
+TXN100704,2025-09-03,Home & Kitchen,Mixer Grinder,7,2919.0,20433.0,East,UPI
+TXN101024,2025-11-09,Electronics,Bluetooth Speaker,2,21789.0,43578.0,North,Credit Card
+TXN100383,2025-05-10,Clothing,Cotton Kurta,2,4169.0,8338.0,North,UPI
+TXN100561,2025-07-12,Electronics,Wireless Earbuds,6,4829.0,28974.0,North,Credit Card
+TXN100862,2025-10-18,Electronics,Power Bank 20000mAh,4,12339.0,49356.0,South,UPI
+TXN101044,2025-11-15,Home & Kitchen,Electric Kettle,4,6259.0,25036.0,West,UPI
+TXN100176,2025-02-25,Home & Kitchen,Electric Kettle,2,6339.0,12678.0,North,Debit Card
+TXN100379,2025-05-09,Electronics,Bluetooth Speaker,1,10489.0,10489.0,North,UPI
+TXN101016,2025-11-08,Beauty & Personal Care,Perfume 100ml,4,1449.0,5796.0,North,
+TXN100519,2025-06-29,Clothing,Sports T-shirt,8,4759.0,38072.0,South,UPI
+TXN100830,2025-10-12,Sports & Fitness,Cricket Bat,10,4709.0,47090.0,East,Cash on Delivery
+TXN100507,2025-06-23,Books & Stationery,Gel Pen Set,8,889.0,7112.0,West,Credit Card
+TXN101176,2025-12-28,Sports & Fitness,Dumbbell Set 10kg,6,5629.0,33774.0,North,Credit Card
+TXN100413,2025-05-19,Electronics,Smart Watch,1,19369.0,19369.0,Central,UPI
+TXN100622,2025-08-02,Clothing,Winter Jacket,10,1849.0,18490.0,West,UPI
+TXN100872,2025-10-19,Books & Stationery,Gel Pen Set,10,189.0,1890.0,North,Cash on Delivery
+TXN100858,2025-10-17,Home & Kitchen,Water Purifier,8,2669.0,21352.0,South,Net Banking
+TXN100641,2025-08-09,Clothing,Sports T-shirt,12,2499.0,29988.0,West,UPI
+TXN100258,2025-03-23,Books & Stationery,Gel Pen Set,11,139.0,1529.0,Central,Cash on Delivery
+TXN100834,2025-10-13,Electronics,Smart Watch,12,1919.0,23028.0,East,Debit Card
+TXN100662,2025-08-18,Clothing,Silk Saree,4,5309.0,21236.0,North,UPI
+TXN100337,2025-04-24,Electronics,Smart Watch,1,23599.0,23599.0,North,UPI
+TXN100398,2025-05-13,Electronics,Power Bank 20000mAh,1,14369.0,14369.0,West,Debit Card
+TXN100605,2025-07-28,Sports & Fitness,Skipping Rope,8,1479.0,11832.0,East,
+TXN100480,2025-06-15,Home & Kitchen,Mixer Grinder,2,4859.0,9718.0,North,Cash on Delivery
+TXN101143,2025-12-21,Sports & Fitness,Cycling Helmet,5,4679.0,23395.0,South,Credit Card
+TXN100917,2025-10-25,Beauty & Personal Care,Perfume 100ml,11,2879.0,31669.0,West,Credit Card
+TXN101017,2025-11-08,Clothing,Silk Saree,4,5819.0,23276.0,South,Cash on Delivery
+TXN100875,2025-10-19,Electronics,Wireless Earbuds,3,17309.0,51927.0,West,Debit Card
+TXN100659,2025-08-18,Home & Kitchen,Water Purifier,6,4799.0,28794.0,West,Debit Card
+TXN101021,2025-11-09,Electronics,Wireless Earbuds,3,21399.0,64197.0,South,Debit Card
+TXN100789,2025-10-03,Sports & Fitness,Yoga Mat 6mm,11,3539.0,38929.0,West,UPI
+TXN100256,2025-03-23,Clothing,Winter Jacket,7,989.0,6923.0,South,Net Banking
+TXN100968,2025-10-29,Home & Kitchen,Air Fryer 4L,1,7169.0,7169.0,Central,Credit Card
+TXN100952,2025-10-28,Electronics,Wireless Earbuds,1,13039.0,13039.0,South,Debit Card
